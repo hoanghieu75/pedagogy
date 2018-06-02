@@ -1,0 +1,931 @@
+[
+  {
+    "id": 20,
+    "name": "Hà Nội",
+    "img": "b.Hà Nội",
+    "vocabulary": {
+      "learn": 124,
+      "total": 568
+    },
+    "grammar": {
+      "learn": 21,
+      "total": 96
+    },
+    "phonetic": {
+      "learn": 3,
+      "total": 14
+    },
+    "total": {
+      "learn": 21,
+      "total": 98
+    },
+    "listen": "- Số câu nghe hiểu được trong 1 đoạn hội thoại hoặc hội thoại: 0/3 đến 1/3 câu đơn\n- Số từ/câu: 3 đến 5\n- Số từ khó/câu: 1\n- Tốc độ nói/câu: chậm, 3s đến 5s/câu",
+    "speak": "- Số câu/lần nói: 1 câu đơn\n- Số từ/câu: 3 đến 5\n- Số từ khó/câu: 1\n- Tốc độ nói/câu: 3s đến 5s/câu\n- Số lần ngắt nghỉ/câu: không quá 3",
+    "reflex": "10s"
+  },
+  {
+    "id": 21,
+    "name": "Huế",
+    "img": "b.Huế",
+    "vocabulary": {
+      "learn": 126,
+      "total": 568
+    },
+    "grammar": {
+      "learn": 19,
+      "total": 96
+    },
+    "phonetic": {
+      "learn": 3,
+      "total": 14
+    },
+    "total": {
+      "learn": 21,
+      "total": 98
+    }
+  },
+  {
+    "id": 22,
+    "name": "Quảng Nam",
+    "img": "b.Quảng Nam",
+    "vocabulary": {
+      "learn": 42,
+      "total": 568
+    },
+    "grammar": {
+      "learn": 7,
+      "total": 96
+    },
+    "phonetic": {
+      "learn": 1,
+      "total": 14
+    },
+    "total": {
+      "learn": 7,
+      "total": 98
+    }
+  },
+  {
+    "id": 23,
+    "name": "Đà Nẵng",
+    "img": "b.Đà Nẵng",
+    "vocabulary": {
+      "learn": 126,
+      "total": 568
+    },
+    "grammar": {
+      "learn": 21,
+      "total": 96
+    },
+    "phonetic": {
+      "learn": 3,
+      "total": 14
+    },
+    "total": {
+      "learn": 21,
+      "total": 98
+    }
+  },
+  {
+    "id": 24,
+    "name": "TP. Hồ Chí Minh",
+    "img": "b.TP. Hồ Chí Minh",
+    "vocabulary": {
+      "learn": 165,
+      "total": 568
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 96
+    },
+    "phonetic": {
+      "learn": 4,
+      "total": 14
+    },
+    "total": {
+      "learn": 28,
+      "total": 98
+    }
+  },
+  {
+    "id": 27,
+    "name": "Seoul",
+    "img": "b.Seoul",
+    "vocabulary": {
+      "learn": 154,
+      "total": 1724
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 364
+    },
+    "phonetic": {
+      "learn": 19,
+      "total": 74
+    },
+    "total": {
+      "learn": 28,
+      "total": 364
+    },
+    "listen": "- Số câu nghe hiểu được trong 1 đoạn hội thoại hoặc hội thoại: 2/3 câu đơn\n- Số từ/câu: 5 đến 7\n- Số từ khó/câu: 1 đến 2\n- Tốc độ nói/câu: chậm, 5s đến 7s/câu",
+    "speak": "- Số câu/lần nói: 2 đến 3 câu đơn\n- Số từ/câu: 5 đến 7\n- Số từ khó/câu: 1 đến 2\n- Tốc độ nói/câu: 5 đến 7s/câu\n- Số lần ngắt nghỉ/câu: không quá 2",
+    "reflex": "7s"
+  },
+  {
+    "id": 28,
+    "name": "Busan",
+    "img": "b.Busan",
+    "vocabulary": {
+      "learn": 161,
+      "total": 1724
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 364
+    },
+    "phonetic": {
+      "learn": 19,
+      "total": 74
+    },
+    "total": {
+      "learn": 28,
+      "total": 364
+    }
+  },
+  {
+    "id": 29,
+    "name": "Incheon",
+    "img": "b.Incheon",
+    "vocabulary": {
+      "learn": 165,
+      "total": 1724
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 364
+    },
+    "phonetic": {
+      "learn": 18,
+      "total": 74
+    },
+    "total": {
+      "learn": 28,
+      "total": 364
+    }
+  },
+  {
+    "id": 30,
+    "name": "Daejeon",
+    "img": "b.Daejeon",
+    "vocabulary": {
+      "learn": 160,
+      "total": 1724
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 364
+    },
+    "phonetic": {
+      "learn": 22,
+      "total": 74
+    },
+    "total": {
+      "learn": 28,
+      "total": 364
+    }
+  },
+  {
+    "id": 34,
+    "name": "Kuala Lumpur",
+    "img": "b.Kuala Lumpur",
+    "vocabulary": {
+      "learn": 162,
+      "total": 1724
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 364
+    },
+    "phonetic": {
+      "learn": 20,
+      "total": 74
+    },
+    "total": {
+      "learn": 28,
+      "total": 364
+    }
+  },
+  {
+    "id": 35,
+    "name": "George Town",
+    "img": "b.George Town",
+    "vocabulary": {
+      "learn": 169,
+      "total": 1724
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 364
+    },
+    "phonetic": {
+      "learn": 20,
+      "total": 74
+    },
+    "total": {
+      "learn": 28,
+      "total": 364
+    }
+  },
+  {
+    "id": 36,
+    "name": "Kuching",
+    "img": "b.Kuching",
+    "vocabulary": {
+      "learn": 164,
+      "total": 1724
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 364
+    },
+    "phonetic": {
+      "learn": 18,
+      "total": 74
+    },
+    "total": {
+      "learn": 28,
+      "total": 364
+    }
+  },
+  {
+    "id": 37,
+    "name": "Kuantan",
+    "img": "b.Kuantan",
+    "vocabulary": {
+      "learn": 145,
+      "total": 1724
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 364
+    },
+    "phonetic": {
+      "learn": 20,
+      "total": 74
+    },
+    "total": {
+      "learn": 28,
+      "total": 364
+    }
+  },
+  {
+    "id": 39,
+    "name": "Tagaytay",
+    "img": "b.Tagaytay",
+    "vocabulary": {
+      "learn": 166,
+      "total": 1724
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 364
+    },
+    "phonetic": {
+      "learn": 20,
+      "total": 74
+    },
+    "total": {
+      "learn": 28,
+      "total": 364
+    }
+  },
+  {
+    "id": 40,
+    "name": "Cebu",
+    "img": "b.Cebu",
+    "vocabulary": {
+      "learn": 165,
+      "total": 1724
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 364
+    },
+    "phonetic": {
+      "learn": 19,
+      "total": 74
+    },
+    "total": {
+      "learn": 28,
+      "total": 364
+    }
+  },
+  {
+    "id": 41,
+    "name": "Davao",
+    "img": "b.Davao",
+    "vocabulary": {
+      "learn": 173,
+      "total": 1724
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 364
+    },
+    "phonetic": {
+      "learn": 17,
+      "total": 74
+    },
+    "total": {
+      "learn": 28,
+      "total": 364
+    }
+  },
+  {
+    "id": 42,
+    "name": "Manila",
+    "img": "b.Manila",
+    "vocabulary": {
+      "learn": 151,
+      "total": 1724
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 364
+    },
+    "phonetic": {
+      "learn": 20,
+      "total": 74
+    },
+    "total": {
+      "learn": 28,
+      "total": 364
+    }
+  },
+  {
+    "id": 32,
+    "name": "Singapore",
+    "img": "b.Singapore",
+    "vocabulary": {
+      "learn": 157,
+      "total": 1724
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 364
+    },
+    "phonetic": {
+      "learn": 18,
+      "total": 74
+    },
+    "total": {
+      "learn": 28,
+      "total": 364
+    }
+  },
+  {
+    "id": 49,
+    "name": "Sydney",
+    "img": "b.Sydney",
+    "vocabulary": {
+      "learn": 154,
+      "total": 1724
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 364
+    },
+    "phonetic": {
+      "learn": 15,
+      "total": 74
+    },
+    "total": {
+      "learn": 28,
+      "total": 364
+    },
+    "listen": "- Số câu nghe hiểu được trong 1 đoạn hội thoại hoặc hội thoại: 3/4 câu đơn hoặc 1 câu ghép\n- Số từ/câu: 5 đến 7\n- Số từ khó/câu: 2 đến 3\n- Tốc độ nói/câu: chậm, 5s đến 7s/câu",
+    "speak": "- Số câu/lần nói: 3 - 4 câu đơn hoặc 1 câu ghép\n- Số từ/câu: 5 đến 7\n- Số từ khó/câu: 2 đến 3\n- Tốc độ nói/câu: 5s đến 7s/câu\n- Số lần ngắt nghỉ/câu: không quá 2",
+    "reflex": "5s"
+  },
+  {
+    "id": 47,
+    "name": "Melbourne",
+    "img": "b.Melbourne",
+    "vocabulary": {
+      "learn": 161,
+      "total": 1724
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 364
+    },
+    "phonetic": {
+      "learn": 19,
+      "total": 74
+    },
+    "total": {
+      "learn": 28,
+      "total": 364
+    }
+  },
+  {
+    "id": 48,
+    "name": "Perth",
+    "img": "b.Perth",
+    "vocabulary": {
+      "learn": 165,
+      "total": 1724
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 364
+    },
+    "phonetic": {
+      "learn": 22,
+      "total": 74
+    },
+    "total": {
+      "learn": 28,
+      "total": 364
+    }
+  },
+  {
+    "id": 46,
+    "name": "Brisbane",
+    "img": "b.Brisbane",
+    "vocabulary": {
+      "learn": 160,
+      "total": 1724
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 364
+    },
+    "phonetic": {
+      "learn": 17,
+      "total": 74
+    },
+    "total": {
+      "learn": 28,
+      "total": 364
+    }
+  },
+  {
+    "id": 45,
+    "name": "Adelaide",
+    "img": "b.Adelaide",
+    "vocabulary": {
+      "learn": 162,
+      "total": 1724
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 364
+    },
+    "phonetic": {
+      "learn": 21,
+      "total": 74
+    },
+    "total": {
+      "learn": 28,
+      "total": 364
+    }
+  },
+  {
+    "id": 51,
+    "name": "Auckland",
+    "img": "b.Auckland",
+    "vocabulary": {
+      "learn": 169,
+      "total": 1724
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 364
+    },
+    "phonetic": {
+      "learn": 17,
+      "total": 74
+    },
+    "total": {
+      "learn": 28,
+      "total": 364
+    }
+  },
+  {
+    "id": 53,
+    "name": "Hamilton",
+    "img": "b.Hamilton",
+    "vocabulary": {
+      "learn": 164,
+      "total": 1724
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 364
+    },
+    "phonetic": {
+      "learn": 20,
+      "total": 74
+    },
+    "total": {
+      "learn": 28,
+      "total": 364
+    }
+  },
+  {
+    "id": 52,
+    "name": "Christchurch",
+    "img": "b.Christchurch",
+    "vocabulary": {
+      "learn": 145,
+      "total": 1724
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 364
+    },
+    "phonetic": {
+      "learn": 17,
+      "total": 74
+    },
+    "total": {
+      "learn": 28,
+      "total": 364
+    }
+  },
+  {
+    "id": 54,
+    "name": "Napier",
+    "img": "b.Napier",
+    "vocabulary": {
+      "learn": 166,
+      "total": 1724
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 364
+    },
+    "phonetic": {
+      "learn": 16,
+      "total": 74
+    },
+    "total": {
+      "learn": 28,
+      "total": 364
+    }
+  },
+  {
+    "id": 56,
+    "name": "Amsterdam",
+    "img": "b.Amsterdam",
+    "vocabulary": {
+      "learn": 165,
+      "total": 1724
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 364
+    },
+    "phonetic": {
+      "learn": 21,
+      "total": 74
+    },
+    "total": {
+      "learn": 28,
+      "total": 364
+    }
+  },
+  {
+    "id": 59,
+    "name": "The Hague",
+    "img": "b.The Hague",
+    "vocabulary": {
+      "learn": 173,
+      "total": 1724
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 364
+    },
+    "phonetic": {
+      "learn": 19,
+      "total": 74
+    },
+    "total": {
+      "learn": 28,
+      "total": 364
+    }
+  },
+  {
+    "id": 57,
+    "name": "Haarlem",
+    "img": "b.Haarlem",
+    "vocabulary": {
+      "learn": 151,
+      "total": 1724
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 364
+    },
+    "phonetic": {
+      "learn": 20,
+      "total": 74
+    },
+    "total": {
+      "learn": 28,
+      "total": 364
+    }
+  },
+  {
+    "id": 58,
+    "name": "Rotterdam",
+    "img": "b.Rotterdam",
+    "vocabulary": {
+      "learn": 157,
+      "total": 1724
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 364
+    },
+    "phonetic": {
+      "learn": 17,
+      "total": 74
+    },
+    "total": {
+      "learn": 28,
+      "total": 364
+    }
+  },
+  {
+    "id": 4,
+    "name": "London",
+    "img": "b.London",
+    "vocabulary": {
+      "learn": 163,
+      "total": 1668
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 363
+    },
+    "phonetic": {
+      "learn": "n/a"
+    },
+    "total": {
+      "learn": 28,
+      "total": 360
+    },
+    "listen": "- Số câu đơn nghe hiểu được trong 1 đoạn văn hoặc hội thoại: 4/5 câu đơn hoặc 2 câu ghép\n- Số từ/câu: 7 đến 10\n- Số từ khó/câu: 3 trở lên\n- Tốc độ nói/câu: 5s đến 7s/câu",
+    "speak": "- Số câu/lần nói: 3 đến 5, cả câu đơn và câu ghép\n- Số từ/câu: 7-10\n- Số từ khó/câu: 2 trở lên\n- Tốc độ nói/câu: 5s đên 7s/câu\n- Số lần ngắt nghỉ/câu: không quá 1",
+    "reflex": "3s"
+  },
+  {
+    "id": 8,
+    "name": "Birmingham",
+    "img": "b.Birmingham",
+    "vocabulary": {
+      "learn": 166,
+      "total": 1668
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 363
+    },
+    "phonetic": {
+      "learn": "n/a"
+    },
+    "total": {
+      "learn": 27,
+      "total": 360
+    }
+  },
+  {
+    "id": 5,
+    "name": "Manchester",
+    "img": "b.Manchester",
+    "vocabulary": {
+      "learn": 162,
+      "total": 1668
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 363
+    },
+    "phonetic": {
+      "learn": "n/a"
+    },
+    "total": {
+      "learn": 28,
+      "total": 360
+    }
+  },
+  {
+    "id": 6,
+    "name": "Liverpool",
+    "img": "b.Liverpool",
+    "vocabulary": {
+      "learn": 160,
+      "total": 1668
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 363
+    },
+    "phonetic": {
+      "learn": "n/a"
+    },
+    "total": {
+      "learn": 28,
+      "total": 360
+    }
+  },
+  {
+    "id": 7,
+    "name": "Edinburgh",
+    "img": "b.Edinburgh",
+    "vocabulary": {
+      "learn": 150,
+      "total": 1668
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 363
+    },
+    "phonetic": {
+      "learn": "n/a"
+    },
+    "total": {
+      "learn": 28,
+      "total": 360
+    }
+  },
+  {
+    "id": 9,
+    "name": "Glasgow",
+    "img": "b.Glasgow",
+    "vocabulary": {
+      "learn": 165,
+      "total": 1668
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 363
+    },
+    "phonetic": {
+      "learn": "n/a"
+    },
+    "total": {
+      "learn": 28,
+      "total": 360
+    }
+  },
+  {
+    "id": 11,
+    "name": "New York",
+    "img": "b.New York",
+    "vocabulary": {
+      "learn": 160,
+      "total": 1668
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 363
+    },
+    "phonetic": {
+      "learn": "n/a"
+    },
+    "total": {
+      "learn": 27,
+      "total": 360
+    }
+  },
+  {
+    "id": 12,
+    "name": "Texas",
+    "img": "b.Texas",
+    "vocabulary": {
+      "learn": 162,
+      "total": 1668
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 363
+    },
+    "phonetic": {
+      "learn": "n/a"
+    },
+    "total": {
+      "learn": 28,
+      "total": 360
+    }
+  },
+  {
+    "id": 13,
+    "name": "California",
+    "img": "b.California",
+    "vocabulary": {
+      "learn": 154,
+      "total": 1668
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 363
+    },
+    "phonetic": {
+      "learn": "n/a"
+    },
+    "total": {
+      "learn": 28,
+      "total": 360
+    }
+  },
+  {
+    "id": 14,
+    "name": "Florida",
+    "img": "b.Florida",
+    "vocabulary": {
+      "learn": 160,
+      "total": 1668
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 363
+    },
+    "phonetic": {
+      "learn": "n/a"
+    },
+    "total": {
+      "learn": 28,
+      "total": 360
+    }
+  },
+  {
+    "id": 15,
+    "name": "Washington",
+    "img": "b.Washington",
+    "vocabulary": {
+      "learn": 162,
+      "total": 1668
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 363
+    },
+    "phonetic": {
+      "learn": "n/a"
+    },
+    "total": {
+      "learn": 28,
+      "total": 360
+    }
+  },
+  {
+    "id": 16,
+    "name": "Hawaii",
+    "img": "b.Hawaii",
+    "vocabulary": {
+      "learn": 163,
+      "total": 1668
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 363
+    },
+    "phonetic": {
+      "learn": "n/a"
+    },
+    "total": {
+      "learn": 28,
+      "total": 360
+    }
+  },
+  {
+    "id": 17,
+    "name": "Massachusetts",
+    "img": "b.Massachusetts",
+    "vocabulary": {
+      "learn": 160,
+      "total": 1668
+    },
+    "grammar": {
+      "learn": 28,
+      "total": 363
+    },
+    "phonetic": {
+      "learn": "n/a"
+    },
+    "total": {
+      "learn": 28,
+      "total": 360
+    }
+  },
+  {
+    "vocabulary": {},
+    "grammar": {},
+    "phonetic": {},
+    "total": {}
+  }
+]

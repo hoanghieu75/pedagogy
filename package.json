@@ -1,0 +1,26 @@
+{
+  "name": "route",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://hoanghieu75.github.io/pedagogy/",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "express": "^4.16.3",
+    "gh-pages": "^1.2.0",
+    "lodash": "^4.17.10",
+    "react": "^16.3.2",
+    "react-coverflow": "^0.2.14",
+    "react-dom": "^16.3.2",
+    "react-scripts": "1.1.4",
+    "react-transition-group": "^1.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "http://localhost:8080"
+}

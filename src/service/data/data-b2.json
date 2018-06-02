@@ -1,0 +1,70 @@
+[
+  {
+    "level": "Super-Basic",
+    "vocab": {
+      "know": 70,
+      "under": 60,
+      "use": 50
+    },
+    "gram": {
+      "know": 60,
+      "under": 50,
+      "use": 40
+    },
+    "phone": {
+      "know": 50,
+      "under": 40,
+      "use": 30
+    }
+  },
+  {
+    "level": "Basic",
+    "vocab": {
+      "know": 80,
+      "under": 70,
+      "use": 60
+    },
+    "gram": {
+      "know": 70,
+      "under": 60,
+      "use": 50
+    },
+    "phone": {
+      "know": 60,
+      "under": 50,
+      "use": 40
+    }
+  },
+  {
+    "level": "Pre-Inter",
+    "vocab": {
+      "know": 80,
+      "under": 70,
+      "use": 60
+    },
+    "gram": {
+      "know": 70,
+      "under": 60,
+      "use": 50
+    },
+    "phone": {
+      "know": 60,
+      "under": 50,
+      "use": 40
+    }
+  },
+  {
+    "level": "Inter",
+    "vocab": {
+      "know": 70,
+      "under": 60,
+      "use": 50
+    },
+    "gram": {
+      "know": 60,
+      "under": 50,
+      "use": 40
+    },
+    "phone": {}
+  }
+]

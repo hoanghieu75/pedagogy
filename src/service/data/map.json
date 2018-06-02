@@ -1,0 +1,524 @@
+[
+  {
+    "id": 1,
+    "name": "Learning Pathway",
+    "type": "world",
+    "parentId": 1,
+    "parent": {
+      "name": "Learning Pathway"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Inter",
+    "type": "level",
+    "parentId": 1,
+    "parent": {
+      "name": "Learning Pathway"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Great Britian",
+    "type": "country",
+    "parentId": 2,
+    "parent": {
+      "name": "Inter"
+    }
+  },
+  {
+    "id": 4,
+    "name": "London",
+    "type": "city",
+    "parentId": 3,
+    "parent": {
+      "name": "Great Britian"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Manchester",
+    "type": "city",
+    "parentId": 3,
+    "parent": {
+      "name": "Great Britian"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Liverpool",
+    "type": "city",
+    "parentId": 3,
+    "parent": {
+      "name": "Great Britian"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Edinburgh",
+    "type": "city",
+    "parentId": 3,
+    "parent": {
+      "name": "Great Britian"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Birmingham",
+    "type": "city",
+    "parentId": 3,
+    "parent": {
+      "name": "Great Britian"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Glasgow",
+    "type": "city",
+    "parentId": 3,
+    "parent": {
+      "name": "Great Britian"
+    }
+  },
+  {
+    "id": 10,
+    "name": "USA",
+    "type": "country",
+    "parentId": 2,
+    "parent": {
+      "name": "Inter"
+    }
+  },
+  {
+    "id": 11,
+    "name": "New York",
+    "type": "city",
+    "parentId": 10,
+    "parent": {
+      "name": "USA"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Texas",
+    "type": "city",
+    "parentId": 10,
+    "parent": {
+      "name": "USA"
+    }
+  },
+  {
+    "id": 13,
+    "name": "California",
+    "type": "city",
+    "parentId": 10,
+    "parent": {
+      "name": "USA"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Florida",
+    "type": "city",
+    "parentId": 10,
+    "parent": {
+      "name": "USA"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Washington",
+    "type": "city",
+    "parentId": 10,
+    "parent": {
+      "name": "USA"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Hawaii",
+    "type": "city",
+    "parentId": 10,
+    "parent": {
+      "name": "USA"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Massachusetts",
+    "type": "city",
+    "parentId": 10,
+    "parent": {
+      "name": "USA"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Super-Basic",
+    "type": "level",
+    "parentId": 1,
+    "parent": {
+      "name": "Learning Pathway"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Vietnam",
+    "type": "country",
+    "parentId": 18,
+    "parent": {
+      "name": "Super-Basic"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Hanoi",
+    "type": "city",
+    "parentId": 19,
+    "parent": {
+      "name": "Vietnam"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Hue",
+    "type": "city",
+    "parentId": 19,
+    "parent": {
+      "name": "Vietnam"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Quang Nam",
+    "type": "city",
+    "parentId": 19,
+    "parent": {
+      "name": "Vietnam"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Da Nang",
+    "type": "city",
+    "parentId": 19,
+    "parent": {
+      "name": "Vietnam"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Ho Chi Minh",
+    "type": "city",
+    "parentId": 19,
+    "parent": {
+      "name": "Vietnam"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Basic",
+    "type": "level",
+    "parentId": 1,
+    "parent": {
+      "name": "Learning Pathway"
+    }
+  },
+  {
+    "id": 26,
+    "name": "South Korea",
+    "type": "country",
+    "parentId": 25,
+    "parent": {
+      "name": "Basic"
+    }
+  },
+  {
+    "id": 27,
+    "name": "Seoul",
+    "type": "city",
+    "parentId": 26,
+    "parent": {
+      "name": "South Korea"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Busan",
+    "type": "city",
+    "parentId": 26,
+    "parent": {
+      "name": "South Korea"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Incheon",
+    "type": "city",
+    "parentId": 26,
+    "parent": {
+      "name": "South Korea"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Daejeon",
+    "type": "city",
+    "parentId": 26,
+    "parent": {
+      "name": "South Korea"
+    }
+  },
+  {
+    "id": 32,
+    "name": "Singapore",
+    "type": "city",
+    "parentId": 25,
+    "parent": {
+      "name": "Basic"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Malaysia",
+    "type": "country",
+    "parentId": 25,
+    "parent": {
+      "name": "Basic"
+    }
+  },
+  {
+    "id": 34,
+    "name": "Kuala Lumpur",
+    "type": "city",
+    "parentId": 33,
+    "parent": {
+      "name": "Malaysia"
+    }
+  },
+  {
+    "id": 35,
+    "name": "George Town",
+    "type": "city",
+    "parentId": 33,
+    "parent": {
+      "name": "Malaysia"
+    }
+  },
+  {
+    "id": 36,
+    "name": "Kuching",
+    "type": "city",
+    "parentId": 33,
+    "parent": {
+      "name": "Malaysia"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Kuantan",
+    "type": "city",
+    "parentId": 33,
+    "parent": {
+      "name": "Malaysia"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Philippines",
+    "type": "country",
+    "parentId": 25,
+    "parent": {
+      "name": "Basic"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Tagaytay",
+    "type": "city",
+    "parentId": 38,
+    "parent": {
+      "name": "Philippines"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Cebu",
+    "type": "city",
+    "parentId": 38,
+    "parent": {
+      "name": "Philippines"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Davao",
+    "type": "city",
+    "parentId": 38,
+    "parent": {
+      "name": "Philippines"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Manila",
+    "type": "city",
+    "parentId": 38,
+    "parent": {
+      "name": "Philippines"
+    }
+  },
+  {
+    "id": 43,
+    "name": "Pre Inter",
+    "type": "level",
+    "parentId": 1,
+    "parent": {
+      "name": "Learning Pathway"
+    }
+  },
+  {
+    "id": 44,
+    "name": "Australia",
+    "type": "country",
+    "parentId": 43,
+    "parent": {
+      "name": "Pre Inter"
+    }
+  },
+  {
+    "id": 45,
+    "name": "Adelaide",
+    "type": "city",
+    "parentId": 44,
+    "parent": {
+      "name": "Australia"
+    }
+  },
+  {
+    "id": 46,
+    "name": "Brisbane",
+    "type": "city",
+    "parentId": 44,
+    "parent": {
+      "name": "Australia"
+    }
+  },
+  {
+    "id": 47,
+    "name": "Melbourne",
+    "type": "city",
+    "parentId": 44,
+    "parent": {
+      "name": "Australia"
+    }
+  },
+  {
+    "id": 48,
+    "name": "Perth",
+    "type": "city",
+    "parentId": 44,
+    "parent": {
+      "name": "Australia"
+    }
+  },
+  {
+    "id": 49,
+    "name": "Sydney",
+    "type": "city",
+    "parentId": 44,
+    "parent": {
+      "name": "Australia"
+    }
+  },
+  {
+    "id": 50,
+    "name": "New Zealand",
+    "type": "country",
+    "parentId": 43,
+    "parent": {
+      "name": "Pre Inter"
+    }
+  },
+  {
+    "id": 51,
+    "name": "Auckland",
+    "type": "city",
+    "parentId": 50,
+    "parent": {
+      "name": "New Zealand"
+    }
+  },
+  {
+    "id": 52,
+    "name": "Christchurch",
+    "type": "city",
+    "parentId": 50,
+    "parent": {
+      "name": "New Zealand"
+    }
+  },
+  {
+    "id": 53,
+    "name": "Hamilton",
+    "type": "city",
+    "parentId": 50,
+    "parent": {
+      "name": "New Zealand"
+    }
+  },
+  {
+    "id": 54,
+    "name": "Napier",
+    "type": "city",
+    "parentId": 50,
+    "parent": {
+      "name": "New Zealand"
+    }
+  },
+  {
+    "id": 55,
+    "name": "The Netherlands",
+    "type": "country",
+    "parentId": 43,
+    "parent": {
+      "name": "Pre Inter"
+    }
+  },
+  {
+    "id": 56,
+    "name": "Amsterdam",
+    "type": "city",
+    "parentId": 55,
+    "parent": {
+      "name": "The Netherlands"
+    }
+  },
+  {
+    "id": 57,
+    "name": "Haarlem",
+    "type": "city",
+    "parentId": 55,
+    "parent": {
+      "name": "The Netherlands"
+    }
+  },
+  {
+    "id": 58,
+    "name": "Rotterdam",
+    "type": "city",
+    "parentId": 55,
+    "parent": {
+      "name": "The Netherlands"
+    }
+  },
+  {
+    "id": 59,
+    "name": "The Hague",
+    "type": "city",
+    "parentId": 55,
+    "parent": {
+      "name": "The Netherlands"
+    }
+  }
+]

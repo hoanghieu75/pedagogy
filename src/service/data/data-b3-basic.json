@@ -1,0 +1,7287 @@
+[
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Seoul",
+    "cityId": 27,
+    "districtName": "Dongdaemun",
+    "districtId": "27-Dongdaemun",
+    "topic": "W50: Shopping",
+    "subject": "Finding a reasonably priced store",
+    "vocabulary": [
+      "Reasonable",
+      " Import",
+      " Guarantee",
+      " Recommend",
+      " On sale",
+      " Up to something"
+    ],
+    "phonetics": "/t/ and /ʧ/",
+    "grammar": "look for + Sb/N; recommend +Ving/ that+S+V(inf)"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Seoul",
+    "cityId": 27,
+    "districtName": "Dongdaemun",
+    "districtId": "27-Dongdaemun",
+    "topic": "W50: Shopping",
+    "subject": "Your shopping experience",
+    "vocabulary": [
+      "Convenient",
+      " Stock",
+      " Availability",
+      " Discount",
+      " Order",
+      " Experienced"
+    ],
+    "phonetics": "/f/ and /v/",
+    "grammar": "What + do/does + S + like about + N/Ving?; Give great advice; Variety of"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Seoul",
+    "cityId": 27,
+    "districtName": "Dongdaemun",
+    "districtId": "27-Dongdaemun",
+    "topic": "W50: Shopping",
+    "subject": "Asking for suggestions when buying gifts",
+    "vocabulary": [
+      "Suggestion",
+      " Import",
+      " Skillfully",
+      " Theme",
+      " Eyesight",
+      " Wrap"
+    ],
+    "phonetics": "/ɔː/ and /ɑː/",
+    "grammar": "Participates in = take part in = join; N + is one of his favorite sports"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Seoul",
+    "cityId": 27,
+    "districtName": "Dongdaemun",
+    "districtId": "27-Dongdaemun",
+    "topic": "W50: Shopping",
+    "subject": "Bargaining when shopping",
+    "vocabulary": [
+      "Bargain",
+      " Discount",
+      " Cost",
+      " Worth",
+      " Credit card",
+      " Deliver"
+    ],
+    "phonetics": "/b/ and /p/",
+    "grammar": "S+ to be willing to V; Persuade + Sb + to V/ of sth"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Seoul",
+    "cityId": 27,
+    "districtName": "Dongdaemun",
+    "districtId": "27-Dongdaemun",
+    "topic": "W50: Shopping",
+    "subject": "Showing manners at the supermarket",
+    "vocabulary": [
+      "Crowded",
+      " Checkout",
+      " Queue",
+      " Respect",
+      " Patient",
+      " Disturb"
+    ],
+    "phonetics": "/l/ and /r/",
+    "grammar": "S+should+V(inf); wait for + St/Sb/Ving"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Seoul",
+    "cityId": 27,
+    "districtName": "Dongdaemun",
+    "districtId": "27-Dongdaemun",
+    "topic": "W50: Shopping",
+    "subject": "Complaining about products or services",
+    "vocabulary": [
+      "Access",
+      " Cash desk",
+      " Apologize",
+      " Maintenance",
+      " Issue",
+      " Frustrated"
+    ],
+    "phonetics": "/e/ and /ei/",
+    "grammar": "S+V(ed/p1) (past simple); Do you know how + adj + S + be?"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Seoul",
+    "cityId": 27,
+    "districtName": "Dongdaemun",
+    "districtId": "27-Dongdaemun",
+    "topic": "W50: Shopping",
+    "subject": "Supermarkets vs. street markets",
+    "vocabulary": [
+      "Hustle and bustle",
+      " Range",
+      " Fixed",
+      " Haggle",
+      " Deal"
+    ],
+    "phonetics": "/ə/ and /ʌ/",
+    "grammar": "more+adj/ adj-er (comparatives)"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Seoul",
+    "cityId": 27,
+    "districtName": "Gangnam",
+    "districtId": "27-Gangnam",
+    "topic": "W24: Fashion",
+    "subject": "Talking about clothes",
+    "vocabulary": [
+      "gorgeous",
+      " high heels",
+      " casual clothes",
+      " impression",
+      " sneaker",
+      " confident"
+    ],
+    "phonetics": "/e/ and /eɪ/",
+    "grammar": "Why don’t we / you + V(inf)?; Do you want to + Verb + with me?"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Seoul",
+    "cityId": 27,
+    "districtName": "Gangnam",
+    "districtId": "27-Gangnam",
+    "topic": "W24: Fashion",
+    "subject": "Talking about accessories",
+    "vocabulary": [
+      "jewelry",
+      " reasonable",
+      " bracelet",
+      " anklet",
+      " accessory",
+      " necklace"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "Like/love + Ving/N; What kind/type/sort of + N + do you like/hate?; It’s necessary + for Sb + to V; enjoy + Ving = like + Ving = be fond of"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Seoul",
+    "cityId": 27,
+    "districtName": "Gangnam",
+    "districtId": "27-Gangnam",
+    "topic": "W24: Fashion",
+    "subject": "Shopping for clothes",
+    "vocabulary": [
+      "Long-sleeved",
+      " Several",
+      " Size",
+      " Recommend",
+      " Try something on",
+      " Fitting room"
+    ],
+    "phonetics": "/s/ and /z/",
+    "grammar": "How can I help you?"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Seoul",
+    "cityId": 27,
+    "districtName": "Gangnam",
+    "districtId": "27-Gangnam",
+    "topic": "W24: Fashion",
+    "subject": "Asking for advice on hairstyles",
+    "vocabulary": [
+      "Dye",
+      " Have something done",
+      " Look good on",
+      " Specific",
+      " Fit",
+      " Manly"
+    ],
+    "phonetics": "/t/ and /ʧ/",
+    "grammar": "What about/How about + N/Ving St?; want to V / want Sb to V"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Seoul",
+    "cityId": 27,
+    "districtName": "Gangnam",
+    "districtId": "27-Gangnam",
+    "topic": "W24: Fashion",
+    "subject": "Talking about make-up",
+    "vocabulary": [
+      "make-up",
+      " natural",
+      " eyeliner",
+      " mascara",
+      " blusher",
+      " layer"
+    ],
+    "phonetics": "/æ/ and /e/",
+    "grammar": "It's difficult to V; Get/do/make something right:"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Seoul",
+    "cityId": 27,
+    "districtName": "Gangnam",
+    "districtId": "27-Gangnam",
+    "topic": "W24: Fashion",
+    "subject": "Dress code in the workplace",
+    "vocabulary": [
+      "dress code",
+      " outfit",
+      " fashionable",
+      " suit",
+      " necktie"
+    ],
+    "phonetics": "/s/ and /ʃ/",
+    "grammar": "S+should+V(inf); Do you think I should + V(inf) + O?"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Seoul",
+    "cityId": 27,
+    "districtName": "Gangnam",
+    "districtId": "27-Gangnam",
+    "topic": "W24: Fashion",
+    "subject": "Talking about fashion trends",
+    "vocabulary": [
+      "Glamorous",
+      " Interested in",
+      " Pattern",
+      " Stripe",
+      " Trendy",
+      " Old-fashioned"
+    ],
+    "phonetics": "/k/ and /g/",
+    "grammar": "Let’s + Verb + O:"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Seoul",
+    "cityId": 27,
+    "districtName": "Hongdae",
+    "districtId": "27-Hongdae",
+    "topic": "W13: Entertainment",
+    "subject": "Talking about movies",
+    "vocabulary": [
+      "Touching",
+      " Comedy",
+      " Romantic",
+      " Prefer",
+      " Comfortable"
+    ],
+    "phonetics": "/s/ and /ʃ/",
+    "grammar": "What’s your favorite type of; Have you ever seen …?; Remember to V"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Seoul",
+    "cityId": 27,
+    "districtName": "Hongdae",
+    "districtId": "27-Hongdae",
+    "topic": "W13: Entertainment",
+    "subject": "Talking about your favorite actors",
+    "vocabulary": [
+      "Actor",
+      " Confident",
+      " Favorite",
+      " Huge",
+      " Fan",
+      " Talented"
+    ],
+    "phonetics": "/ɪ/ and /iː/",
+    "grammar": "Why do you like someone; Have you watched something"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Seoul",
+    "cityId": 27,
+    "districtName": "Hongdae",
+    "districtId": "27-Hongdae",
+    "topic": "W13: Entertainment",
+    "subject": "Talking about TV shows",
+    "vocabulary": [
+      "Last",
+      " Episode",
+      " Unpredictable",
+      " Season",
+      " Single",
+      " Miss"
+    ],
+    "phonetics": "/f/ and /p/",
+    "grammar": "By the way; I’ve been waiting for..."
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Seoul",
+    "cityId": 27,
+    "districtName": "Hongdae",
+    "districtId": "27-Hongdae",
+    "topic": "W13: Entertainment",
+    "subject": "Do you like that movie?",
+    "vocabulary": [
+      "Realistic",
+      " Brilliant",
+      " Complex",
+      " Profound",
+      " Silly",
+      " War"
+    ],
+    "phonetics": "/æ/ and /e/",
+    "grammar": "Waste of St; I don’t like; to be + perfect for + Sb/St"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Seoul",
+    "cityId": 27,
+    "districtName": "Hongdae",
+    "districtId": "27-Hongdae",
+    "topic": "W13: Entertainment",
+    "subject": "Listening to music",
+    "vocabulary": [
+      "Kind",
+      " Ticket",
+      " Concert",
+      " Favorite"
+    ],
+    "phonetics": "/ɪ/ and /iː/",
+    "grammar": "Do you like something; What kind/type/sort of + N + do you like/hate?; To be famous for; I’m somebody's big fan"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Seoul",
+    "cityId": 27,
+    "districtName": "Hongdae",
+    "districtId": "27-Hongdae",
+    "topic": "W13: Entertainment",
+    "subject": "Talking about songs",
+    "vocabulary": [
+      "Classic",
+      " Lyrics",
+      " Meaningful",
+      " Exist"
+    ],
+    "phonetics": "/l/ and /r/",
+    "grammar": "That sounds like + adj + N"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Seoul",
+    "cityId": 27,
+    "districtName": "Hongdae",
+    "districtId": "27-Hongdae",
+    "topic": "W13: Entertainment",
+    "subject": "Talking about social networks",
+    "vocabulary": [
+      "Add",
+      " Common",
+      " Post",
+      " Afraid",
+      " Reject",
+      " Text"
+    ],
+    "phonetics": "/t/ and /d/",
+    "grammar": "Do you use something; enjoy + Ving = like + Ving = be fond of; How long have/has + S + been + Ving?"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Seoul",
+    "cityId": 27,
+    "districtName": "Jongno",
+    "districtId": "27-Jongno",
+    "topic": "W3: Traveling abroad",
+    "subject": "Booking an airplane ticket",
+    "vocabulary": [
+      "Flight",
+      " Economy class",
+      " Bussiness class",
+      " First class",
+      " Make a reservation",
+      " Confirm"
+    ],
+    "phonetics": "/ɜː/ and /ə/",
+    "grammar": "S + would like + N/to V; How much + do/does/would + S + cost?"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Seoul",
+    "cityId": 27,
+    "districtName": "Jongno",
+    "districtId": "27-Jongno",
+    "topic": "W3: Traveling abroad",
+    "subject": "Booking a hotel room",
+    "vocabulary": [
+      "Double room",
+      " Twin room",
+      " Rate",
+      " Tax",
+      " Reserve"
+    ],
+    "phonetics": "/ʊ/ and /uː/",
+    "grammar": "book room; What kind/type/sort of + N + do you like/hate?; The reservation is confirmed.; look forward to + Ving/St"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Seoul",
+    "cityId": 27,
+    "districtName": "Jongno",
+    "districtId": "27-Jongno",
+    "topic": "W3: Traveling abroad",
+    "subject": "How to check into a hotel",
+    "vocabulary": [
+      "Check in",
+      " Reservation",
+      " Book",
+      " Sign",
+      " Registration",
+      " Serve"
+    ],
+    "phonetics": "/s/ and /z/",
+    "grammar": "have a reservation; May I see your ...?; It sounds like"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Seoul",
+    "cityId": 27,
+    "districtName": "Jongno",
+    "districtId": "27-Jongno",
+    "topic": "W3: Traveling abroad",
+    "subject": "Asking about a location",
+    "vocabulary": [
+      "Lost",
+      " Look for",
+      " Near",
+      " Corner",
+      " Far"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "How far is it?; How long does it take + Sb + to V?"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Seoul",
+    "cityId": 27,
+    "districtName": "Jongno",
+    "districtId": "27-Jongno",
+    "topic": "W3: Traveling abroad",
+    "subject": "Taking a taxi",
+    "vocabulary": [
+      "Address",
+      " Luggage",
+      " Highway",
+      " Rush",
+      " Hurry"
+    ],
+    "phonetics": "/e/ and /ei/",
+    "grammar": "S + am/ is/ are going to V; in a rush"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Seoul",
+    "cityId": 27,
+    "districtName": "Jongno",
+    "districtId": "27-Jongno",
+    "topic": "W3: Traveling abroad",
+    "subject": "At the drugstore",
+    "vocabulary": [
+      "Pick up a prescription",
+      " Doctor’s note",
+      " Kill",
+      " Relieve",
+      " Pain",
+      " Tablet",
+      " Side effect"
+    ],
+    "phonetics": "/e/ and /æ/",
+    "grammar": "This medicine will relieve your pain.; How do I take this medicine?"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Seoul",
+    "cityId": 27,
+    "districtName": "Jongno",
+    "districtId": "27-Jongno",
+    "topic": "W3: Traveling abroad",
+    "subject": "Reporting a theft",
+    "vocabulary": [
+      "Theft",
+      " Steal",
+      " Rob",
+      " Mug",
+      " Passport"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "report a theft"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Busan",
+    "cityId": 28,
+    "districtName": "Dongnae District",
+    "districtId": "28-Dongnae District",
+    "topic": "W31: Talking about your vacation",
+    "subject": "What should you prepare for a vacation?",
+    "vocabulary": [
+      "Prepare",
+      " Besides",
+      " Swimsuit",
+      " Instead of",
+      " Convenient",
+      " Amazing"
+    ],
+    "phonetics": "/s/ and /ʃ/",
+    "grammar": "Remember to V"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Busan",
+    "cityId": 28,
+    "districtName": "Dongnae District",
+    "districtId": "28-Dongnae District",
+    "topic": "W31: Talking about your vacation",
+    "subject": "Where do you want to go on a vacation?",
+    "vocabulary": [
+      "Long to do something",
+      " Icon",
+      " Freedom",
+      " Attraction",
+      " Besides",
+      " Fantastic"
+    ],
+    "phonetics": "/eɪ/ and /aɪ/",
+    "grammar": "S+will+V(inf) (future simple)"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Busan",
+    "cityId": 28,
+    "districtName": "Dongnae District",
+    "districtId": "28-Dongnae District",
+    "topic": "W31: Talking about your vacation",
+    "subject": "How was your summer vacation?",
+    "vocabulary": [
+      "Stroll ",
+      " Charming",
+      " Cozy",
+      " Amazing",
+      " Baguette",
+      " Flavor"
+    ],
+    "phonetics": "/b/ and /p/",
+    "grammar": "Sounds + adj!"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Busan",
+    "cityId": 28,
+    "districtName": "Dongnae District",
+    "districtId": "28-Dongnae District",
+    "topic": "W31: Talking about your vacation",
+    "subject": "Inviting your friend to go on a vacation",
+    "vocabulary": [
+      "Plan",
+      " Pull somebody's leg",
+      " Ideal",
+      " Destination",
+      " Fellow traveler",
+      " Wonder"
+    ],
+    "phonetics": "/s/ and /z/",
+    "grammar": "plan + to V; How long will ....?"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Busan",
+    "cityId": 28,
+    "districtName": "Dongnae District",
+    "districtId": "28-Dongnae District",
+    "topic": "W31: Talking about your vacation",
+    "subject": "Talking about safety tips when traveling",
+    "vocabulary": [
+      "Pickpocket",
+      " Aware",
+      " Numerous",
+      " Familiar",
+      " Medication",
+      " Emergency"
+    ],
+    "phonetics": "/eɪ/ and /aɪ/",
+    "grammar": "Have you ever been to ...?; Take care of; be careful with"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Busan",
+    "cityId": 28,
+    "districtName": "Dongnae District",
+    "districtId": "28-Dongnae District",
+    "topic": "W31: Talking about your vacation",
+    "subject": "Traveling alone",
+    "vocabulary": [
+      "Lonely",
+      " Independent",
+      " Freedom ",
+      " Gain",
+      " Broaden",
+      " Knowledge",
+      " Companion"
+    ],
+    "phonetics": "/æ/ and /ʌ/",
+    "grammar": "Have you ever V(ed/p2)? (present perfect); Why didn't you ...?"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Busan",
+    "cityId": 28,
+    "districtName": "Dongnae District",
+    "districtId": "28-Dongnae District",
+    "topic": "W31: Talking about your vacation",
+    "subject": "What should you buy when you go on a vacation?",
+    "vocabulary": [
+      "Specialty",
+      " Fabric",
+      " Charm",
+      " Fortune",
+      " Souvenir",
+      " Dried fruit"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "What do you think I should + V(inf)?"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Busan",
+    "cityId": 28,
+    "districtName": "Haeundae District",
+    "districtId": "28-Haeundae District",
+    "topic": "W34: Dating",
+    "subject": "How was your first date?",
+    "vocabulary": [
+      "Date",
+      " Text",
+      " Relationship",
+      " Break up",
+      " Have (something) in common",
+      " Get along well"
+    ],
+    "phonetics": "/s/ and /ʃ/",
+    "grammar": "S + am/ is/ are going to V; It is/was+adj for Sb to V; It was + a/an + N"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Busan",
+    "cityId": 28,
+    "districtName": "Haeundae District",
+    "districtId": "28-Haeundae District",
+    "topic": "W34: Dating",
+    "subject": "The perfect place for a first date",
+    "vocabulary": [
+      "Ideal",
+      " Fancy",
+      " Uncomfortable",
+      " Close to somebody/something",
+      " Cozy",
+      " Along"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "I think S should + V(inf); Why don’t we / you + V(inf)?"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Busan",
+    "cityId": 28,
+    "districtName": "Haeundae District",
+    "districtId": "28-Haeundae District",
+    "topic": "W34: Dating",
+    "subject": "Tips for a first date",
+    "vocabulary": [
+      "Dine",
+      " Outfit",
+      " Navy",
+      " Split",
+      " Offer",
+      " Insist on doing something"
+    ],
+    "phonetics": "/æ/ and /ʌ/",
+    "grammar": "Remember + to V; I suggest you that you should + V + ...; S + can/could/should + V(inf); Don’t+V(inf)"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Busan",
+    "cityId": 28,
+    "districtName": "Haeundae District",
+    "districtId": "28-Haeundae District",
+    "topic": "W34: Dating",
+    "subject": "Online dating",
+    "vocabulary": [
+      "Online dating",
+      " Bored",
+      " Text",
+      " Go out",
+      " Ideal",
+      " Look forward to something/doing something"
+    ],
+    "phonetics": "/t/ and /p/",
+    "grammar": "S+ have/has + V(ed/p2) (present perfect); Decide to V; Feel+adj"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Busan",
+    "cityId": 28,
+    "districtName": "Haeundae District",
+    "districtId": "28-Haeundae District",
+    "topic": "W34: Dating",
+    "subject": "One-sided love",
+    "vocabulary": [
+      "Have feelings for someone",
+      " Except",
+      " Fall for somebody",
+      " Ruin",
+      " One-sided"
+    ],
+    "phonetics": "/d/ and /t/",
+    "grammar": "Look+adj; sound+adj; to help + Sb + V(inf); to be in love with Sb/St; Why don’t we / you + V(inf)?; S+ have/has + V(ed/p2) (present perfect)"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Busan",
+    "cityId": 28,
+    "districtName": "Haeundae District",
+    "districtId": "28-Haeundae District",
+    "topic": "W34: Dating",
+    "subject": "How to move on from a break-up",
+    "vocabulary": [
+      "Terrible",
+      " Been through/Go through something",
+      " Painful",
+      " Temporary",
+      " Ease",
+      " Dish"
+    ],
+    "phonetics": "/ð/ and /θ/",
+    "grammar": "S+ make sure of st/ that + clause; Stop + Ving; What about/How about + N/Ving St?; Consider + Ving"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Busan",
+    "cityId": 28,
+    "districtName": "Haeundae District",
+    "districtId": "28-Haeundae District",
+    "topic": "W34: Dating",
+    "subject": "Being single is not as bad as it seems!",
+    "vocabulary": [
+      "Trip",
+      " Spend",
+      " Self-reliant",
+      " Self-esteem",
+      " Abroad",
+      " Schedule"
+    ],
+    "phonetics": "/u:/ and /ʊ/",
+    "grammar": "S+have/has+been+Ving (present perfect continuous); It’s + time + for Sb + to V"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Busan",
+    "cityId": 28,
+    "districtName": "Jung District",
+    "districtId": "28-Jung District",
+    "topic": "W18: Relationships",
+    "subject": "How to make new friends",
+    "vocabulary": [
+      "Staff",
+      " Visit",
+      " Beautiful",
+      " Tropical ",
+      " \nFabulous",
+      " Welcome"
+    ],
+    "phonetics": "/æ/ and /e/",
+    "grammar": "S+will+V(inf) (future simple); S+V(s/es) (present simple); S+have to + V(inf)"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Busan",
+    "cityId": 28,
+    "districtName": "Jung District",
+    "districtId": "28-Jung District",
+    "topic": "W18: Relationships",
+    "subject": "Talking about your ideal partner",
+    "vocabulary": [
+      "Intellectual",
+      " Type",
+      " Affectionate",
+      " Fulfill",
+      " Serve",
+      " Household responsibility",
+      " Throw the garbage"
+    ],
+    "phonetics": "/b/ and /p/",
+    "grammar": "My ideal partner is + a/an + adj + N.; I like + a/an + adj + N"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Busan",
+    "cityId": 28,
+    "districtName": "Jung District",
+    "districtId": "28-Jung District",
+    "topic": "W18: Relationships",
+    "subject": "Talking about Valentine's day",
+    "vocabulary": [
+      "Upcoming",
+      " Prepare",
+      " Special",
+      " Gift",
+      " Guitar ",
+      " A big surprise"
+    ],
+    "phonetics": "/s/ and /ʃ/",
+    "grammar": "Can S+V(inf)+O?; S + would + V(inf) + O?; S + should/shouldn't + V; want to V / want Sb to V?; take Sb to somewhere"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Busan",
+    "cityId": 28,
+    "districtName": "Jung District",
+    "districtId": "28-Jung District",
+    "topic": "W18: Relationships",
+    "subject": "Dating",
+    "vocabulary": [
+      "Drop in",
+      " Book-fair",
+      " Wonder",
+      " Date",
+      " Official",
+      " Pick somebody up"
+    ],
+    "phonetics": "/ɪ/ vs /i:/",
+    "grammar": "What about/How about + N/Ving St?; Would + S + like + to V?; pick Sb up"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Busan",
+    "cityId": 28,
+    "districtName": "Jung District",
+    "districtId": "28-Jung District",
+    "topic": "W18: Relationships",
+    "subject": "Talking About Marriage",
+    "vocabulary": [
+      "perfect",
+      " married",
+      " enjoy",
+      " supportive",
+      " together",
+      " special"
+    ],
+    "phonetics": "/æ/ and /e/",
+    "grammar": "S+ have/has + V(ed/p2) (present perfect); S+have/has+been+Ved/P2.; S+had+Ved/P2+O.; S+could+have+V(ed/p2)+O."
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Busan",
+    "cityId": 28,
+    "districtName": "Jung District",
+    "districtId": "28-Jung District",
+    "topic": "W18: Relationships",
+    "subject": "Talking About Your Children",
+    "vocabulary": [
+      "Pregnant",
+      " Lovely ",
+      " Name sb after sb ",
+      " Surprising ",
+      " Chance ",
+      " Playful"
+    ],
+    "phonetics": "/e/ vs /ei/",
+    "grammar": "enjoy + Ving = like + Ving = be fond of; S+is/ am/ are+Ving (present continuous); S+V(s/es) (present simple)"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Busan",
+    "cityId": 28,
+    "districtName": "Jung District",
+    "districtId": "28-Jung District",
+    "topic": "W18: Relationships",
+    "subject": "Ending a relationship",
+    "vocabulary": [
+      "feel down",
+      " break up ",
+      " move on ",
+      " comfort ",
+      " soulmate ",
+      " forget somebody/something"
+    ],
+    "phonetics": "/ɪ/ vs. /i:/",
+    "grammar": "Need+to V; S+ should +V(inf); Stop + Ving; want to V / want Sb to V"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Busan",
+    "cityId": 28,
+    "districtName": "Suyeong District",
+    "districtId": "28-Suyeong District",
+    "topic": "W15: Beauty",
+    "subject": "Talking about your skin problems",
+    "vocabulary": [
+      "Under the knife",
+      " Cosmetic surgery",
+      " Facelift",
+      " Wrinkle",
+      " Natural",
+      " Age"
+    ],
+    "phonetics": "/æ/ and /e/",
+    "grammar": "S + wish + S+ had+ V(ed/p2)"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Busan",
+    "cityId": 28,
+    "districtName": "Suyeong District",
+    "districtId": "28-Suyeong District",
+    "topic": "W15: Beauty",
+    "subject": "Asking for skincare advice",
+    "vocabulary": [
+      "Tip",
+      " Acne outbreak",
+      " Pop",
+      " Oily skin",
+      " Get rid of",
+      " Cleanser",
+      " Harsh",
+      " Soap"
+    ],
+    "phonetics": "/s/ and /ʃ/",
+    "grammar": "S +to be+V(ed/p2) (passive voice)"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Busan",
+    "cityId": 28,
+    "districtName": "Suyeong District",
+    "districtId": "28-Suyeong District",
+    "topic": "W15: Beauty",
+    "subject": "Going to a beauty salon",
+    "vocabulary": [
+      "Pedicure",
+      " Cosmetic ",
+      " Treatment",
+      " Remove",
+      " Cuticle",
+      " Smooth"
+    ],
+    "phonetics": "/e/ and /æ/",
+    "grammar": "S + offer + St; S + help + Sb + V(inf) St/ to V"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Busan",
+    "cityId": 28,
+    "districtName": "Suyeong District",
+    "districtId": "28-Suyeong District",
+    "topic": "W15: Beauty",
+    "subject": "At the hair salon",
+    "vocabulary": [
+      "Styled",
+      " Dye",
+      " Bangs",
+      " Curls",
+      " Trendy"
+    ],
+    "phonetics": "/t/ and /d/",
+    "grammar": "S + would like + N/to V"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Busan",
+    "cityId": 28,
+    "districtName": "Suyeong District",
+    "districtId": "28-Suyeong District",
+    "topic": "W15: Beauty",
+    "subject": "Keeping in shape",
+    "vocabulary": [
+      "Sign up",
+      " Membership",
+      " Branch",
+      " Work out",
+      " Fee",
+      " Discount"
+    ],
+    "phonetics": "/n/ and /ŋ/",
+    "grammar": "It’s + time + for Sb + to V; It + takes/took + Sb + amount of time + to V"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Busan",
+    "cityId": 28,
+    "districtName": "Suyeong District",
+    "districtId": "28-Suyeong District",
+    "topic": "W15: Beauty",
+    "subject": "Asking for instructions at the gym",
+    "vocabulary": [
+      "Instructor",
+      " Reduce",
+      " Weight",
+      " Common",
+      " Sit-ups",
+      " Diet"
+    ],
+    "phonetics": "/ʊ/ and /u:/",
+    "grammar": "S + find + it + adj to V; To prefer + N/ Ving + to + N/ Ving"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Busan",
+    "cityId": 28,
+    "districtName": "Suyeong District",
+    "districtId": "28-Suyeong District",
+    "topic": "W15: Beauty",
+    "subject": "At the nail salon",
+    "vocabulary": [
+      "Manicure",
+      " Pedicure",
+      " Nail polish",
+      " Pattern",
+      " Plain",
+      " Protect",
+      " Last"
+    ],
+    "phonetics": "/ɑː/ and /ʌ/",
+    "grammar": "S + to be keen on/ to be fond of + N/Ving; S + to be(not) interested in + N/Ving"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Incheon",
+    "cityId": 29,
+    "districtName": "Bupyeong District",
+    "districtId": "29-Bupyeong District",
+    "topic": "W10: Working with foreign partners",
+    "subject": "Making a business appointment",
+    "vocabulary": [
+      "Return one’s call",
+      " Promptly",
+      " Diary",
+      " Suit",
+      " Available",
+      " Convenient"
+    ],
+    "phonetics": "/iː/ and /ɪ/",
+    "grammar": "Get together; How does that sound to someone?"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Incheon",
+    "cityId": 29,
+    "districtName": "Bupyeong District",
+    "districtId": "29-Bupyeong District",
+    "topic": "W10: Working with foreign partners",
+    "subject": "How to cancel a business appointment by phone",
+    "vocabulary": [
+      "Cancel",
+      " Appointment",
+      " Inform",
+      " Emergency",
+      " Schedule"
+    ],
+    "phonetics": "/ə/ and /ɜː/",
+    "grammar": "would like to V; Cancel appointment ...."
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Incheon",
+    "cityId": 29,
+    "districtName": "Bupyeong District",
+    "districtId": "29-Bupyeong District",
+    "topic": "W10: Working with foreign partners",
+    "subject": "Rescheduling a business appointment",
+    "vocabulary": [
+      "Conflict",
+      " Reschedule",
+      " Possible",
+      " Early"
+    ],
+    "phonetics": "/t/ and /d/",
+    "grammar": "reschedule a meeting; to be convenient for Sb"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Incheon",
+    "cityId": 29,
+    "districtName": "Bupyeong District",
+    "districtId": "29-Bupyeong District",
+    "topic": "W10: Working with foreign partners",
+    "subject": "How to apologize for missing a meeting",
+    "vocabulary": [
+      "Unfortunately",
+      " Postpone",
+      " Situation",
+      " Appreciate",
+      " Help"
+    ],
+    "phonetics": "/s/ and /ʃ/",
+    "grammar": "S + to be + afraid of N/Ving/ to V"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Incheon",
+    "cityId": 29,
+    "districtName": "Bupyeong District",
+    "districtId": "29-Bupyeong District",
+    "topic": "W10: Working with foreign partners",
+    "subject": "Getting to know someone at a business party",
+    "vocabulary": [
+      "Pleased",
+      " Business",
+      " Market",
+      " Expand",
+      " Visit"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "have opportunity for Sb to V"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Incheon",
+    "cityId": 29,
+    "districtName": "Bupyeong District",
+    "districtId": "29-Bupyeong District",
+    "topic": "W10: Working with foreign partners",
+    "subject": "Inviting a business partner to dinner",
+    "vocabulary": [
+      "Client",
+      " Join",
+      " Invitation",
+      " Perhaps"
+    ],
+    "phonetics": "/b/ and /p/",
+    "grammar": "S+would like+to V"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Incheon",
+    "cityId": 29,
+    "districtName": "Bupyeong District",
+    "districtId": "29-Bupyeong District",
+    "topic": "W10: Working with foreign partners",
+    "subject": "Ways to say goodbye and keep in touch with your business partners",
+    "vocabulary": [
+      "Enjoy",
+      " Partner",
+      " Success",
+      " Cheers",
+      " Keep in touch"
+    ],
+    "phonetics": "/s/ and /z/",
+    "grammar": "keep in touch with sb"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Incheon",
+    "cityId": 29,
+    "districtName": "Dong District",
+    "districtId": "29-Dong District",
+    "topic": "W56: Air travel",
+    "subject": "Advantages of traveling by plane",
+    "vocabulary": [
+      "Prefer",
+      " Distance",
+      " Comfort",
+      " Satisfied",
+      " Flight attendant",
+      " Arragement"
+    ],
+    "phonetics": "/l/ and /r/",
+    "grammar": "What is your favorite + N?"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Incheon",
+    "cityId": 29,
+    "districtName": "Dong District",
+    "districtId": "29-Dong District",
+    "topic": "W56: Air travel",
+    "subject": "Cheap flights",
+    "vocabulary": [
+      "Book",
+      " Ticket",
+      " Cheap flight",
+      " Recommend",
+      " Fares",
+      " Domestic"
+    ],
+    "phonetics": "/k/ and /g/",
+    "grammar": "S+ try to V; S + recommend + somebody to do something"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Incheon",
+    "cityId": 29,
+    "districtName": "Dong District",
+    "districtId": "29-Dong District",
+    "topic": "W56: Air travel",
+    "subject": "Transporting animals by plane",
+    "vocabulary": [
+      "Book",
+      " Reservation",
+      " In advance",
+      " Cabin",
+      " Hold",
+      " Carrier"
+    ],
+    "phonetics": "/ɑː/ and /oʊ/",
+    "grammar": "Allow Sb to V; S + offer + St"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Incheon",
+    "cityId": 29,
+    "districtName": "Dong District",
+    "districtId": "29-Dong District",
+    "topic": "W56: Air travel",
+    "subject": "Packing tips for air travel",
+    "vocabulary": [
+      "Pack",
+      " Suitcase",
+      " Toiletries",
+      " Roll",
+      " Wrinkle",
+      " Leak",
+      " Toiletry bag"
+    ],
+    "phonetics": "/ɜː/ and /ə/",
+    "grammar": "Hate + Ving; S + should + V(inf) + instead of Ving"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Incheon",
+    "cityId": 29,
+    "districtName": "Dong District",
+    "districtId": "29-Dong District",
+    "topic": "W56: Air travel",
+    "subject": "Tips for having a good flight",
+    "vocabulary": [
+      "Book",
+      " Device",
+      " Hydrated",
+      " Blood sugar",
+      " Dip",
+      " Hand sanitizer"
+    ],
+    "phonetics": "/s/ and /ʃ/",
+    "grammar": "Remember to V; need to make sure Sb + V(inf)"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Incheon",
+    "cityId": 29,
+    "districtName": "Dong District",
+    "districtId": "29-Dong District",
+    "topic": "W56: Air travel",
+    "subject": "How safe is air travel?",
+    "vocabulary": [
+      "Accident",
+      " Terrify",
+      " Transport",
+      " Statistic",
+      " Generation",
+      " Aircraft",
+      " Relieved"
+    ],
+    "phonetics": "/e/ and /ɪ/",
+    "grammar": "Even if S+V.; What happen if..."
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Incheon",
+    "cityId": 29,
+    "districtName": "Dong District",
+    "districtId": "29-Dong District",
+    "topic": "W56: Air travel",
+    "subject": "The impact of air travel on climate change",
+    "vocabulary": [
+      "Negative",
+      " Aviation",
+      " Emission",
+      " Climate",
+      " Control",
+      " Sustainable"
+    ],
+    "phonetics": "/ɪ/ and /eɪ/",
+    "grammar": "I think S should + V(inf); look for + Sb/N"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Incheon",
+    "cityId": 29,
+    "districtName": "Ganghwado",
+    "districtId": "29-Ganghwado",
+    "topic": "W30: Talking about your country",
+    "subject": "Beautiful places in your country",
+    "vocabulary": [
+      "Attraction",
+      " Landmark",
+      " Iconic",
+      " Worth something/doing something",
+      " Incredible",
+      " Landscape",
+      " Marvelous",
+      " Experience"
+    ],
+    "phonetics": "/æ/ and /e/",
+    "grammar": "What + a/an + adj + N!; How+adj/adv+S+V!; S +to be+such a/an+adj+N!"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Incheon",
+    "cityId": 29,
+    "districtName": "Ganghwado",
+    "districtId": "29-Ganghwado",
+    "topic": "W30: Talking about your country",
+    "subject": "Talking about cuisine",
+    "vocabulary": [
+      "Cuisine",
+      " Must-try",
+      " Specialty",
+      " Delicious",
+      " Street food",
+      " Taste",
+      " Crave for something"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "S+would like+to V; S+can't help+Ving"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Incheon",
+    "cityId": 29,
+    "districtName": "Ganghwado",
+    "districtId": "29-Ganghwado",
+    "topic": "W30: Talking about your country",
+    "subject": "Talking about your hometown",
+    "vocabulary": [
+      "Famous for something",
+      " Region",
+      " Vineyard",
+      " Vintage",
+      " Explore",
+      " Bloom"
+    ],
+    "phonetics": "/s/ and /ʃ/",
+    "grammar": "S + can’t wait to V"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Incheon",
+    "cityId": 29,
+    "districtName": "Ganghwado",
+    "districtId": "29-Ganghwado",
+    "topic": "W30: Talking about your country",
+    "subject": "Common outdoor activities in your country",
+    "vocabulary": [
+      "Surfing",
+      " Common",
+      " Activity",
+      " Popular",
+      " Skillful",
+      " Careful",
+      " Skiing"
+    ],
+    "phonetics": "/ɔː/ and /ɑː/",
+    "grammar": "Wh-question word + can + S + V?; Can S+V(inf)+O?"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Incheon",
+    "cityId": 29,
+    "districtName": "Ganghwado",
+    "districtId": "29-Ganghwado",
+    "topic": "W30: Talking about your country",
+    "subject": "Talking about your favorite city",
+    "vocabulary": [
+      "Move",
+      " Have something in mind",
+      " Specific",
+      " Culture",
+      " Scenery",
+      " Cost"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "S+heard that + clause; Can S+V(inf)+O?; S+will+V(inf) (future simple); S+ have/has + V(ed/p2) (present perfect)"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Incheon",
+    "cityId": 29,
+    "districtName": "Ganghwado",
+    "districtId": "29-Ganghwado",
+    "topic": "W30: Talking about your country",
+    "subject": "How does your country celebrate important holidays?",
+    "vocabulary": [
+      "Celebrate",
+      " Turkey",
+      " Pie",
+      " Decorate",
+      " Festive",
+      " Gift"
+    ],
+    "phonetics": "/æ/ and /e/",
+    "grammar": "S+to be+the adj-est/ the most adj +N (superlatives); S +to be+V(ed/p2) (passive voice)"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Incheon",
+    "cityId": 29,
+    "districtName": "Ganghwado",
+    "districtId": "29-Ganghwado",
+    "topic": "W30: Talking about your country",
+    "subject": "Environmental problems in your country",
+    "vocabulary": [
+      "Drought",
+      " Air pollution",
+      " Suffer",
+      " Effect",
+      " Advanced",
+      " Recycle"
+    ],
+    "phonetics": "/e/ and /eɪ/",
+    "grammar": "What about/How about + N/Ving St?; S+to be+the adj-est/ the most adj +N (superlatives); More and more + adj; S+don't/doesn't+V(inf)"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Incheon",
+    "cityId": 29,
+    "districtName": "Namdong District",
+    "districtId": "29-Namdong District",
+    "topic": "W42: Back to school",
+    "subject": "Private schools vs. public schools",
+    "vocabulary": [
+      "Public school",
+      " Private school",
+      " Advantage",
+      " Involvement",
+      " Qualified",
+      " Sponsor"
+    ],
+    "phonetics": "/ɜː/ and /ə/",
+    "grammar": "To prefer + N/ Ving + to + N/ Ving"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Incheon",
+    "cityId": 29,
+    "districtName": "Namdong District",
+    "districtId": "29-Namdong District",
+    "topic": "W42: Back to school",
+    "subject": "Preparing for back to school",
+    "vocabulary": [
+      "Do somebody a favor",
+      " Positive",
+      " Routine ",
+      " React",
+      " Familiar",
+      " Encourage",
+      " Behavior"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "prepare Sb for St; It is very important for Sb to V; Do Sb a favor"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Incheon",
+    "cityId": 29,
+    "districtName": "Namdong District",
+    "districtId": "29-Namdong District",
+    "topic": "W42: Back to school",
+    "subject": "Helping your children get good grades",
+    "vocabulary": [
+      "Mark",
+      " Deserve",
+      " Apply",
+      " Organized",
+      " Praise",
+      " Keep an eye on"
+    ],
+    "phonetics": "/l/ and /r/",
+    "grammar": "recommend +Ving/ that+S+V(inf); Keep an eye on St; What can +S +V(inf)?; Never forget to V"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Incheon",
+    "cityId": 29,
+    "districtName": "Namdong District",
+    "districtId": "29-Namdong District",
+    "topic": "W42: Back to school",
+    "subject": "Talking about scholarships",
+    "vocabulary": [
+      "Prestigious",
+      " Doubt",
+      " Enter",
+      " Prove",
+      " Apply",
+      " Determination"
+    ],
+    "phonetics": "/s/ and /ʃ/",
+    "grammar": "to receive St (from Sb)"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Incheon",
+    "cityId": 29,
+    "districtName": "Namdong District",
+    "districtId": "29-Namdong District",
+    "topic": "W42: Back to school",
+    "subject": "Stress at school",
+    "vocabulary": [
+      "Suffer",
+      " Burden",
+      " Academic",
+      " Frustration",
+      " Intense",
+      " Stressed out"
+    ],
+    "phonetics": "/oʊ/ and /ɔ:/",
+    "grammar": "to be burdened by St; to be + stressed out; intense"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Incheon",
+    "cityId": 29,
+    "districtName": "Namdong District",
+    "districtId": "29-Namdong District",
+    "topic": "W42: Back to school",
+    "subject": "After-school activities",
+    "vocabulary": [
+      "Take part",
+      " Informal",
+      " Outdoor",
+      " Communicate",
+      " Physically",
+      " Mentally",
+      " Creative"
+    ],
+    "phonetics": "/æ/ and /e/",
+    "grammar": "Take part in + St/ Ving"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Incheon",
+    "cityId": 29,
+    "districtName": "Namdong District",
+    "districtId": "29-Namdong District",
+    "topic": "W42: Back to school",
+    "subject": "Cheating in exams",
+    "vocabulary": [
+      "High-tech ",
+      " Handle",
+      " Hide ",
+      " Alert",
+      " Monitor ",
+      " Prohibit",
+      " Suspect"
+    ],
+    "phonetics": "/f/ and /p/",
+    "grammar": "Cheating"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Daejeon",
+    "cityId": 30,
+    "districtName": "Daedeok District",
+    "districtId": "30-Daedeok District",
+    "topic": "W59: Smartphones",
+    "subject": "Your favorite smartphone functions",
+    "vocabulary": [
+      "Keep in touch",
+      " Standard",
+      " Connect",
+      " Handheld",
+      " Up-to-date",
+      " Storage"
+    ],
+    "phonetics": "/s/ and /z/",
+    "grammar": "Like/love + Ving/N; S+ help Sb to V; Can S+V(inf)+O?"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Daejeon",
+    "cityId": 30,
+    "districtName": "Daedeok District",
+    "districtId": "30-Daedeok District",
+    "topic": "W59: Smartphones",
+    "subject": "The best smartphone brand",
+    "vocabulary": [
+      "Recommendation",
+      " Bump up",
+      " Confuse",
+      " Water-resistant",
+      " Capability",
+      " Consult"
+    ],
+    "phonetics": "/f/ and /p/",
+    "grammar": "S+ have/has + V(ed/p2) (present perfect); S+am/is/are+Ving (present continuous); to think of; need to make sure Sb + V(inf); recommend +Ving/ that+S+V(inf); S+to be+the adj-est/ the most adj +N (superlatives)"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Daejeon",
+    "cityId": 30,
+    "districtName": "Daedeok District",
+    "districtId": "30-Daedeok District",
+    "topic": "W59: Smartphones",
+    "subject": "Using phones while driving",
+    "vocabulary": [
+      "Immediately",
+      " Potential",
+      " Distracted",
+      " Unpredictable",
+      " Risky",
+      " Concentration",
+      " Hands-free"
+    ],
+    "phonetics": "/t/ and /d/",
+    "grammar": "S+should+V(inf); S+have to + V(inf); S+could +V+O.; If + S + were + V2/ Ved, S + would/could/should + V"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Daejeon",
+    "cityId": 30,
+    "districtName": "Daedeok District",
+    "districtId": "30-Daedeok District",
+    "topic": "W59: Smartphones",
+    "subject": "Are smartphones dangerous for your health?",
+    "vocabulary": [
+      "Stare at",
+      " Vision",
+      " Eye strain",
+      " Companion",
+      " For the sake of"
+    ],
+    "phonetics": "/m/ and /n/",
+    "grammar": "Feel+adj; to stare at; effect on; S+ try to V; Have trouble Ving"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Daejeon",
+    "cityId": 30,
+    "districtName": "Daedeok District",
+    "districtId": "30-Daedeok District",
+    "topic": "W59: Smartphones",
+    "subject": "Reasons for banning mobile phones in schools",
+    "vocabulary": [
+      "Ban",
+      " Emergency",
+      " Disruption",
+      " Cheat",
+      " Text",
+      " Distract"
+    ],
+    "phonetics": "/l/ and /r/",
+    "grammar": "S+should+be+V(ed/p2).; S + might + V(inf); aside from; to think of"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Daejeon",
+    "cityId": 30,
+    "districtName": "Daedeok District",
+    "districtId": "30-Daedeok District",
+    "topic": "W59: Smartphones",
+    "subject": "Life without mobile phones",
+    "vocabulary": [
+      "Cell phone",
+      " Stick to something",
+      " Phobia",
+      " Unexpected",
+      " Main",
+      " Disconnected"
+    ],
+    "phonetics": "/d/ and /ʤ/",
+    "grammar": "S+could+V.; S+would be adj.; Ving st is+ adj+ for Sb; S+ communicate St to Sb/St."
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Daejeon",
+    "cityId": 30,
+    "districtName": "Daedeok District",
+    "districtId": "30-Daedeok District",
+    "topic": "W59: Smartphones",
+    "subject": "Children's use of mobile phones",
+    "vocabulary": [
+      "Addicted",
+      " Explicit",
+      " Smartphone",
+      " Necessary",
+      " Communicate",
+      " Monitor"
+    ],
+    "phonetics": "/oʊ/ and /ɔ:/",
+    "grammar": "S+ ask (Sb) for St.; S+to be+too adj+to V; S+ spend + amount of time/ money + Ving/ on st; to have a talk with + Sb; let + Sb + V(inf); It is/was+adj for Sb to V; S+V(ed/p1) (past simple)"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Daejeon",
+    "cityId": 30,
+    "districtName": "Dong District",
+    "districtId": "30-Dong District",
+    "topic": "W37: At the workplace",
+    "subject": "Talking about your manager",
+    "vocabulary": [
+      "Manager",
+      " Inform",
+      " Cancel",
+      " Upset",
+      " Calm down",
+      " Relax"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "to think about + Sb/St/Ving; A/an/the+adv+adj+N; Like sb/st"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Daejeon",
+    "cityId": 30,
+    "districtName": "Dong District",
+    "districtId": "30-Dong District",
+    "topic": "W37: At the workplace",
+    "subject": "Talking about office equipment",
+    "vocabulary": [
+      "Battery",
+      " Equipment",
+      " Plug in",
+      " Hardware ",
+      " Software",
+      " Technician"
+    ],
+    "phonetics": "/e/ and /eɪ/",
+    "grammar": "Can/Could you tell me …?; Do you know where S can find …?; It’s next to the + N."
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Daejeon",
+    "cityId": 30,
+    "districtName": "Dong District",
+    "districtId": "30-Dong District",
+    "topic": "W37: At the workplace",
+    "subject": "Who do you want to work with?",
+    "vocabulary": [
+      "Colleague",
+      " One another",
+      " Teammate",
+      " Careless",
+      " Responsible",
+      " Stress"
+    ],
+    "phonetics": "/s/ and /ʃ/",
+    "grammar": "S + help + Sb + V(inf) St/ to V; enjoy + Ving = like + Ving = be fond of"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Daejeon",
+    "cityId": 30,
+    "districtName": "Dong District",
+    "districtId": "30-Dong District",
+    "topic": "W37: At the workplace",
+    "subject": "What do you expect from your job?",
+    "vocabulary": [
+      "Impressive",
+      " Potential ",
+      "  Offer",
+      " Consider",
+      " Tier",
+      " Approachable",
+      " Assist"
+    ],
+    "phonetics": "/oʊ/ and /ɔ:/",
+    "grammar": "to expect + to V; want to V / want Sb to V"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Daejeon",
+    "cityId": 30,
+    "districtName": "Dong District",
+    "districtId": "30-Dong District",
+    "topic": "W37: At the workplace",
+    "subject": "Meetings in the workplace",
+    "vocabulary": [
+      "Progression",
+      " Propose",
+      " Sponsor",
+      " Refuse",
+      " Financial",
+      " Maintenance"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "S+ try to V; to ask Sb about +Sb/St/ Ving"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Daejeon",
+    "cityId": 30,
+    "districtName": "Dong District",
+    "districtId": "30-Dong District",
+    "topic": "W37: At the workplace",
+    "subject": "Talking about a company event",
+    "vocabulary": [
+      "Organize",
+      " Team building",
+      " Department",
+      " Buffet",
+      "  Look forward to something/doing something",
+      " Competition",
+      " Reward"
+    ],
+    "phonetics": "/ʧ/ and /t/",
+    "grammar": "S+will+V(inf) (future simple)"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Daejeon",
+    "cityId": 30,
+    "districtName": "Dong District",
+    "districtId": "30-Dong District",
+    "topic": "W37: At the workplace",
+    "subject": "What is your ideal working environment?",
+    "vocabulary": [
+      "Overload",
+      " Keep pace with somebody/something",
+      " Competitive",
+      " Flatter",
+      " Behind someone’s back",
+      " Straightforward"
+    ],
+    "phonetics": "/t/ and /d/",
+    "grammar": "to think about + Sb/St/Ving; A/an/the+adv+adj+N; Can/Could you tell me …?; Do you know where S can find …?; It’s next to the + N."
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Daejeon",
+    "cityId": 30,
+    "districtName": "Jung District",
+    "districtId": "30-Jung District",
+    "topic": "W17: Education",
+    "subject": "Choosing a college",
+    "vocabulary": [
+      "Make up someone’s mind",
+      " Go for",
+      " Scholarship",
+      " Consider",
+      " Take a course",
+      " Undergraduate",
+      " Focus"
+    ],
+    "phonetics": "/ɔː/ and /ɑː/",
+    "grammar": "What + Auxilary verb + plan to V?; Wh question word + Auxilary verb + S + think of St?; Apply to; Consider + Ving; Whether St or St"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Daejeon",
+    "cityId": 30,
+    "districtName": "Jung District",
+    "districtId": "30-Jung District",
+    "topic": "W17: Education",
+    "subject": "The first day of college",
+    "vocabulary": [
+      "Freshman",
+      " Experience",
+      " Major in something",
+      " Pick up something",
+      " Syllabus"
+    ],
+    "phonetics": "/s/ and /z/",
+    "grammar": "I guess ....; Where do you come from?; Why did you do something?; Decide to V; This is the best something"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Daejeon",
+    "cityId": 30,
+    "districtName": "Jung District",
+    "districtId": "30-Jung District",
+    "topic": "W17: Education",
+    "subject": "Talking about examinations",
+    "vocabulary": [
+      "Top something",
+      " Expect",
+      " Gift",
+      " Handle",
+      " Pretty",
+      " Focus"
+    ],
+    "phonetics": "/æ/ vs. /e/",
+    "grammar": "How + tobe + subject + adverb of place; Subject + interrogative auxilary verb + verb + O; There + to be + no point in + Ving; be + worried about + N/ Ving"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Daejeon",
+    "cityId": 30,
+    "districtName": "Jung District",
+    "districtId": "30-Jung District",
+    "topic": "W17: Education",
+    "subject": "At the principal office",
+    "vocabulary": [
+      "transfer",
+      " certificate",
+      " session",
+      " relative ",
+      " receipt",
+      " clerk"
+    ],
+    "phonetics": "/k/ and /g/",
+    "grammar": "May/Could/Should ... (Modal Verbs) + Subject + Verb; to receive St (from Sb); There is/ There are + N; to keep up with Sb/St"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Daejeon",
+    "cityId": 30,
+    "districtName": "Jung District",
+    "districtId": "30-Jung District",
+    "topic": "W17: Education",
+    "subject": "Talking with your teachers",
+    "vocabulary": [
+      "Suffer",
+      " Propose",
+      " Eager (to do something)",
+      " Tournament",
+      " Extra class",
+      " Make up for"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "May/Could/Should ... (Modal Verbs) + Subject + Verb + adverb of time; What + tobe + subject?; On time"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Daejeon",
+    "cityId": 30,
+    "districtName": "Jung District",
+    "districtId": "30-Jung District",
+    "topic": "W17: Education",
+    "subject": "Graduation parties",
+    "vocabulary": [
+      "Believe",
+      " Graduate",
+      " Community college",
+      " Smart",
+      " Enough",
+      " Dance",
+      " Last"
+    ],
+    "phonetics": "/t/ and /d/",
+    "grammar": "When + auxilary verb + S + V(inf)?; Do + S + want St?; Can/ Could + S + believe st/clause?; What + auxilary verb + S + going to V?"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Daejeon",
+    "cityId": 30,
+    "districtName": "Jung District",
+    "districtId": "30-Jung District",
+    "topic": "W17: Education",
+    "subject": "Talking about career choices",
+    "vocabulary": [
+      "Interior designing",
+      " Sign up",
+      " Diploma program",
+      " Select",
+      " Backup",
+      " Practical training",
+      " Sort out"
+    ],
+    "phonetics": "/ɜː/ and /ə/",
+    "grammar": "S + to be really confused about St?; sign up for; want to become; S + will/would/should + work at"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Daejeon",
+    "cityId": 30,
+    "districtName": "Yuseong District",
+    "districtId": "30-Yuseong District",
+    "topic": "W8: Accommodation",
+    "subject": "Booking a tour with a travel agency",
+    "vocabulary": [
+      "Vacation",
+      " brochure",
+      " high- class ",
+      " Alone",
+      " Book"
+    ],
+    "phonetics": "/b/ and /p/",
+    "grammar": "Could you give me +N?; How much + do/does/would + S + cost?; S+would like+to V; hop on hop off; S + modal verb + V(inf)"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Daejeon",
+    "cityId": 30,
+    "districtName": "Yuseong District",
+    "districtId": "30-Yuseong District",
+    "topic": "W8: Accommodation",
+    "subject": "Looking for an apartment",
+    "vocabulary": [
+      "Apartment",
+      " Advertisement",
+      " Affordable",
+      " Building",
+      " Vacancy",
+      " Hire"
+    ],
+    "phonetics": "/e/ and /æ/",
+    "grammar": "S+will+V(inf) (future simple); How much can + Sb + pay?; S+would+V+O?; look for + Sb/N; Hope to V; let + Sb + V(inf)"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Daejeon",
+    "cityId": 30,
+    "districtName": "Yuseong District",
+    "districtId": "30-Yuseong District",
+    "topic": "W8: Accommodation",
+    "subject": "Giving directions",
+    "vocabulary": [
+      "Way",
+      " Straigh",
+      " Between",
+      " street",
+      " turn"
+    ],
+    "phonetics": "/s/and /z/",
+    "grammar": "Where is + N?; It is on …. street; How + auxilary verb + Subject + get there from here?; Take the second turn on the left; Auxilary verb + Subject + close by something?"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Daejeon",
+    "cityId": 30,
+    "districtName": "Yuseong District",
+    "districtId": "30-Yuseong District",
+    "topic": "W8: Accommodation",
+    "subject": "Canceling a hotel reservation",
+    "vocabulary": [
+      "Reservation",
+      " Cancel",
+      " Receive",
+      " Arrival",
+      " Choose"
+    ],
+    "phonetics": "/e/ vs. /æ/",
+    "grammar": "Where is + N?; It is on …. street; How + auxilary verb + Subject + get there from here?; Take the second turn on the left; Auxilary verb + Subject + close by something?; Is it close by? : Nó ở gần đó chứ?"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Daejeon",
+    "cityId": 30,
+    "districtName": "Yuseong District",
+    "districtId": "30-Yuseong District",
+    "topic": "W8: Accommodation",
+    "subject": "Complaining about bad services at a hotel",
+    "vocabulary": [
+      "Bill",
+      " Charge",
+      " Check",
+      " Apologize",
+      " Manager"
+    ],
+    "phonetics": "/i/ vs. /iː/",
+    "grammar": "make a complaint about St; Pass on"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Daejeon",
+    "cityId": 30,
+    "districtName": "Yuseong District",
+    "districtId": "30-Yuseong District",
+    "topic": "W8: Accommodation",
+    "subject": "How to check out a hotel",
+    "vocabulary": [
+      "Consume",
+      " minibar",
+      " bottle",
+      " sign"
+    ],
+    "phonetics": "/l/ and /n/",
+    "grammar": "S+would like to check out.; Can S have St?; How would Sb like to pay for that?; How many +N + auxiliary verb + S + have?"
+  },
+  {
+    "country": "South Korea",
+    "countryId": 26,
+    "city": "Daejeon",
+    "cityId": 30,
+    "districtName": "Yuseong District",
+    "districtId": "30-Yuseong District",
+    "topic": "W8: Accommodation",
+    "subject": "Asking for services at a hotel when checking out",
+    "vocabulary": [
+      "Check out",
+      " Send",
+      " Heavy",
+      " Bellboy",
+      " Need"
+    ],
+    "phonetics": "/i/ and /i:/",
+    "grammar": "Did you consume something?; Can you send + Sb + St?"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuala Lumpur",
+    "cityId": 34,
+    "districtName": "Bangsar",
+    "districtId": "34-Bangsar",
+    "topic": "W12: Transportation",
+    "subject": "Asking for advice about taking a means of public transportation",
+    "vocabulary": [
+      "Leave",
+      " Subway",
+      " Fast",
+      " Safe",
+      " Hang around",
+      " Bus stop"
+    ],
+    "phonetics": "/t/ and /d/",
+    "grammar": "It is about + distance+ from...to....; It + takes/took + Sb + amount of time + to V; What about/How about + N/Ving St?; As+adj+as"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuala Lumpur",
+    "cityId": 34,
+    "districtName": "Bangsar",
+    "districtId": "34-Bangsar",
+    "topic": "W12: Transportation",
+    "subject": "Asking about how to take the bus",
+    "vocabulary": [
+      "Area",
+      " Block",
+      " Fare",
+      " Destination",
+      " Directly"
+    ],
+    "phonetics": "/s/ and /z/",
+    "grammar": "Could you tell me/Do you know where + place + is?; Which bus goes to+place?; S+should+V(inf)"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuala Lumpur",
+    "cityId": 34,
+    "districtName": "Bangsar",
+    "districtId": "34-Bangsar",
+    "topic": "W12: Transportation",
+    "subject": "Calling for a taxi",
+    "vocabulary": [
+      "Arrive",
+      " Fee",
+      " Extra",
+      " Automatic",
+      " Straight"
+    ],
+    "phonetics": "/æ/ and /e/",
+    "grammar": "S+would like+to V; S+is/ am/ are+Ving (present continuous); S+ will be+Ving"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuala Lumpur",
+    "cityId": 34,
+    "districtName": "Bangsar",
+    "districtId": "34-Bangsar",
+    "topic": "W12: Transportation",
+    "subject": "Which train should I take",
+    "vocabulary": [
+      "Train",
+      " Near",
+      " Nearby",
+      " Cab",
+      " Walk",
+      " Far"
+    ],
+    "phonetics": "/n/ vs /ŋ/",
+    "grammar": "Need+to V; Need+V(inf); S+V(s/es) (present simple); S+will+V(inf) (future simple)"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuala Lumpur",
+    "cityId": 34,
+    "districtName": "Bangsar",
+    "districtId": "34-Bangsar",
+    "topic": "W12: Transportation",
+    "subject": "Buying a ticket at the train station",
+    "vocabulary": [
+      "First class",
+      " Standard",
+      " Seat",
+      " One-way",
+      " Round-trip ticket"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "S+would like+to V; S+is/ am/ are+Ving (present continuous); S+will+V(inf) (future simple)"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuala Lumpur",
+    "cityId": 34,
+    "districtName": "Bangsar",
+    "districtId": "34-Bangsar",
+    "topic": "W12: Transportation",
+    "subject": "Checking baggage at the train station",
+    "vocabulary": [
+      "Mileage",
+      " Scale",
+      " Pack",
+      " Unattended",
+      " Attach"
+    ],
+    "phonetics": "/d/ and /ʤ/",
+    "grammar": "let + Sb + V(inf); S+ would like/ want/wish + to V; There is/ There are + N; Can + V(inf)"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuala Lumpur",
+    "cityId": 34,
+    "districtName": "Bangsar",
+    "districtId": "34-Bangsar",
+    "topic": "W12: Transportation",
+    "subject": "Talking about transportation",
+    "vocabulary": [
+      "Drive",
+      " Useful",
+      " Only",
+      " Transportation",
+      " Vehicle",
+      " Fit"
+    ],
+    "phonetics": "/ə/ and /ɜː/",
+    "grammar": "How + do/does S get to that place?; It takes + Sb + time + to V"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuala Lumpur",
+    "cityId": 34,
+    "districtName": "Bukit Bintang",
+    "districtId": "34-Bukit Bintang",
+    "topic": "W23: Food and drink",
+    "subject": "What kind of food do you like?",
+    "vocabulary": [
+      "stuff",
+      " skewer",
+      " prefer ",
+      " creamy ",
+      " delicious ",
+      " bite"
+    ],
+    "phonetics": "/æ/ and /ʌ/",
+    "grammar": "To prefer + N/ Ving + to + N/ Ving; S + prefer + N + to + N.; S + prefer + to V + rather than V(inf); Hope that+clause"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuala Lumpur",
+    "cityId": 34,
+    "districtName": "Bukit Bintang",
+    "districtId": "34-Bukit Bintang",
+    "topic": "W23: Food and drink",
+    "subject": "Eating out at a restaurant",
+    "vocabulary": [
+      "mineral water",
+      " recommend",
+      " lobster",
+      " starter",
+      " consommé",
+      " side dish"
+    ],
+    "phonetics": "/æ/ and /e/",
+    "grammar": "What would Sb like to V?"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuala Lumpur",
+    "cityId": 34,
+    "districtName": "Bukit Bintang",
+    "districtId": "34-Bukit Bintang",
+    "topic": "W23: Food and drink",
+    "subject": "How to make a cake",
+    "vocabulary": [
+      "ingredient",
+      " Baking powder",
+      " crack",
+      " yolk",
+      " white",
+      " separate"
+    ],
+    "phonetics": "/ɔː/ and /ɑː/",
+    "grammar": "Can you teach me how to V?; What kind of + N + should S + V(inf)?; S+have to + V(inf); Mix St up; Can S+V(inf)+O?; What should sb V st?; What about/How about + N/Ving St?"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuala Lumpur",
+    "cityId": 34,
+    "districtName": "Bukit Bintang",
+    "districtId": "34-Bukit Bintang",
+    "topic": "W23: Food and drink",
+    "subject": "In a café",
+    "vocabulary": [
+      "ground",
+      " instant ",
+      " on second thought",
+      " cookie",
+      " iced ",
+      " cookie"
+    ],
+    "phonetics": "/k/ and /g/",
+    "grammar": "What would Sb like to V?; Can S have St?"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuala Lumpur",
+    "cityId": 34,
+    "districtName": "Bukit Bintang",
+    "districtId": "34-Bukit Bintang",
+    "topic": "W23: Food and drink",
+    "subject": "Buying food at a supermarket",
+    "vocabulary": [
+      "Marshmallow",
+      " Section",
+      " Dairy section",
+      " Brand ",
+      " Look for",
+      " Counter ",
+      " Display"
+    ],
+    "phonetics": "/s/ and /ʃ/",
+    "grammar": "look for + Sb/N; Where is + N?; Where can + S + find + N?; What + N + do you have?"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuala Lumpur",
+    "cityId": 34,
+    "districtName": "Bukit Bintang",
+    "districtId": "34-Bukit Bintang",
+    "topic": "W23: Food and drink",
+    "subject": "Breakfast recommendations",
+    "vocabulary": [
+      "Recommend",
+      " Pancake",
+      " Bacon",
+      " Delicious",
+      " Yummy",
+      " Juice"
+    ],
+    "phonetics": "/æ/ and /e/",
+    "grammar": "recommend +Ving/ that+S+V(inf); S + recommend + somebody + to V."
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuala Lumpur",
+    "cityId": 34,
+    "districtName": "Bukit Bintang",
+    "districtId": "34-Bukit Bintang",
+    "topic": "W23: Food and drink",
+    "subject": "Being a vegetarian",
+    "vocabulary": [
+      "Oat",
+      " Willpower ",
+      " Give up ",
+      " Get the hang of something ",
+      " Persuade ",
+      " Nutrition"
+    ],
+    "phonetics": "/f/ and /p/",
+    "grammar": "give up st; need to make sure Sb + V(inf)"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuala Lumpur",
+    "cityId": 34,
+    "districtName": "China Town",
+    "districtId": "34-China Town",
+    "topic": "W22: Festivals",
+    "subject": "What is that festival about?",
+    "vocabulary": [
+      "day off",
+      " countdown",
+      " New Year’s Eve",
+      " wish",
+      " project",
+      " catch up on"
+    ],
+    "phonetics": "/ə/ and /ɜː/",
+    "grammar": "What are your plans for …?; S + am/ is/ are going to V; S+ have/has + V(ed/p2) (present perfect)"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuala Lumpur",
+    "cityId": 34,
+    "districtName": "China Town",
+    "districtId": "34-China Town",
+    "topic": "W22: Festivals",
+    "subject": "Let's go to a flower festival",
+    "vocabulary": [
+      "take place",
+      " cherry blossom",
+      " in full bloom",
+      " picnic",
+      " traditional",
+      " sushi"
+    ],
+    "phonetics": "/v/ and /f/",
+    "grammar": "S+would like+to V; I was wondering if you would like + to V; sound+adj; Sorry, I'm afraid I'm busy tonight."
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuala Lumpur",
+    "cityId": 34,
+    "districtName": "China Town",
+    "districtId": "34-China Town",
+    "topic": "W22: Festivals",
+    "subject": "The items we should take to festivals",
+    "vocabulary": [
+      "hurry up",
+      " flashlight",
+      " battery",
+      " towel",
+      " medication",
+      " (just) in case"
+    ],
+    "phonetics": "/l/ and /r/",
+    "grammar": "S + should/shouldn't + V; Why don’t we / you + V(inf)?; suggest + Ving"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuala Lumpur",
+    "cityId": 34,
+    "districtName": "China Town",
+    "districtId": "34-China Town",
+    "topic": "W22: Festivals",
+    "subject": "I love music festivals",
+    "vocabulary": [
+      "huge",
+      " line-up",
+      " headline",
+      " headline act",
+      " fantastic"
+    ],
+    "phonetics": "/e/ and /eɪ/",
+    "grammar": "A/an/the+adv+adj+N; S+will+V(inf) (future simple)"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuala Lumpur",
+    "cityId": 34,
+    "districtName": "China Town",
+    "districtId": "34-China Town",
+    "topic": "W22: Festivals",
+    "subject": "Talking about activities at a festival",
+    "vocabulary": [
+      "ingredient",
+      " Baking powder",
+      " crack",
+      " yolk",
+      " white",
+      " separate"
+    ],
+    "phonetics": "/d/ and /t/",
+    "grammar": "There+to be+N..; Can S+V(inf)+O?; S+V(ed/p1) (past simple)"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuala Lumpur",
+    "cityId": 34,
+    "districtName": "China Town",
+    "districtId": "34-China Town",
+    "topic": "W22: Festivals",
+    "subject": "Inviting your friend to a festival",
+    "vocabulary": [
+      "Take a drive",
+      " Huge",
+      " Interested",
+      " Plenty",
+      " Explore",
+      " Pick somebody up"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "want to V / want Sb to V?; Let’s + V.; Would you be interested in + Ving ?; That's very nice.; That's a great idea.; I can't. I have to work that night."
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuala Lumpur",
+    "cityId": 34,
+    "districtName": "China Town",
+    "districtId": "34-China Town",
+    "topic": "W22: Festivals",
+    "subject": "Setting up a festival",
+    "vocabulary": [
+      "Set up",
+      " Invitation letter",
+      " Decorate",
+      " Lantern",
+      " Tissue",
+      " Remind"
+    ],
+    "phonetics": "/b/ and /p/",
+    "grammar": "want to V / want Sb to V?; S+ would like/ want/wish + to V; S would be happy to V; What can +S +V(inf)?"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuala Lumpur",
+    "cityId": 34,
+    "districtName": "Kuala Lumpur City Center",
+    "districtId": "34-Kuala Lumpur City Center",
+    "topic": "W14: Restaurants",
+    "subject": "Choosing a good restaurant",
+    "vocabulary": [
+      "Eat out",
+      " Offer",
+      " Serve ",
+      " Traditional ",
+      " Street food ",
+      " Specialty ",
+      " Signature"
+    ],
+    "phonetics": "/ʊ/ and /uː/",
+    "grammar": "Let’s + V + ...; Shall we + V(inf)?; What about/How about + N/Ving St?; suggest + Ving"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuala Lumpur",
+    "cityId": 34,
+    "districtName": "Kuala Lumpur City Center",
+    "districtId": "34-Kuala Lumpur City Center",
+    "topic": "W14: Restaurants",
+    "subject": "Asking for suggestions on how to hold a party at a restaurant",
+    "vocabulary": [
+      "Celebrate",
+      " Arrange",
+      " Reservation",
+      " Standard ",
+      " Decoration ",
+      " Theme"
+    ],
+    "phonetics": "/ɑː/and /æ/",
+    "grammar": "What do you think I should + V(inf)?; S+should+V(inf)"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuala Lumpur",
+    "cityId": 34,
+    "districtName": "Kuala Lumpur City Center",
+    "districtId": "34-Kuala Lumpur City Center",
+    "topic": "W14: Restaurants",
+    "subject": "Inviting your colleagues to your farewell party at a restaurant",
+    "vocabulary": [
+      "Farewell",
+      " Arrangement(s) ",
+      " Invitation ",
+      " Fix ",
+      " Staff ",
+      " Suit somebody/something"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "Feel like +Ving; Would you be interested in + Ving ?; I’d like to invite you to V"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuala Lumpur",
+    "cityId": 34,
+    "districtName": "Kuala Lumpur City Center",
+    "districtId": "34-Kuala Lumpur City Center",
+    "topic": "W14: Restaurants",
+    "subject": "Reserving a table for a party at a restaurant",
+    "vocabulary": [
+      "Book",
+      " Extra ",
+      " Charge ",
+      " Free of charge ",
+      " Meal ",
+      " Guest list"
+    ],
+    "phonetics": "/b/ and /p/",
+    "grammar": "S+will have to V; If + S + V(s/es), S + will + V (inf); To be willing + to V; S + would + V(inf); S+would+be+adj.; S+have to + V(inf)"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuala Lumpur",
+    "cityId": 34,
+    "districtName": "Kuala Lumpur City Center",
+    "districtId": "34-Kuala Lumpur City Center",
+    "topic": "W14: Restaurants",
+    "subject": "Ordering food at a fast food restaurant",
+    "vocabulary": [
+      "Burger",
+      " Fries ",
+      " To have a look at ",
+      " A combo meal ",
+      " Pickle",
+      "  Upsize ",
+      " Regular ",
+      " Change"
+    ],
+    "phonetics": "/k/ and /g/",
+    "grammar": "S + would like + N/to V; I’ll have + N; I want to order + ...; I will take + ..."
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuala Lumpur",
+    "cityId": 34,
+    "districtName": "Kuala Lumpur City Center",
+    "districtId": "34-Kuala Lumpur City Center",
+    "topic": "W14: Restaurants",
+    "subject": "Canceling or rescheduling a reservation at a restaurant",
+    "vocabulary": [
+      "Look something up",
+      " Unfortunately",
+      " Entire",
+      " Available",
+      " Private",
+      " Dining room"
+    ],
+    "phonetics": "/i:/ and /ɪ/",
+    "grammar": "Can/Could you tell me …?; What time do/does S+ want to V?; S+am/is/are+Ving (present continuous)"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuala Lumpur",
+    "cityId": 34,
+    "districtName": "Kuala Lumpur City Center",
+    "districtId": "34-Kuala Lumpur City Center",
+    "topic": "W14: Restaurants",
+    "subject": "Complaining about bad service at a restaurant",
+    "vocabulary": [
+      "Well-cooked",
+      " On behalf of",
+      " Appreciate ",
+      " Patience ",
+      " Fill up ",
+      " Assure ",
+      " A token of our apologies ",
+      " Disappointed with somebody/something"
+    ],
+    "phonetics": "/s/ and /z/",
+    "grammar": "I want to make a complaint about + St /Ving.; I’m not satisfied with + Sb/ St/ Ving.; There seems to be a problem with + Sb/ St/ Ving."
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "George Town",
+    "cityId": 35,
+    "districtName": "Central Business District",
+    "districtId": "35-Central Business District",
+    "topic": "W41: At the office",
+    "subject": "A new colleague",
+    "vocabulary": [
+      "Potential",
+      " Candidate",
+      " Impression",
+      " Confident",
+      " Impressive",
+      " Assistant",
+      " Learn the ropes"
+    ],
+    "phonetics": "/æ/ and /e/",
+    "grammar": "What do you know about +N/Ving?; Do you know + what + S +V?"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "George Town",
+    "cityId": 35,
+    "districtName": "Central Business District",
+    "districtId": "35-Central Business District",
+    "topic": "W41: At the office",
+    "subject": "Getting along with your colleagues",
+    "vocabulary": [
+      "So far",
+      " so good",
+      " Get along with somebody",
+      " Behind somebody’s back",
+      " Gossip",
+      " Uncomfortable",
+      " Neutral"
+    ],
+    "phonetics": "/l/ and /r/",
+    "grammar": "get along with; join a team"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "George Town",
+    "cityId": 35,
+    "districtName": "Central Business District",
+    "districtId": "35-Central Business District",
+    "topic": "W41: At the office",
+    "subject": "Asking a colleague about how to use a device",
+    "vocabulary": [
+      "Copy machine",
+      " Select",
+      " Tray",
+      " Document",
+      " Scanner",
+      " Control pannel"
+    ],
+    "phonetics": "/p/ and /b/",
+    "grammar": "to help + Sb + out; S + don’t know how + to V"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "George Town",
+    "cityId": 35,
+    "districtName": "Central Business District",
+    "districtId": "35-Central Business District",
+    "topic": "W41: At the office",
+    "subject": "Conserving energy at work",
+    "vocabulary": [
+      "Energy",
+      " Regulation",
+      " Remind ",
+      " Reduce",
+      " Switch off",
+      " Artificial"
+    ],
+    "phonetics": "/ʧ/ and /t/",
+    "grammar": "I will propose St to + Sb."
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "George Town",
+    "cityId": 35,
+    "districtName": "Central Business District",
+    "districtId": "35-Central Business District",
+    "topic": "W41: At the office",
+    "subject": "Routine tasks at work",
+    "vocabulary": [
+      "Assure",
+      " Suspense",
+      " Get out of",
+      " Fed up with",
+      " Passion",
+      " Leisure"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "What are your routine tasks?; I think S should + V(inf)"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "George Town",
+    "cityId": 35,
+    "districtName": "Central Business District",
+    "districtId": "35-Central Business District",
+    "topic": "W41: At the office",
+    "subject": "Your company's new projects",
+    "vocabulary": [
+      "Project",
+      " Involve (somebody/something)",
+      " Issue",
+      " Role",
+      " Requirement",
+      " Responsibility",
+      " Insufficient"
+    ],
+    "phonetics": "/k/ and /t/",
+    "grammar": "When will +S+start?; how long + S+ will last?; S + to be + excited about + St"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "George Town",
+    "cityId": 35,
+    "districtName": "Central Business District",
+    "districtId": "35-Central Business District",
+    "topic": "W41: At the office",
+    "subject": "Job promotions",
+    "vocabulary": [
+      "Deserve",
+      " Responsibility",
+      " Guidance",
+      " Supervisor",
+      " Fulfill",
+      " Expectation"
+    ],
+    "phonetics": "/s/ and /ʃ/",
+    "grammar": "S + have/has + been + promoted to; S+have/has+been+Ving (present perfect continuous)"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "George Town",
+    "cityId": 35,
+    "districtName": "Gelugor",
+    "districtId": "35-Gelugor",
+    "topic": "W28: Sports",
+    "subject": "Talking about your favorite sport",
+    "vocabulary": [
+      "Join",
+      " Club",
+      " Basketball ",
+      " Football ",
+      " Baseball ",
+      " Catch",
+      " Go for"
+    ],
+    "phonetics": "/æ/ and /e/",
+    "grammar": "enjoy/like + N/Ving; To prefer + N/ Ving + to + N/ Ving"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "George Town",
+    "cityId": 35,
+    "districtName": "Gelugor",
+    "districtId": "35-Gelugor",
+    "topic": "W28: Sports",
+    "subject": "Sports in daily life",
+    "vocabulary": [
+      "Pitch ",
+      " Season",
+      " Prepare for something",
+      " Defend ",
+      " Championship",
+      " Keen on",
+      " Root for somebody"
+    ],
+    "phonetics": "/s/ and /z/",
+    "grammar": "Be (not) good for Sb/St; Good at + N/ Ving; to improve St"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "George Town",
+    "cityId": 35,
+    "districtName": "Gelugor",
+    "districtId": "35-Gelugor",
+    "topic": "W28: Sports",
+    "subject": "Talking about a sport you dislike",
+    "vocabulary": [
+      "Boxing",
+      " Dislike ",
+      " Fight",
+      " Injured",
+      " Die",
+      " Dangerous"
+    ],
+    "phonetics": "/ð/ and /θ/",
+    "grammar": "S + dislike + N/Ving; S + to be(not) interested in + N/Ving; S + to be +(not) + my favorite N"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "George Town",
+    "cityId": 35,
+    "districtName": "Gelugor",
+    "districtId": "35-Gelugor",
+    "topic": "W28: Sports",
+    "subject": "How often do you play sports?",
+    "vocabulary": [
+      "Always",
+      " Open-air",
+      " Terrace",
+      " Crowded",
+      " Peak time",
+      " Cool down",
+      " Swimwear",
+      " Sunscreen"
+    ],
+    "phonetics": "/f/ and /v/",
+    "grammar": "How often + do/does + S + V(inf)?; S + adv + V + ..."
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "George Town",
+    "cityId": 35,
+    "districtName": "Gelugor",
+    "districtId": "35-Gelugor",
+    "topic": "W28: Sports",
+    "subject": "Talking about a sporting event",
+    "vocabulary": [
+      "Host",
+      " Host",
+      " Volunteer",
+      " Athlete dormitory",
+      " Coincide"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "S+to be+the adj-est/ the most adj +N (superlatives); S+will+V(inf) (future simple)"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "George Town",
+    "cityId": 35,
+    "districtName": "Gelugor",
+    "districtId": "35-Gelugor",
+    "topic": "W28: Sports",
+    "subject": "Exchanging tickets to a sporting event",
+    "vocabulary": [
+      "Favor",
+      " Tournament",
+      " Inform",
+      " Conference",
+      " Wonder",
+      " Swap",
+      " Take place"
+    ],
+    "phonetics": "/n/ and /ŋ/",
+    "grammar": "exchange St with Sb"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "George Town",
+    "cityId": 35,
+    "districtName": "Gelugor",
+    "districtId": "35-Gelugor",
+    "topic": "W28: Sports",
+    "subject": "Talking about your favorite athlete",
+    "vocabulary": [
+      "Big fan",
+      " Not only – but also",
+      " League",
+      " Passion",
+      " Team spirit",
+      " Derby"
+    ],
+    "phonetics": " /æ/ and /ə/",
+    "grammar": "S +to be+such a/an+adj+N!; S + to be + so + adj.; What + a/an + adj + N!; How+adj/adv+S+V!"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "George Town",
+    "cityId": 35,
+    "districtName": "Jelutong",
+    "districtId": "35-Jelutong",
+    "topic": "W38: Talking about television",
+    "subject": "Talking about your favorite TV channels",
+    "vocabulary": [
+      "Channel",
+      " Information",
+      " Entertainment",
+      " Hardly",
+      " Discovery",
+      " Program"
+    ],
+    "phonetics": "/l/ and /r/",
+    "grammar": "What is your favorite + N?; What type of...?; How often + do/does + S + V(inf)?; Once/twice/three times/four times a week; Every day, every week"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "George Town",
+    "cityId": 35,
+    "districtName": "Jelutong",
+    "districtId": "35-Jelutong",
+    "topic": "W38: Talking about television",
+    "subject": "Buying a television",
+    "vocabulary": [
+      "Marvelous",
+      " Durable",
+      " Finance",
+      " Installments",
+      " Interest",
+      " Deliver"
+    ],
+    "phonetics": "/s/ and /ʃ/",
+    "grammar": "It depends on + N/Ving St.; What kind of + N + should S + V(inf)?"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "George Town",
+    "cityId": 35,
+    "districtName": "Jelutong",
+    "districtId": "35-Jelutong",
+    "topic": "W38: Talking about television",
+    "subject": "Talking about advertisements",
+    "vocabulary": [
+      "Ad",
+      " Commercial",
+      " Appear",
+      " Pop",
+      " Prime time",
+      " Profit",
+      " Negatively"
+    ],
+    "phonetics": "/k/ and /g/",
+    "grammar": "S + agree/disagree + with Sb + about St.; Can/Could you tell me …?"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "George Town",
+    "cityId": 35,
+    "districtName": "Jelutong",
+    "districtId": "35-Jelutong",
+    "topic": "W38: Talking about television",
+    "subject": "TV repairs",
+    "vocabulary": [
+      "Screen",
+      " Repair something",
+      " Suddenly",
+      " Pitch-black",
+      " Switch (on/off)",
+      " Unplug"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "What happened to + S?; keep + Ving; What should + chủ ngũ+ ĐT nguyên thể; They should be able to do something for someone"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "George Town",
+    "cityId": 35,
+    "districtName": "Jelutong",
+    "districtId": "35-Jelutong",
+    "topic": "W38: Talking about television",
+    "subject": "Talking about the news",
+    "vocabulary": [
+      "Terrible",
+      " Shake",
+      " Unusual",
+      " Strike",
+      " Incalculable",
+      " Deny",
+      " Update"
+    ],
+    "phonetics": "/æ/ and /e/",
+    "grammar": "S+ have/has + V(ed/p2) (present perfect); S+should+V(inf); Keep up to date; invest St in St"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "George Town",
+    "cityId": 35,
+    "districtName": "Jelutong",
+    "districtId": "35-Jelutong",
+    "topic": "W38: Talking about television",
+    "subject": "How often do you watch TV?",
+    "vocabulary": [
+      "Episode",
+      " Be glued to something",
+      " Chill out",
+      " Relieve",
+      " Reality show",
+      " Not (be able to) take your eyes off somebody/something"
+    ],
+    "phonetics": "/d/ and /ʤ/",
+    "grammar": "S+am/is/are+Ving (present continuous); S + spend + money (on)+ Ving; S+could+V+O.; S+have/has+been+Ved/P2.; Would + S + like + to V?"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "George Town",
+    "cityId": 35,
+    "districtName": "Jelutong",
+    "districtId": "35-Jelutong",
+    "topic": "W38: Talking about television",
+    "subject": "The harmful effects of watching too much TV",
+    "vocabulary": [
+      "Shout at somebody",
+      " Lead to something",
+      " Obesity",
+      " Eyesight",
+      " Decrease",
+      " Couch potato"
+    ],
+    "phonetics": "/b/ and /p/",
+    "grammar": "Ving st is/was/can be adj.; Lead to St = cause St; How long have/has + S + been + Ving?; S+will+V(inf) (future simple); S+could+V+O."
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "George Town",
+    "cityId": 35,
+    "districtName": "Penang Island Rural District",
+    "districtId": "35-Penang Island Rural District",
+    "topic": "W4: Chatting with foreign friends",
+    "subject": "Talking about the weather",
+    "vocabulary": [
+      "Believe",
+      " Weather forecast",
+      " Depressing",
+      " Suppose",
+      " Umbrella",
+      " Mind"
+    ],
+    "phonetics": "/e/ and /æ/",
+    "grammar": "It is + adj.; It is + V_ing."
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "George Town",
+    "cityId": 35,
+    "districtName": "Penang Island Rural District",
+    "districtId": "35-Penang Island Rural District",
+    "topic": "W4: Chatting with foreign friends",
+    "subject": "Talking about fashion",
+    "vocabulary": [
+      "Glamorous",
+      " Interested in",
+      " Pattern",
+      " Stripe",
+      " Trendy",
+      " Old-fashioned"
+    ],
+    "phonetics": "/s/ and /ʃ/",
+    "grammar": "to keep up with Sb/St; It is very important for Sb to V; What is your favorite + N?"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "George Town",
+    "cityId": 35,
+    "districtName": "Penang Island Rural District",
+    "districtId": "35-Penang Island Rural District",
+    "topic": "W4: Chatting with foreign friends",
+    "subject": "Talking about your family",
+    "vocabulary": [
+      "Sibling ",
+      " Kind",
+      " Smart",
+      " Lucky",
+      " Admitted",
+      " Medical college ",
+      " Proud"
+    ],
+    "phonetics": "/u:/ and /ʊ/",
+    "grammar": "What do/does + S + like/dislike about + St/Sb?; S + to be (+ a/an) + N"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "George Town",
+    "cityId": 35,
+    "districtName": "Penang Island Rural District",
+    "districtId": "35-Penang Island Rural District",
+    "topic": "W4: Chatting with foreign friends",
+    "subject": "Sharing your travel experiences",
+    "vocabulary": [
+      "Vacation",
+      " Beach",
+      " Heaven",
+      " Paradise",
+      " Developed",
+      " Pleasure"
+    ],
+    "phonetics": "/ɜː/ and /ə/",
+    "grammar": "Wh question word +did+S+V(inf)?; S+V(ed/p1) (past simple)"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "George Town",
+    "cityId": 35,
+    "districtName": "Penang Island Rural District",
+    "districtId": "35-Penang Island Rural District",
+    "topic": "W4: Chatting with foreign friends",
+    "subject": "Talking about work",
+    "vocabulary": [
+      "Busy",
+      " Lately",
+      " Project",
+      " Overtime",
+      " Day in and day out"
+    ],
+    "phonetics": "/ɔː/ and /ɑː/",
+    "grammar": "Where do/does someone work?; What is your job?; enjoy/like + N/Ving; look for + Sb/N; Why don’t you..........."
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "George Town",
+    "cityId": 35,
+    "districtName": "Penang Island Rural District",
+    "districtId": "35-Penang Island Rural District",
+    "topic": "W4: Chatting with foreign friends",
+    "subject": "Talking about hobbies",
+    "vocabulary": [
+      "Kite",
+      " Swim",
+      " Piano",
+      " Instrument",
+      " Guitar"
+    ],
+    "phonetics": "/ɪ/ and /iː/",
+    "grammar": "S + to be + crazy about + Ving St/St; S + to be + into + N/Ving; enjoy/like + N/Ving"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "George Town",
+    "cityId": 35,
+    "districtName": "Penang Island Rural District",
+    "districtId": "35-Penang Island Rural District",
+    "topic": "W4: Chatting with foreign friends",
+    "subject": "Talking about health",
+    "vocabulary": [
+      "Pretty",
+      " Tired",
+      " Terrible",
+      " Pill",
+      " Stay in"
+    ],
+    "phonetics": "/e/ and /æ/",
+    "grammar": "What’s the problem?; How long have/has + S + been + Ving?; I have + name of a disease./symptom"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuching",
+    "cityId": 36,
+    "districtName": "Pending Industrial Estate",
+    "districtId": "36-Pending Industrial Estate",
+    "topic": "W32: Technology",
+    "subject": "Talking about smartphones",
+    "vocabulary": [
+      "Smartphone",
+      " Function",
+      " Application",
+      " Convenient",
+      " Front",
+      " Back",
+      " Selfie"
+    ],
+    "phonetics": "/æ/ and /e/",
+    "grammar": "It's the newest thing; It has a wonderful something; There are some + adj + noun; As well = in addition = also"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuching",
+    "cityId": 36,
+    "districtName": "Pending Industrial Estate",
+    "districtId": "36-Pending Industrial Estate",
+    "topic": "W32: Technology",
+    "subject": "At the electronic store",
+    "vocabulary": [
+      "Electronic",
+      " Reasonable",
+      " Offer",
+      " Discount",
+      " Style",
+      " Power",
+      " Value"
+    ],
+    "phonetics": "/ɔː/ and /oʊ/",
+    "grammar": "look for + Sb/N; It’s a little + adj; What make is it?"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuching",
+    "cityId": 36,
+    "districtName": "Pending Industrial Estate",
+    "districtId": "36-Pending Industrial Estate",
+    "topic": "W32: Technology",
+    "subject": "Talking about computer problems",
+    "vocabulary": [
+      "Turn on",
+      " Connection",
+      " Adapter",
+      " Fail",
+      " Charge",
+      " Battery",
+      " Voltmeter"
+    ],
+    "phonetics": "/s/ and /z/",
+    "grammar": "S+ have a problem / problems (with) St/ Ving; try + Ving; keep + adj"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuching",
+    "cityId": 36,
+    "districtName": "Pending Industrial Estate",
+    "districtId": "36-Pending Industrial Estate",
+    "topic": "W32: Technology",
+    "subject": "Talking about information technology",
+    "vocabulary": [
+      "Aspect",
+      " Imagine",
+      " Entertainment",
+      " Connect",
+      " Cope (with something)",
+      " Advanced"
+    ],
+    "phonetics": "/t/ and /d/",
+    "grammar": "Seem to V; Actually I can't; Time passes by = time goes by; to keep up with Sb/St"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuching",
+    "cityId": 36,
+    "districtName": "Pending Industrial Estate",
+    "districtId": "36-Pending Industrial Estate",
+    "topic": "W32: Technology",
+    "subject": "What is your favorite piece of technology?",
+    "vocabulary": [
+      "Stuck to something",
+      " Device",
+      " Benefit",
+      " Combine",
+      " Carry",
+      " Give somebody a hand"
+    ],
+    "phonetics": "/ʧ/ and /t/",
+    "grammar": "keep in touch with sb"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuching",
+    "cityId": 36,
+    "districtName": "Pending Industrial Estate",
+    "districtId": "36-Pending Industrial Estate",
+    "topic": "W32: Technology",
+    "subject": "Asking for tips on maintaining your computer",
+    "vocabulary": [
+      "Maintain",
+      " Spill",
+      " Crumb",
+      " Overheat",
+      " Install",
+      " Software",
+      " Slow down",
+      " Case"
+    ],
+    "phonetics": "/ə/ and /ʌ/",
+    "grammar": "(thiếu 2)"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuching",
+    "cityId": 36,
+    "districtName": "Pending Industrial Estate",
+    "districtId": "36-Pending Industrial Estate",
+    "topic": "W32: Technology",
+    "subject": "Talking about learning on the Internet",
+    "vocabulary": [
+      "Convenient",
+      " Reschedule",
+      " One-on-one",
+      " Focus on somebody/something",
+      " Support",
+      " Material",
+      " View"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "(thiếu 3)"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuching",
+    "cityId": 36,
+    "districtName": "Simpang Tiga",
+    "districtId": "36-Simpang Tiga",
+    "topic": "W45: Today's youth",
+    "subject": "Help for parents of troubled teens",
+    "vocabulary": [
+      "Argument",
+      " Rebellious",
+      " Violent",
+      " Consult",
+      " Therapist",
+      " Treatment"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "Open up (to Sb); S+ give Sb advice.; S+have/has+been+Ving (present perfect continuous)"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuching",
+    "cityId": 36,
+    "districtName": "Simpang Tiga",
+    "districtId": "36-Simpang Tiga",
+    "topic": "W45: Today's youth",
+    "subject": "Why is fashion important to teens?",
+    "vocabulary": [
+      "Trend",
+      " Fit in",
+      " Struggle",
+      " Brand",
+      " Classy",
+      " Classify",
+      " Respect"
+    ],
+    "phonetics": "/s/ and /ʃ/",
+    "grammar": "If + S + V(s/es), S + will + V (inf); S + seem + to V"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuching",
+    "cityId": 36,
+    "districtName": "Simpang Tiga",
+    "districtId": "36-Simpang Tiga",
+    "topic": "W45: Today's youth",
+    "subject": "Career choices for the future",
+    "vocabulary": [
+      "Intern",
+      " Specialist",
+      " Employ",
+      " Career",
+      " Vision",
+      " Experience",
+      " Succeed"
+    ],
+    "phonetics": "/b/ and /p/",
+    "grammar": "S+ have/has + V(ed/p2) (present perfect); Stop + Ving"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuching",
+    "cityId": 36,
+    "districtName": "Simpang Tiga",
+    "districtId": "36-Simpang Tiga",
+    "topic": "W45: Today's youth",
+    "subject": "Social networking addiction",
+    "vocabulary": [
+      "Selfie",
+      " Be glued to something",
+      " Via",
+      " Addicted",
+      " Avoid",
+      " Socialize"
+    ],
+    "phonetics": "/e/ and /æ/",
+    "grammar": "Be glued to; You have to keep your health"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuching",
+    "cityId": 36,
+    "districtName": "Simpang Tiga",
+    "districtId": "36-Simpang Tiga",
+    "topic": "W45: Today's youth",
+    "subject": "Secrets of motivating teens to study",
+    "vocabulary": [
+      "Motivation",
+      " Encourage",
+      " Counter",
+      " Push",
+      " Nag",
+      " Lecture"
+    ],
+    "phonetics": "/e/ and /eɪ/",
+    "grammar": "to be/get tired of + N/Ving; Allow Sb to V"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuching",
+    "cityId": 36,
+    "districtName": "Simpang Tiga",
+    "districtId": "36-Simpang Tiga",
+    "topic": "W45: Today's youth",
+    "subject": "Youth volunterring",
+    "vocabulary": [
+      "Option",
+      " Pantry",
+      " Experience",
+      " Trainer",
+      " Plant",
+      " Sign up"
+    ],
+    "phonetics": "/s/ and /z/",
+    "grammar": "would like + to V; Sign up"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuching",
+    "cityId": 36,
+    "districtName": "Simpang Tiga",
+    "districtId": "36-Simpang Tiga",
+    "topic": "W45: Today's youth",
+    "subject": "The effects of teen idols",
+    "vocabulary": [
+      "Dye",
+      " Attend",
+      " Concert",
+      " Unacceptable",
+      " Admiration",
+      " Influence"
+    ],
+    "phonetics": "/l/ and /r/",
+    "grammar": "There is/ There are + N; Affect Sb/St"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuching",
+    "cityId": 36,
+    "districtName": "Central Business District",
+    "districtId": "36-Central Business District",
+    "topic": "W53: Success",
+    "subject": "The most successful people in the world",
+    "vocabulary": [
+      "Successful",
+      " Admire",
+      " Original",
+      " Priceless",
+      " Launch"
+    ],
+    "phonetics": "/l/ and /r/",
+    "grammar": "admire Sb; S+ help Sb to V"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuching",
+    "cityId": 36,
+    "districtName": "Central Business District",
+    "districtId": "36-Central Business District",
+    "topic": "W53: Success",
+    "subject": "Your definition of success",
+    "vocabulary": [
+      "Nominate",
+      " Deserve",
+      " Definition",
+      " Achieve",
+      " Satisfaction",
+      " Destination"
+    ],
+    "phonetics": "/d/ and /ʤ/",
+    "grammar": "to depend on"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuching",
+    "cityId": 36,
+    "districtName": "Central Business District",
+    "districtId": "36-Central Business District",
+    "topic": "W53: Success",
+    "subject": "The secrets of success",
+    "vocabulary": [
+      "Goal",
+      " Achieve",
+      " Focus on",
+      " In advance",
+      " Innovate",
+      " Persist"
+    ],
+    "phonetics": "/æ/ and /e/",
+    "grammar": "(To) play a vital role in + St; (To) contribute to St"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuching",
+    "cityId": 36,
+    "districtName": "Central Business District",
+    "districtId": "36-Central Business District",
+    "topic": "W53: Success",
+    "subject": "What are your goals?",
+    "vocabulary": [
+      "Passionate",
+      " Internship",
+      " Specific",
+      " Realistic",
+      " Objective",
+      " Define"
+    ],
+    "phonetics": "/f/ and /θ/",
+    "grammar": "look + adj"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuching",
+    "cityId": 36,
+    "districtName": "Central Business District",
+    "districtId": "36-Central Business District",
+    "topic": "W53: Success",
+    "subject": "Learning new skills",
+    "vocabulary": [
+      "Skill",
+      " Intern",
+      " Communication",
+      " Problem-solving",
+      " Persuade",
+      " Present"
+    ],
+    "phonetics": "/s/ and /z/",
+    "grammar": "S+should+V(inf)"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuching",
+    "cityId": 36,
+    "districtName": "Central Business District",
+    "districtId": "36-Central Business District",
+    "topic": "W53: Success",
+    "subject": "Taking advantage of opportunites",
+    "vocabulary": [
+      "Dilemma",
+      " Offer",
+      " Afford",
+      " Match",
+      " Make ends meet",
+      " Take advantage of"
+    ],
+    "phonetics": "/k/ and /g/",
+    "grammar": "Take advantage of + Sb/St."
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuching",
+    "cityId": 36,
+    "districtName": "Central Business District",
+    "districtId": "36-Central Business District",
+    "topic": "W53: Success",
+    "subject": "Overcoming failure",
+    "vocabulary": [
+      "Reject",
+      " Failure",
+      " Overcome",
+      " Objectively",
+      " Give up",
+      " Re-evaluate"
+    ],
+    "phonetics": "/n/ and /ŋ/",
+    "grammar": "That is why + mệnh đề"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuching",
+    "cityId": 36,
+    "districtName": "Tabuan Jaya",
+    "districtId": "36-Tabuan Jaya",
+    "topic": "W29: Talking about children",
+    "subject": "What do your children like?",
+    "vocabulary": [
+      "Go biking",
+      " Close",
+      " Cartoon",
+      " Addicted",
+      " Go jogging",
+      " Get rid of something"
+    ],
+    "phonetics": "/s/ and /z/",
+    "grammar": "Set an example for Sb"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuching",
+    "cityId": 36,
+    "districtName": "Tabuan Jaya",
+    "districtId": "36-Tabuan Jaya",
+    "topic": "W29: Talking about children",
+    "subject": "Choosing gifts for children",
+    "vocabulary": [
+      "Santa Claus",
+      " DIY",
+      " Kit",
+      " Must-read",
+      " Barbie doll",
+      " Doll’s house"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "S + can/could/should + V(inf)"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuching",
+    "cityId": 36,
+    "districtName": "Tabuan Jaya",
+    "districtId": "36-Tabuan Jaya",
+    "topic": "W29: Talking about children",
+    "subject": "How to hold a party for children",
+    "vocabulary": [
+      "Give somebody a hand",
+      " Snack",
+      " Serve",
+      " Candle"
+    ],
+    "phonetics": "/æ/ and /ɑː/",
+    "grammar": "S+am/is/are+Ving (present continuous); to hold a party"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuching",
+    "cityId": 36,
+    "districtName": "Tabuan Jaya",
+    "districtId": "36-Tabuan Jaya",
+    "topic": "W29: Talking about children",
+    "subject": "Where to take your kids on a day out",
+    "vocabulary": [
+      "Search",
+      " Theme park",
+      " Playground",
+      " Multiple",
+      " Guide",
+      " Museum"
+    ],
+    "phonetics": "/t/ and /d/",
+    "grammar": "S+should+V(inf)"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuching",
+    "cityId": 36,
+    "districtName": "Tabuan Jaya",
+    "districtId": "36-Tabuan Jaya",
+    "topic": "W29: Talking about children",
+    "subject": "Choosing a school for your children",
+    "vocabulary": [
+      "Choose",
+      " Elementary",
+      " Beyond",
+      " Matter",
+      " Consider",
+      " Develop"
+    ],
+    "phonetics": "/æ/ and /e/",
+    "grammar": "(thiếu 4)"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuching",
+    "cityId": 36,
+    "districtName": "Tabuan Jaya",
+    "districtId": "36-Tabuan Jaya",
+    "topic": "W29: Talking about children",
+    "subject": "Bringing up your children",
+    "vocabulary": [
+      "Keep one’s eyes on something/somebody",
+      " Skip",
+      " Punish",
+      " Allow",
+      " Mature"
+    ],
+    "phonetics": "/ɑː/ and /oʊ/",
+    "grammar": "S + to be + allowed + to V; It is (not) a good way to V"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuching",
+    "cityId": 36,
+    "districtName": "Tabuan Jaya",
+    "districtId": "36-Tabuan Jaya",
+    "topic": "W29: Talking about children",
+    "subject": "How to be an example for your children",
+    "vocabulary": [
+      "Smoke",
+      " Change",
+      " Habit",
+      " Example",
+      " Serious",
+      " Stay away"
+    ],
+    "phonetics": "/k/ and /g/",
+    "grammar": "Do/Does + S + want + sb + to inf?"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuantan",
+    "cityId": 37,
+    "districtName": "Bandar Indera Mahkota",
+    "districtId": "37-Bandar Indera Mahkota",
+    "topic": "W11: Health problems",
+    "subject": "Scheduling a doctor's appointment by phone",
+    "vocabulary": [
+      "Clinic",
+      " Schedule",
+      " visit",
+      " Patient",
+      " Appointment"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "Lead to St = cause St"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuantan",
+    "cityId": 37,
+    "districtName": "Bandar Indera Mahkota",
+    "districtId": "37-Bandar Indera Mahkota",
+    "topic": "W11: Health problems",
+    "subject": "At the doctor's office",
+    "vocabulary": [
+      "Terrible",
+      " Cough",
+      " Weak",
+      " Temperature",
+      " Medicine",
+      " Rest"
+    ],
+    "phonetics": "/s/ and /ʃ/",
+    "grammar": "Need+to V"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuantan",
+    "cityId": 37,
+    "districtName": "Bandar Indera Mahkota",
+    "districtId": "37-Bandar Indera Mahkota",
+    "topic": "W11: Health problems",
+    "subject": "Having a physical check-up",
+    "vocabulary": [
+      "Check-up",
+      " Physical",
+      " Blood test",
+      " Congestion",
+      " expect"
+    ],
+    "phonetics": "/æ/ and /e/",
+    "grammar": "look for + Sb/N; How are you doing today?"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuantan",
+    "cityId": 37,
+    "districtName": "Bandar Indera Mahkota",
+    "districtId": "37-Bandar Indera Mahkota",
+    "topic": "W11: Health problems",
+    "subject": "Going to the dentist",
+    "vocabulary": [
+      "Toothache",
+      " Dentist",
+      " Hygiene",
+      " Oral",
+      " Cavity",
+      " Stain"
+    ],
+    "phonetics": "/ɪ/ and /iː/",
+    "grammar": "Try to have some rest and take this medicine; be + V-ing"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuantan",
+    "cityId": 37,
+    "districtName": "Bandar Indera Mahkota",
+    "districtId": "37-Bandar Indera Mahkota",
+    "topic": "W11: Health problems",
+    "subject": "Talking with the doctor about the medication side effects",
+    "vocabulary": [
+      "Symptom",
+      " Side-effect",
+      " Drive somebody crazy",
+      " Suffer",
+      " Allergy"
+    ],
+    "phonetics": "/ɜː/ vs. /ə/",
+    "grammar": "be + allergic + to + N/Ving"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuantan",
+    "cityId": 37,
+    "districtName": "Bandar Indera Mahkota",
+    "districtId": "37-Bandar Indera Mahkota",
+    "topic": "W11: Health problems",
+    "subject": "Making an emergency call",
+    "vocabulary": [
+      "awake",
+      " Conscious",
+      " Breathe",
+      " Injured",
+      " Bleed",
+      " Ambulance"
+    ],
+    "phonetics": "/t/ and /d/",
+    "grammar": "S+ have/has + V(ed/p2) (present perfect)"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuantan",
+    "cityId": 37,
+    "districtName": "Bandar Indera Mahkota",
+    "districtId": "37-Bandar Indera Mahkota",
+    "topic": "W11: Health problems",
+    "subject": "Visiting a patient at the hospital",
+    "vocabulary": [
+      "Visit",
+      " Bring",
+      " Happen",
+      " Terrible",
+      " Hospital"
+    ],
+    "phonetics": "/s/ and /ʃ/",
+    "grammar": "be awake; Can you show me how to get there"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuantan",
+    "cityId": 37,
+    "districtName": "Taman Guru",
+    "districtId": "37-Taman Guru",
+    "topic": "W54: Babies",
+    "subject": "The differences between boys and girls",
+    "vocabulary": [
+      "Pregnant",
+      " Handle",
+      " Stubborn",
+      " Take something apart",
+      " Creative"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "be different from Sb/St; there are differences between A and B; enjoy + Ving = like + Ving = be fond of; tend + to V"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuantan",
+    "cityId": 37,
+    "districtName": "Taman Guru",
+    "districtId": "37-Taman Guru",
+    "topic": "W54: Babies",
+    "subject": "The negative effects of technology on children",
+    "vocabulary": [
+      "Eyesight",
+      " Obesity",
+      " Have one’s eyes glued to",
+      " Addicted (+to)",
+      " Gadget",
+      " Text message"
+    ],
+    "phonetics": "/ɑː/ and /oʊ/",
+    "grammar": "S+ help Sb to V; S+ spend + amount of time/ money + Ving/ on st; S+should+V(inf)"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuantan",
+    "cityId": 37,
+    "districtName": "Taman Guru",
+    "districtId": "37-Taman Guru",
+    "topic": "W54: Babies",
+    "subject": "The Negative effects of fast food on children's health",
+    "vocabulary": [
+      "Consumption",
+      " Obesity",
+      " Contain",
+      " Calorie",
+      " Increase",
+      " Fill someone up"
+    ],
+    "phonetics": "/f/ and /v/",
+    "grammar": "Be (not) good for Sb/St; Can/Could you tell me …?; let + Sb + V(inf)"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuantan",
+    "cityId": 37,
+    "districtName": "Taman Guru",
+    "districtId": "37-Taman Guru",
+    "topic": "W54: Babies",
+    "subject": "Obesity in Children",
+    "vocabulary": [
+      "For your information",
+      " Obesity",
+      " Diet",
+      " Unhealthy",
+      " Calorie",
+      " Alarming"
+    ],
+    "phonetics": "/s/ and /ʃ/",
+    "grammar": "continue + V-ing; Encourage Sb + to V; gain weight"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuantan",
+    "cityId": 37,
+    "districtName": "Taman Guru",
+    "districtId": "37-Taman Guru",
+    "topic": "W54: Babies",
+    "subject": "Normal diet for infants",
+    "vocabulary": [
+      "Give birth (to somebody/something)",
+      " Breast milk",
+      " Breastfeed",
+      " Solid",
+      " Mineral",
+      " Digest"
+    ],
+    "phonetics": "/f/ and /p/",
+    "grammar": "S + to be + excited about St/ to V; S+ to be + worried about + N/ Ving.; to be important for Sb/St; Thank you for +N/Ving"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuantan",
+    "cityId": 37,
+    "districtName": "Taman Guru",
+    "districtId": "37-Taman Guru",
+    "topic": "W54: Babies",
+    "subject": "Should children sleep with their parents?",
+    "vocabulary": [
+      "Dependent",
+      " Eager",
+      " Co-sleeping",
+      " Tuck someone in",
+      " Assure",
+      " Routine"
+    ],
+    "phonetics": "/ə/ and /ʌ/",
+    "grammar": "to depend on; to share St with Sb; S+should+be+V(ed/p2)."
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuantan",
+    "cityId": 37,
+    "districtName": "Taman Guru",
+    "districtId": "37-Taman Guru",
+    "topic": "W54: Babies",
+    "subject": "Is your child ready for school?",
+    "vocabulary": [
+      "What a coincidence!",
+      " Nervous",
+      " Transition",
+      " Instruction",
+      " Distinguish",
+      " Routine"
+    ],
+    "phonetics": "/l/ and /r/",
+    "grammar": "be ready for; S+ try to V; be sure"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuantan",
+    "cityId": 37,
+    "districtName": "Kampung Pelindung",
+    "districtId": "37-Kampung Pelindung",
+    "topic": "W33: Animals",
+    "subject": "Talking about pets",
+    "vocabulary": [
+      "Parrot",
+      " Companion",
+      " comfort ",
+      " Lonely",
+      " Relax"
+    ],
+    "phonetics": "/oʊ/ and /ɔ:/",
+    "grammar": "S+should+V(inf); Why don’t you + V + ...; advise sb to V"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuantan",
+    "cityId": 37,
+    "districtName": "Kampung Pelindung",
+    "districtId": "37-Kampung Pelindung",
+    "topic": "W33: Animals",
+    "subject": "Taking your pet to the vet",
+    "vocabulary": [
+      "Symptoms",
+      " Vomit",
+      " Cough",
+      " Appetite",
+      " Fever",
+      " Clinic",
+      " Veterinary"
+    ],
+    "phonetics": "/æ/ and /e/",
+    "grammar": "How long have/has + S + been + Ving?"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuantan",
+    "cityId": 37,
+    "districtName": "Kampung Pelindung",
+    "districtId": "37-Kampung Pelindung",
+    "topic": "W33: Animals",
+    "subject": "How to raise a good dog",
+    "vocabulary": [
+      "Raise",
+      " Feed ",
+      " Puppy ",
+      " Train ",
+      " Safe ",
+      " Suggestion"
+    ],
+    "phonetics": "/ei/ and /e/",
+    "grammar": "S+ make sure + of st / that clause; Remember + to V; S+should+V(inf); Need+to V"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuantan",
+    "cityId": 37,
+    "districtName": "Kampung Pelindung",
+    "districtId": "37-Kampung Pelindung",
+    "topic": "W33: Animals",
+    "subject": "Going to the zoo",
+    "vocabulary": [
+      "Exhibit",
+      " Habitat ",
+      " Boundary ",
+      " Aquarium ",
+      " Breathtaking ",
+      " Explore",
+      " Wildlife"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "keep in ...."
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuantan",
+    "cityId": 37,
+    "districtName": "Kampung Pelindung",
+    "districtId": "37-Kampung Pelindung",
+    "topic": "W33: Animals",
+    "subject": "What animals are you afraid of?",
+    "vocabulary": [
+      "Disgusting",
+      " Goosebumps",
+      " Cockroach",
+      " Nightmare",
+      " Harm",
+      " Disease"
+    ],
+    "phonetics": "/t/ and /d/",
+    "grammar": "S + to be + afraid of + N/Ving; S + to be + terrified of + N/Ving.; S+to be+ạdj"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuantan",
+    "cityId": 37,
+    "districtName": "Kampung Pelindung",
+    "districtId": "37-Kampung Pelindung",
+    "topic": "W33: Animals",
+    "subject": "What not to feed your pet",
+    "vocabulary": [
+      "Gain",
+      " Contain ",
+      " Toxic",
+      " Diarrhea",
+      " Avoid ",
+      " Overweight"
+    ],
+    "phonetics": "/ʧ/ and /t/",
+    "grammar": "S + to be + harmful + to + Sb/St; S+should+V(inf); S + to be + toxic + for + Sb/St; Lead to St = cause St"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuantan",
+    "cityId": 37,
+    "districtName": "Kampung Pelindung",
+    "districtId": "37-Kampung Pelindung",
+    "topic": "W33: Animals",
+    "subject": "Talking about endangered animals",
+    "vocabulary": [
+      "Rare",
+      "  Hunter",
+      " Extinction",
+      " Cruelty",
+      " Leather",
+      " Synthetic"
+    ],
+    "phonetics": "/æ/ and /ʌ/",
+    "grammar": "S+heard that + clause; S+ to be being ......; Because of Ving/St"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuantan",
+    "cityId": 37,
+    "districtName": "Kawasan Perindustrian Semambu",
+    "districtId": "37-Kawasan Perindustrian Semambu",
+    "topic": "W9: Functional language",
+    "subject": "Making a polite request",
+    "vocabulary": [
+      "Excuse me",
+      " Change",
+      " Need",
+      " You are welcome"
+    ],
+    "phonetics": "/d/ and /p/",
+    "grammar": "Would you mind +Ving, please?; Can/Could/Will you+V , please?; Sure. Here you are.; No. I'm sorry I need it.; I'm afraid I can't."
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuantan",
+    "cityId": 37,
+    "districtName": "Kawasan Perindustrian Semambu",
+    "districtId": "37-Kawasan Perindustrian Semambu",
+    "topic": "W9: Functional language",
+    "subject": "Ways to refuse to do something",
+    "vocabulary": [
+      "Better",
+      " Accuse",
+      " Early",
+      " Beforehand",
+      " Get along"
+    ],
+    "phonetics": "/t/ and /ʧ/",
+    "grammar": "S+wish+S+could+V(inf); I’m truly sorry. I can’t help you.; Sorry, I don’t think I can make it.; Sounds great, but I’m afraid I’m not free.; Unfortunately, I can’t."
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuantan",
+    "cityId": 37,
+    "districtName": "Kawasan Perindustrian Semambu",
+    "districtId": "37-Kawasan Perindustrian Semambu",
+    "topic": "W9: Functional language",
+    "subject": "Agreeing to do something",
+    "vocabulary": [
+      "Help somebody",
+      " Go through",
+      " Tomorrow"
+    ],
+    "phonetics": "/æ/ and /e/",
+    "grammar": "let + Sb + V(inf); Can/Could you do Sb a favor?; Sure, I will buy popcorn.; No problem.; Okay, I will do it for you.; Luckily, I’m free now. I will help you."
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuantan",
+    "cityId": 37,
+    "districtName": "Kawasan Perindustrian Semambu",
+    "districtId": "37-Kawasan Perindustrian Semambu",
+    "topic": "W9: Functional language",
+    "subject": "Expressing agreement or disagreement with somebody",
+    "vocabulary": [
+      "Agree",
+      " Possibly",
+      " Point",
+      " Exactly",
+      " Doubt"
+    ],
+    "phonetics": "/k/ and /t/",
+    "grammar": "S + am/ is/ are going to V; You're absolutely right.; S+will+V(inf) (future simple); Hope that+clause; S+seem+adj; I don't think so.; That's not always true.; I totally disagree."
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuantan",
+    "cityId": 37,
+    "districtName": "Kawasan Perindustrian Semambu",
+    "districtId": "37-Kawasan Perindustrian Semambu",
+    "topic": "W9: Functional language",
+    "subject": "Complaining about something",
+    "vocabulary": [
+      "Neighbor",
+      " Complain",
+      " Afraid",
+      " Noise",
+      " Quiet"
+    ],
+    "phonetics": "/s/ and /ʃ/",
+    "grammar": "S+ to be sorry to trouble/bother Sb, but + S + V.; want to complain about + Ving/N"
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuantan",
+    "cityId": 37,
+    "districtName": "Kawasan Perindustrian Semambu",
+    "districtId": "37-Kawasan Perindustrian Semambu",
+    "topic": "W9: Functional language",
+    "subject": "Expressing your sympathy",
+    "vocabulary": [
+      "Terrible",
+      " Sorry",
+      " Unlucky",
+      " Pity"
+    ],
+    "phonetics": "/p/ and /b/",
+    "grammar": "S+to be sorry to hear that + clause; It’s a shame that + S + V.; What a pity!/What a shame!; I’m terribly sorry to hear that."
+  },
+  {
+    "country": "Malaysia",
+    "countryId": 33,
+    "city": "Kuantan",
+    "cityId": 37,
+    "districtName": "Kawasan Perindustrian Semambu",
+    "districtId": "37-Kawasan Perindustrian Semambu",
+    "topic": "W9: Functional language",
+    "subject": "How to express your surprise and disbelief",
+    "vocabulary": [
+      "Awesome",
+      " Actually",
+      " Kid",
+      " Amazing",
+      " Serious"
+    ],
+    "phonetics": "/v/ and /f/",
+    "grammar": "S+ have/has + V(ed/p2) (present perfect); S + am/ is/ are going to V; S+ should +V(inf); S+must+V(inf); I don’t believe it.; It can’t be true.; That’s very surprising!; Really?"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Tagaytay",
+    "cityId": 39,
+    "districtName": "Kaybagal South",
+    "districtId": "39-Kaybagal South",
+    "topic": "W36: Learning English",
+    "subject": "Do you like learning English?",
+    "vocabulary": [
+      "International",
+      " Reason",
+      " Popular",
+      " Take part in",
+      " Forum",
+      " Discussion"
+    ],
+    "phonetics": "/æ/ and /ʌ/",
+    "grammar": "S + to be(not) interested in + N/Ving; Take part in + St/ Ving"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Tagaytay",
+    "cityId": 39,
+    "districtName": "Kaybagal South",
+    "districtId": "39-Kaybagal South",
+    "topic": "W36: Learning English",
+    "subject": "How do you learn English?",
+    "vocabulary": [
+      "Idiom",
+      " Romania",
+      " Arrive",
+      " Improve",
+      " Effective",
+      " Communicate"
+    ],
+    "phonetics": "/ɜː/ and /ə/",
+    "grammar": "S + improve + N.; S+ communicate St to Sb/St."
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Tagaytay",
+    "cityId": 39,
+    "districtName": "Kaybagal South",
+    "districtId": "39-Kaybagal South",
+    "topic": "W36: Learning English",
+    "subject": "Problems you face in learning English",
+    "vocabulary": [
+      "Important",
+      " Get through",
+      " Though",
+      " Practice",
+      " Skill",
+      " Directly"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "Have trouble Ving; S+ have a problem / problems (with) St/ Ving; S+ try to V"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Tagaytay",
+    "cityId": 39,
+    "districtName": "Kaybagal South",
+    "districtId": "39-Kaybagal South",
+    "topic": "W36: Learning English",
+    "subject": "How to improve your English speaking skills",
+    "vocabulary": [
+      "Skill",
+      " Stressful",
+      " Evoke",
+      " Fascinating",
+      " Imitate",
+      " Accurately",
+      " Method"
+    ],
+    "phonetics": "/e/ and /eɪ/",
+    "grammar": "to speak a language with + Sb; S+ to be stressful"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Tagaytay",
+    "cityId": 39,
+    "districtName": "Kaybagal South",
+    "districtId": "39-Kaybagal South",
+    "topic": "W36: Learning English",
+    "subject": "How to learn English vocabulary",
+    "vocabulary": [
+      "Remind ",
+      " Memorize",
+      " Synonym",
+      " Antonym",
+      " Recall",
+      " Widen"
+    ],
+    "phonetics": "/æ/ and /e/",
+    "grammar": "(thiếu 1)"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Tagaytay",
+    "cityId": 39,
+    "districtName": "Kaybagal South",
+    "districtId": "39-Kaybagal South",
+    "topic": "W36: Learning English",
+    "subject": "What do you know about English certificates?",
+    "vocabulary": [
+      "Promotion",
+      " Stand for something",
+      " Measure",
+      " Ability",
+      " First language",
+      " Suitable"
+    ],
+    "phonetics": "/s/ and /ʃ/",
+    "grammar": "Stand for St; A promotion for Sb; Measure temperature"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Tagaytay",
+    "cityId": 39,
+    "districtName": "Kaybagal South",
+    "districtId": "39-Kaybagal South",
+    "topic": "W36: Learning English",
+    "subject": "Getting an English certificate",
+    "vocabulary": [
+      "Include",
+      " Conversational",
+      " Fluency",
+      " Native",
+      " Register",
+      " Candidate"
+    ],
+    "phonetics": "/t/ and /d/",
+    "grammar": "prepare Sb for St; be heard of; be amazed by + St/Sb/Ving"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Tagaytay",
+    "cityId": 39,
+    "districtName": "Calabuso",
+    "districtId": "39-Calabuso",
+    "topic": "W55: Parties",
+    "subject": "Things that go wrong at a party",
+    "vocabulary": [
+      "keep an eye out",
+      " indulge",
+      " stare at",
+      " drunk",
+      " go wrong",
+      " back-up plan"
+    ],
+    "phonetics": "/ʤ/ and /z/",
+    "grammar": "S + have/ has been to + somewhere; S + guess (that) + S + V + O."
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Tagaytay",
+    "cityId": 39,
+    "districtName": "Calabuso",
+    "districtId": "39-Calabuso",
+    "topic": "W55: Parties",
+    "subject": "Party occasions",
+    "vocabulary": [
+      "Party",
+      " Unconventional",
+      " Break-up",
+      " Gather",
+      " Socialize",
+      " Enjoy yourself"
+    ],
+    "phonetics": "/e/ and /æ/",
+    "grammar": "S + participate in + St/Ving.; to hold a party"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Tagaytay",
+    "cityId": 39,
+    "districtName": "Calabuso",
+    "districtId": "39-Calabuso",
+    "topic": "W55: Parties",
+    "subject": "Party costumes",
+    "vocabulary": [
+      "Costumes",
+      " Make up one’s mind",
+      " Outfit",
+      " Eye-catching",
+      " Stylist"
+    ],
+    "phonetics": "/m/ and /n/",
+    "grammar": "S + am/ is/ are going to V; sound+adj"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Tagaytay",
+    "cityId": 39,
+    "districtName": "Calabuso",
+    "districtId": "39-Calabuso",
+    "topic": "W55: Parties",
+    "subject": "Party preparation",
+    "vocabulary": [
+      "Continue",
+      " Gather",
+      " Confirm",
+      " Decoration",
+      " Theme",
+      " Curious"
+    ],
+    "phonetics": "/b/ and /p/",
+    "grammar": "Would + S + like + to V?; What else + auxiliary verb + S + V (inf)?"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Tagaytay",
+    "cityId": 39,
+    "districtName": "Calabuso",
+    "districtId": "39-Calabuso",
+    "topic": "W55: Parties",
+    "subject": "The best place to hold a party",
+    "vocabulary": [
+      "Farewell",
+      " Throw a party",
+      " Memorable",
+      " Venue",
+      " Decor",
+      " Elegant",
+      " Satisfied"
+    ],
+    "phonetics": "/s/ and /ʃ/",
+    "grammar": "Decide to V; S+decide+on St/ to-V; S + to be (+not) + adj + enough + for + Sb + to V; S + have + enough + N + to V"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Tagaytay",
+    "cityId": 39,
+    "districtName": "Calabuso",
+    "districtId": "39-Calabuso",
+    "topic": "W55: Parties",
+    "subject": "Holding a surprise party",
+    "vocabulary": [
+      "Celebrate",
+      " Reservation",
+      " Pretend",
+      " Pitching in",
+      " Side dish",
+      " Appear",
+      " Suspicion"
+    ],
+    "phonetics": "/p/ and /f/",
+    "grammar": "S + ask + Sb + to V; S+have to + V(inf)"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Tagaytay",
+    "cityId": 39,
+    "districtName": "Calabuso",
+    "districtId": "39-Calabuso",
+    "topic": "W55: Parties",
+    "subject": "School parties",
+    "vocabulary": [
+      "Prom",
+      " Except",
+      " Pattern",
+      " Repetitive",
+      " Variety",
+      " Theme"
+    ],
+    "phonetics": "/e/ and /ɪ/",
+    "grammar": "to make Sb + V(inf) = to force Sb to V; There+to be+N.."
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Tagaytay",
+    "cityId": 39,
+    "districtName": "Silang Junction North",
+    "districtId": "39-Silang Junction North",
+    "topic": "W49: Parents with children's learning",
+    "subject": "Should parents help their children with homework?",
+    "vocabulary": [
+      "Independently",
+      " Undermine",
+      " Assist",
+      " Discover",
+      " Stuck",
+      " Method"
+    ],
+    "phonetics": "/f/ and /v/",
+    "grammar": "let + Sb + V(inf); S+ to be willing to V; Admit to+ V-ing"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Tagaytay",
+    "cityId": 39,
+    "districtName": "Silang Junction North",
+    "districtId": "39-Silang Junction North",
+    "topic": "W49: Parents with children's learning",
+    "subject": "Encouraging children to enjoy learning",
+    "vocabulary": [
+      "Succeed",
+      " Opinion",
+      " Pass judgement",
+      " Curiosity",
+      " Afford",
+      " Emphasize"
+    ],
+    "phonetics": "/ʧ/ and /t/",
+    "grammar": "Encourage Sb + to V"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Tagaytay",
+    "cityId": 39,
+    "districtName": "Silang Junction North",
+    "districtId": "39-Silang Junction North",
+    "topic": "W49: Parents with children's learning",
+    "subject": "Helping your children learn to read",
+    "vocabulary": [
+      "Illustrated",
+      " Aloud",
+      " Hint",
+      " Figure out",
+      " Repeat",
+      " Praise"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "S+is/ am/ are+Ving (present continuous); S+should+V(inf)"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Tagaytay",
+    "cityId": 39,
+    "districtName": "Silang Junction North",
+    "districtId": "39-Silang Junction North",
+    "topic": "W49: Parents with children's learning",
+    "subject": "Learning through play",
+    "vocabulary": [
+      "Develop",
+      " Distract",
+      " Clever",
+      " Identify",
+      " Foster",
+      " Imagination"
+    ],
+    "phonetics": "/l/ and /r/",
+    "grammar": "S + to be + good + at + N/Ving; S + wish + S+ V(ed/p1); An eye for detail"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Tagaytay",
+    "cityId": 39,
+    "districtName": "Silang Junction North",
+    "districtId": "39-Silang Junction North",
+    "topic": "W49: Parents with children's learning",
+    "subject": "Teaching your children to do chores",
+    "vocabulary": [
+      "Responsible",
+      " Require",
+      " Appropriate",
+      " Assign",
+      " Challenging"
+    ],
+    "phonetics": "/t/ and /d/",
+    "grammar": "to be/get tired of + N/Ving; S+might get + sb+ to V st.; Why don't you +V?; S + ask + Sb + to V; S+should+V(inf); S + can/could/should + V(inf); to pick up; S+ make sure + of st / that clause"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Tagaytay",
+    "cityId": 39,
+    "districtName": "Silang Junction North",
+    "districtId": "39-Silang Junction North",
+    "topic": "W49: Parents with children's learning",
+    "subject": "Motivating your children to play sports",
+    "vocabulary": [
+      "Take up",
+      " Self-esteem",
+      " Resilience",
+      " Mature into",
+      " Excel"
+    ],
+    "phonetics": "/n/ and /ŋ/",
+    "grammar": "Why don’t you + V; Take Sb out"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Tagaytay",
+    "cityId": 39,
+    "districtName": "Silang Junction North",
+    "districtId": "39-Silang Junction North",
+    "topic": "W49: Parents with children's learning",
+    "subject": "Helping children break bad habits",
+    "vocabulary": [
+      "Twirl",
+      " Outgrow",
+      " Scold",
+      " Fiddle",
+      " Praise",
+      " Foster"
+    ],
+    "phonetics": "/m/ and /n/",
+    "grammar": "Have a habit of + Ving; Discourage Sb from Ving"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Tagaytay",
+    "cityId": 39,
+    "districtName": "Kaybagal East",
+    "districtId": "39-Kaybagal East",
+    "topic": "W39: Study abroad",
+    "subject": "Where to study abroad",
+    "vocabulary": [
+      "Abroad",
+      " Asian",
+      " Peaceful",
+      " Stable",
+      " Natural disaster",
+      " Diverse",
+      " Unaffected"
+    ],
+    "phonetics": "/s/ and /ʃ/",
+    "grammar": "S+is/ am/ are+Ving (present continuous); S + am/ is/ are going to V; to afford to V; S+will+V(inf) (future simple); want to V / want Sb to V; It + seems + like"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Tagaytay",
+    "cityId": 39,
+    "districtName": "Kaybagal East",
+    "districtId": "39-Kaybagal East",
+    "topic": "W39: Study abroad",
+    "subject": "Visas for education abroad",
+    "vocabulary": [
+      "Visa ",
+      " Education",
+      " Embassy",
+      " Destination",
+      " Non-immigrant",
+      " Permit"
+    ],
+    "phonetics": "/f/ and /v/",
+    "grammar": "S+ have/has + V(ed/p2) (present perfect); Proficency at + N/Ving; S+ have/has + V(ed/p2) (present perfect); Yet"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Tagaytay",
+    "cityId": 39,
+    "districtName": "Kaybagal East",
+    "districtId": "39-Kaybagal East",
+    "topic": "W39: Study abroad",
+    "subject": "What to prepare for studying abroad",
+    "vocabulary": [
+      "Prepare",
+      " Platform",
+      " Basics",
+      " Pack",
+      " Host",
+      " Delighted"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "S+V(ed/p1) (past simple); Ago; So far"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Tagaytay",
+    "cityId": 39,
+    "districtName": "Kaybagal East",
+    "districtId": "39-Kaybagal East",
+    "topic": "W39: Study abroad",
+    "subject": "Choosing your accommodation when study abroad",
+    "vocabulary": [
+      "Accommodation",
+      " Horror",
+      " Campus",
+      " Set aside",
+      " Habit",
+      " Adapt"
+    ],
+    "phonetics": "/ɔː/ and /oʊ/",
+    "grammar": "S + am/ is/ are going to V; If + S + V(s/es), S + will + V (inf); Plenty of; A lot of - lots of; A large amount of, a great deal of , a large number of"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Tagaytay",
+    "cityId": 39,
+    "districtName": "Kaybagal East",
+    "districtId": "39-Kaybagal East",
+    "topic": "W39: Study abroad",
+    "subject": "Finding a part-time job when studying abroad",
+    "vocabulary": [
+      "So far",
+      " so good",
+      " Budget",
+      " Waiter",
+      " Opportunity",
+      " Interpersonal skills",
+      " Exhausting",
+      " Interrupt"
+    ],
+    "phonetics": "/k/ and /t/",
+    "grammar": "be able + to V; Need+to V; S+is/ am/ are+Ving (present continuous); Worry about; How did you cope with that?; to cope with/deal with/handle with + St/ Ving"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Tagaytay",
+    "cityId": 39,
+    "districtName": "Kaybagal East",
+    "districtId": "39-Kaybagal East",
+    "topic": "W39: Study abroad",
+    "subject": "The challenges of studying abroad",
+    "vocabulary": [
+      "Away from home",
+      " Homesick",
+      " Anxious",
+      " Positive",
+      " Familiar",
+      " Independent"
+    ],
+    "phonetics": "/l/ and /r/",
+    "grammar": "S+is/ am/ are+Ving (present continuous); S+ try to V; Worry about; to cope with/deal with/handle with + St/ Ving"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Tagaytay",
+    "cityId": 39,
+    "districtName": "Kaybagal East",
+    "districtId": "39-Kaybagal East",
+    "topic": "W39: Study abroad",
+    "subject": "Dealing with culture shock",
+    "vocabulary": [
+      "Culture shock",
+      " Honeymoon",
+      " Frustration",
+      " Dependent",
+      " Overcome",
+      " Adjust",
+      " Adaptable",
+      " Flexible"
+    ],
+    "phonetics": "/ʊ/ and /ʌ/",
+    "grammar": "prepare Sb for St; be able + to V; S+should+V(inf); Take care of; S+ try to V"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Cebu",
+    "cityId": 40,
+    "districtName": "Pahina Central",
+    "districtId": "40-Pahina Central",
+    "topic": "W25: Weather",
+    "subject": "The weather forecast",
+    "vocabulary": [
+      "foggy",
+      " minus",
+      " weather forecast",
+      " brighten up",
+      " temperature",
+      " Celsius"
+    ],
+    "phonetics": "/b/ and /p/",
+    "grammar": "What + to be + N + like?; S+to be+ạdj"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Cebu",
+    "cityId": 40,
+    "districtName": "Pahina Central",
+    "districtId": "40-Pahina Central",
+    "topic": "W25: Weather",
+    "subject": "What is the weather like in your area?",
+    "vocabulary": [
+      "pleasant",
+      " shine",
+      " brilliantly",
+      " freeze",
+      " puddle",
+      " snowy"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "S+wish+S+could+V(inf)"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Cebu",
+    "cityId": 40,
+    "districtName": "Pahina Central",
+    "districtId": "40-Pahina Central",
+    "topic": "W25: Weather",
+    "subject": "Changing schedule due to weather",
+    "vocabulary": [
+      "heavily",
+      " thunderstorm",
+      " postpone",
+      " blow",
+      " delay",
+      " clear up"
+    ],
+    "phonetics": "/æ/ and /e/",
+    "grammar": "S+is/ am/ are+Ving (present continuous); I’m afraid (that) we should/ have to change/postpone/delay the schedule due to/because of + N"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Cebu",
+    "cityId": 40,
+    "districtName": "Pahina Central",
+    "districtId": "40-Pahina Central",
+    "topic": "W25: Weather",
+    "subject": "What is your favourite season?",
+    "vocabulary": [
+      "Windy",
+      " Go sledding",
+      " Go skiing",
+      " Puck",
+      " Snowflake",
+      " Gorgeous"
+    ],
+    "phonetics": "/t/ and /d/",
+    "grammar": "S + to be/get+adj; Like+to V; To be full of N"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Cebu",
+    "cityId": 40,
+    "districtName": "Pahina Central",
+    "districtId": "40-Pahina Central",
+    "topic": "W25: Weather",
+    "subject": "Summer activities",
+    "vocabulary": [
+      "Variety",
+      " Diving",
+      " Surfing",
+      " Protect",
+      " Solar radiation",
+      " Widen",
+      " Campfire"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "S+V(ed/p1) (past simple); S+V(s/es) (present simple)"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Cebu",
+    "cityId": 40,
+    "districtName": "Pahina Central",
+    "districtId": "40-Pahina Central",
+    "topic": "W25: Weather",
+    "subject": "How does weather affect our lives?",
+    "vocabulary": [
+      "flu",
+      " fever",
+      " medicine",
+      " disease",
+      " feature",
+      " tropical",
+      " take care of somebody/something"
+    ],
+    "phonetics": "/uː/ and /ʊ/",
+    "grammar": "What's the temperature.....?; Cannot stand St; Feel like +Ving"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Cebu",
+    "cityId": 40,
+    "districtName": "Pahina Central",
+    "districtId": "40-Pahina Central",
+    "topic": "W25: Weather",
+    "subject": "Natural disasters",
+    "vocabulary": [
+      "Earthquake",
+      " Tornado",
+      " Tsunami",
+      " Flood",
+      " Drought",
+      " Experience",
+      " Consequence"
+    ],
+    "phonetics": "/æ/ and /e/",
+    "grammar": "S+ have/has + V(ed/p2) (present perfect); S+V(ed/p1) (past simple); Understand about"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Cebu",
+    "cityId": 40,
+    "districtName": "Capitol Site",
+    "districtId": "40-Capitol Site",
+    "topic": "W35: Marriage",
+    "subject": "How did you meet your partner?",
+    "vocabulary": [
+      "Colleague",
+      " Conference ",
+      " Gorgeous ",
+      " At first sight ",
+      " Abroad ",
+      " Keep in touch ",
+      " Motivation"
+    ],
+    "phonetics": "/f/ and /θ/",
+    "grammar": "Wh question word +did+S+V(inf)?; S+V(ed/p1) (past simple)"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Cebu",
+    "cityId": 40,
+    "districtName": "Capitol Site",
+    "districtId": "40-Capitol Site",
+    "topic": "W35: Marriage",
+    "subject": "Talking about proposals",
+    "vocabulary": [
+      "Propose",
+      " Creative ",
+      " Set up ",
+      " Show up ",
+      " Confused",
+      " Romantic"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "S + am/ is/ are going to V"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Cebu",
+    "cityId": 40,
+    "districtName": "Capitol Site",
+    "districtId": "40-Capitol Site",
+    "topic": "W35: Marriage",
+    "subject": "Talking about weddings",
+    "vocabulary": [
+      "Guest",
+      " Atmosphere",
+      " Joy",
+      " Exchange",
+      " Witness",
+      " Bridesmaid"
+    ],
+    "phonetics": "/æ/ and /e/",
+    "grammar": "S + must have + V(ed/p2); S+V(s/es) (present simple)"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Cebu",
+    "cityId": 40,
+    "districtName": "Capitol Site",
+    "districtId": "40-Capitol Site",
+    "topic": "W35: Marriage",
+    "subject": "Life after getting marriage",
+    "vocabulary": [
+      "Marriage",
+      " Takes care of (someboday/something)",
+      " Parents - in- law",
+      " Treat",
+      " Blessed",
+      " Romantic"
+    ],
+    "phonetics": "/s/ and /ʃ/",
+    "grammar": "S + plan + to V; Decide to V"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Cebu",
+    "cityId": 40,
+    "districtName": "Capitol Site",
+    "districtId": "40-Capitol Site",
+    "topic": "W35: Marriage",
+    "subject": "Common marriage problems",
+    "vocabulary": [
+      "Fed up with",
+      " Chore\n\n",
+      " Exhausted\n\n",
+      " Frank \n\n",
+      " Conflict ",
+      " Destroy"
+    ],
+    "phonetics": "/ə/ and /ʌ/",
+    "grammar": "S + argue + with Sb + about St.; S + disagree + with Sb + about St.; S + lie + to Sb + about St."
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Cebu",
+    "cityId": 40,
+    "districtName": "Capitol Site",
+    "districtId": "40-Capitol Site",
+    "topic": "W35: Marriage",
+    "subject": "At a friend's wedding",
+    "vocabulary": [
+      "Ceremony",
+      " Calla lily\n\n",
+      " Worth\n",
+      " Vow ",
+      " Groomsman"
+    ],
+    "phonetics": "/ə/ and /ɜ:/",
+    "grammar": "S + must have + V(ed/p2); S+V(ed/p1) (past simple); look+adj; Seem to V; Wh question word +did+S+V(inf)?"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Cebu",
+    "cityId": 40,
+    "districtName": "Capitol Site",
+    "districtId": "40-Capitol Site",
+    "topic": "W35: Marriage",
+    "subject": "Celebrity marriages",
+    "vocabulary": [
+      "Divorce",
+      " Celebrity",
+      " Stunning ",
+      " Schedule",
+      " Private",
+      " Deserve"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "S+am/is/are+Ving (present continuous); S+will+V(inf) (future simple)"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Cebu",
+    "cityId": 40,
+    "districtName": "Kamputhaw",
+    "districtId": "40-Kamputhaw",
+    "topic": "W27: Friendship",
+    "subject": "Keeping in touch with your friends",
+    "vocabulary": [
+      "Move",
+      " Trip",
+      " Drop somebody a line ",
+      " Keep in touch",
+      " Keep someone posted",
+      " Trust"
+    ],
+    "phonetics": "/ʧ/ and /t/",
+    "grammar": "Let’s + V + ...; Don’t forget + to V + ...; Remember to V; look forward to + Ving"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Cebu",
+    "cityId": 40,
+    "districtName": "Kamputhaw",
+    "districtId": "40-Kamputhaw",
+    "topic": "W27: Friendship",
+    "subject": "Taking your friend to work",
+    "vocabulary": [
+      "Break down",
+      " Leave",
+      " Mechanic",
+      " Tow",
+      " Workshop",
+      " Repair"
+    ],
+    "phonetics": "/æ/ and /ɑː/",
+    "grammar": "Would you mind +Ving, please?; It + be + adj + to V"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Cebu",
+    "cityId": 40,
+    "districtName": "Kamputhaw",
+    "districtId": "40-Kamputhaw",
+    "topic": "W27: Friendship",
+    "subject": "Inquiring after an ill friend",
+    "vocabulary": [
+      "Serious",
+      " Pretty",
+      " Infection",
+      " Kidney",
+      " Surgery",
+      " Recover"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "How have/has +S+ been feeling?; S+ hope + Sb feel better; S + wish + S+ V(ed/p1)"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Cebu",
+    "cityId": 40,
+    "districtName": "Kamputhaw",
+    "districtId": "40-Kamputhaw",
+    "topic": "W27: Friendship",
+    "subject": "Talking about your roommates",
+    "vocabulary": [
+      "Rent",
+      " Share ",
+      " Enough",
+      " Get along with somebody",
+      " Roommate",
+      " to be good at something"
+    ],
+    "phonetics": "/l/ and /r/",
+    "grammar": "get along with; What + to be + N + like?"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Cebu",
+    "cityId": 40,
+    "districtName": "Kamputhaw",
+    "districtId": "40-Kamputhaw",
+    "topic": "W27: Friendship",
+    "subject": "Talking about your best friend",
+    "vocabulary": [
+      "Quarrel",
+      " Fault ",
+      " Control ",
+      " Forgive ",
+      " Keep calm"
+    ],
+    "phonetics": "/æ/ and /e/",
+    "grammar": "What + to be + N + like?; How often + do/does + S + V(inf)?"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Cebu",
+    "cityId": 40,
+    "districtName": "Kamputhaw",
+    "districtId": "40-Kamputhaw",
+    "topic": "W27: Friendship",
+    "subject": "Introducing your family to your friend",
+    "vocabulary": [
+      "Relative",
+      " Parent",
+      " Lecturer",
+      " Beauty contest",
+      " Gorgeous"
+    ],
+    "phonetics": "/d/ and /ʤ/",
+    "grammar": "What + do/does + S + do?; How old + to be + S?"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Cebu",
+    "cityId": 40,
+    "districtName": "Kamputhaw",
+    "districtId": "40-Kamputhaw",
+    "topic": "W27: Friendship",
+    "subject": "Meeting an old friend",
+    "vocabulary": [
+      "Ages",
+      " Workplace",
+      " Coincidence",
+      " Reasonable",
+      " Keep in touch",
+      " Give somebody a ring"
+    ],
+    "phonetics": "/v/ and /f/",
+    "grammar": "Long time no see!; What have you been up to?; Give Sb a call"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Cebu",
+    "cityId": 40,
+    "districtName": "Lahug",
+    "districtId": "40-Lahug",
+    "topic": "W26: Emotions",
+    "subject": "Being happy and feeling good",
+    "vocabulary": [
+      "Jump for joy",
+      " Settle down",
+      " Provide",
+      " Living accommodation",
+      " Call for something",
+      " Celebration"
+    ],
+    "phonetics": " /æ/ and /e/",
+    "grammar": "S + am/is/are sorry/happy + for Sb/St"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Cebu",
+    "cityId": 40,
+    "districtName": "Lahug",
+    "districtId": "40-Lahug",
+    "topic": "W26: Emotions",
+    "subject": "How to express your anger",
+    "vocabulary": [
+      "Calm down",
+      " Berserk",
+      " Lose one's temper",
+      " Take a deep breath",
+      " Livid",
+      " Ease"
+    ],
+    "phonetics": "/n/ and /ŋ/",
+    "grammar": "If + S + Ved/P1, S + would/could/should + V"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Cebu",
+    "cityId": 40,
+    "districtName": "Lahug",
+    "districtId": "40-Lahug",
+    "topic": "W26: Emotions",
+    "subject": "How to express your excitement",
+    "vocabulary": [
+      "Stoked",
+      " Cherish",
+      " Proud",
+      " Look forward to",
+      " Deserve",
+      " Appreciate"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "S + can’t wait to V"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Cebu",
+    "cityId": 40,
+    "districtName": "Lahug",
+    "districtId": "40-Lahug",
+    "topic": "W26: Emotions",
+    "subject": "Talking about your worries",
+    "vocabulary": [
+      "Anxious",
+      " Worried",
+      " Succeed",
+      " Disappointed",
+      " Expect",
+      " Pessimistic"
+    ],
+    "phonetics": "/t/ and /d/",
+    "grammar": "Have you + been + Ving?; S + will +get through + something"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Cebu",
+    "cityId": 40,
+    "districtName": "Lahug",
+    "districtId": "40-Lahug",
+    "topic": "W26: Emotions",
+    "subject": "Experiencing stress",
+    "vocabulary": [
+      "Stressful",
+      " Stress",
+      " Crunch time",
+      " Put pressure on somebody",
+      " Shout",
+      " Collapse"
+    ],
+    "phonetics": "/e/ and /ei/",
+    "grammar": "S+have/has+been+Ving (present perfect continuous)"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Cebu",
+    "cityId": 40,
+    "districtName": "Lahug",
+    "districtId": "40-Lahug",
+    "topic": "W26: Emotions",
+    "subject": "Feeling sad and depressed",
+    "vocabulary": [
+      "Gloomy",
+      " Fight",
+      " Argue",
+      " In a row",
+      " Depress",
+      " Overthink"
+    ],
+    "phonetics": "/k/ and /g/",
+    "grammar": "S + need to + stop + Ving St"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Cebu",
+    "cityId": 40,
+    "districtName": "Lahug",
+    "districtId": "40-Lahug",
+    "topic": "W26: Emotions",
+    "subject": "What are you afraid of?",
+    "vocabulary": [
+      "Fear",
+      " Failure",
+      " Freedom",
+      " Goosebumps",
+      " Height",
+      " Throw up"
+    ],
+    "phonetics": "/ə/ and /e/",
+    "grammar": "used to"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Davao",
+    "cityId": 41,
+    "districtName": "Agdao",
+    "districtId": "41-Agdao",
+    "topic": "W44: Talking about your childhood",
+    "subject": "What did you want to be when you were a kid?",
+    "vocabulary": [
+      "Sew",
+      " Coinciental",
+      " Desire",
+      " Afford",
+      " Deserve",
+      " Professional"
+    ],
+    "phonetics": "/b/ and /p/",
+    "grammar": "S + dream of + Ving; develop sth.....; Cannot stand St; want to be St; work on......."
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Davao",
+    "cityId": 41,
+    "districtName": "Agdao",
+    "districtId": "41-Agdao",
+    "topic": "W44: Talking about your childhood",
+    "subject": "Your favorite childhood toys",
+    "vocabulary": [
+      "Wardrobe",
+      " Time flies",
+      " Cuddle",
+      " Adorable",
+      " Burst out",
+      " Unique"
+    ],
+    "phonetics": "/t/ and /d/",
+    "grammar": "What is your favorite + N?; It is/was+adj for Sb to V; Do you still have it?"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Davao",
+    "cityId": 41,
+    "districtName": "Agdao",
+    "districtId": "41-Agdao",
+    "topic": "W44: Talking about your childhood",
+    "subject": "What kind of food did you like when you were a child?",
+    "vocabulary": [
+      "Dish",
+      " Creamy",
+      " Comfort food",
+      " Dessert",
+      " Yogurt",
+      " Be good at something/doing something"
+    ],
+    "phonetics": "/ʊ/ and /u:/",
+    "grammar": "Like/love + Ving/N; Picky eater; used to"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Davao",
+    "cityId": 41,
+    "districtName": "Agdao",
+    "districtId": "41-Agdao",
+    "topic": "W44: Talking about your childhood",
+    "subject": "Embarrassing moments from childhood",
+    "vocabulary": [
+      "Diary",
+      " Drawers",
+      " Note",
+      " Pocket",
+      " Disappear",
+      " Steal",
+      " Embarrassed"
+    ],
+    "phonetics": "/s/ and /ʃ/",
+    "grammar": "How often + do/does + S + V(inf)?; What was your most...?; It was + a/an + N; S + must have + V(ed/p2); I’m so sorry that S+V."
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Davao",
+    "cityId": 41,
+    "districtName": "Agdao",
+    "districtId": "41-Agdao",
+    "topic": "W44: Talking about your childhood",
+    "subject": "The best memory of your childhood",
+    "vocabulary": [
+      "Naughty",
+      " Punish",
+      " Remark",
+      " Signature",
+      " Escape",
+      " Fake"
+    ],
+    "phonetics": "/s/ and /z/",
+    "grammar": "What is your best childhood memory?; It would be.....; How did you + V(inf)?; And that’s why you remember..."
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Davao",
+    "cityId": 41,
+    "districtName": "Agdao",
+    "districtId": "41-Agdao",
+    "topic": "W44: Talking about your childhood",
+    "subject": "Your favorite teacher from school",
+    "vocabulary": [
+      "Strict",
+      " Admire",
+      " Be fond of someone/something",
+      " Sense of humor",
+      " Supportiveness",
+      " Respect",
+      " Inspiration"
+    ],
+    "phonetics": "/l/ and /r/",
+    "grammar": "to think critically; motivate me to..."
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Davao",
+    "cityId": 41,
+    "districtName": "Agdao",
+    "districtId": "41-Agdao",
+    "topic": "W44: Talking about your childhood",
+    "subject": "The subjects you hated at school",
+    "vocabulary": [
+      "Econometrics",
+      " Definitely",
+      " Perhaps",
+      " Solve",
+      " Complcated",
+      " Theoretical",
+      " Philosophy"
+    ],
+    "phonetics": "/s/ and /z/",
+    "grammar": "What subjects did you hate the most at school?; How do you feel about......; To get angry with somebody; To be + good at St; To get better"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Davao",
+    "cityId": 41,
+    "districtName": "Buhangin Proper",
+    "districtId": "41-Buhangin Proper",
+    "topic": "W52: Things that we should save",
+    "subject": "Do you prefer to spend or save money?",
+    "vocabulary": [
+      "Broke",
+      " Borrow",
+      " Spare",
+      " Lend",
+      " Benefit",
+      " Come in handy",
+      " Convince"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "S + to be + wasting + St"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Davao",
+    "cityId": 41,
+    "districtName": "Buhangin Proper",
+    "districtId": "41-Buhangin Proper",
+    "topic": "W52: Things that we should save",
+    "subject": "Saving water",
+    "vocabulary": [
+      "Turn off",
+      " Run out of",
+      " Limitless",
+      " Resource",
+      " Conserve",
+      " Precious",
+      " Water-efficient"
+    ],
+    "phonetics": "/f/ and /p/",
+    "grammar": "What can +S +V(inf)?"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Davao",
+    "cityId": 41,
+    "districtName": "Buhangin Proper",
+    "districtId": "41-Buhangin Proper",
+    "topic": "W52: Things that we should save",
+    "subject": "Why should we save energy?",
+    "vocabulary": [
+      "Energy",
+      " Waste",
+      " Mayor",
+      " Environment",
+      " Efficiency",
+      " Severity",
+      " Climate change"
+    ],
+    "phonetics": "/s/ and /z/",
+    "grammar": "To prevent + St/Sb + from St/Ving; effect on"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Davao",
+    "cityId": 41,
+    "districtName": "Buhangin Proper",
+    "districtId": "41-Buhangin Proper",
+    "topic": "W52: Things that we should save",
+    "subject": "Summer energy-saving tips",
+    "vocabulary": [
+      "Energy",
+      " Turn off",
+      " Save energy",
+      " Bulb",
+      " Produce",
+      " Reduce",
+      " Consumption"
+    ],
+    "phonetics": "/s/ and /ʃ/",
+    "grammar": "S+should+V(inf); A large amount of, a great deal of , a large number of"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Davao",
+    "cityId": 41,
+    "districtName": "Buhangin Proper",
+    "districtId": "41-Buhangin Proper",
+    "topic": "W52: Things that we should save",
+    "subject": "Ways to save money",
+    "vocabulary": [
+      "Pay back",
+      " Afford",
+      " Fee",
+      " Fund",
+      " Expenses",
+      " Financial"
+    ],
+    "phonetics": "/b/ and /p/",
+    "grammar": "S + spend + money (on)+ Ving; S + plan + to V"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Davao",
+    "cityId": 41,
+    "districtName": "Buhangin Proper",
+    "districtId": "41-Buhangin Proper",
+    "topic": "W52: Things that we should save",
+    "subject": "What can we do to save the Earth?",
+    "vocabulary": [
+      "Damage",
+      " Reusable",
+      " Recyclable",
+      " Emission",
+      " Greenhouse gas",
+      " Crank up"
+    ],
+    "phonetics": "/t/ and /d/",
+    "grammar": "S + to be + concerned + about St; let + Sb + V(inf)"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Davao",
+    "cityId": 41,
+    "districtName": "Buhangin Proper",
+    "districtId": "41-Buhangin Proper",
+    "topic": "W52: Things that we should save",
+    "subject": "Teaching children to save",
+    "vocabulary": [
+      "Housework",
+      " Coin",
+      " Piggy bank",
+      " Afford",
+      " Manage",
+      " Earn",
+      " Income"
+    ],
+    "phonetics": "/θ/ and /ð/",
+    "grammar": "Set an example for Sb"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Davao",
+    "cityId": 41,
+    "districtName": "Matina Aplaya",
+    "districtId": "41-Matina Aplaya",
+    "topic": "W40: Around your house",
+    "subject": "What type of house do you live in?",
+    "vocabulary": [
+      "Suburb",
+      " Detached",
+      " Terraced",
+      " Budget",
+      " Neighbor",
+      " Hospitable"
+    ],
+    "phonetics": "/s/ and /ʃ/",
+    "grammar": "What kind/type/sort of + N + do you like/hate?; What + N + do you have?; What do/does + S + like/dislike about + St/Sb?"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Davao",
+    "cityId": 41,
+    "districtName": "Matina Aplaya",
+    "districtId": "41-Matina Aplaya",
+    "topic": "W40: Around your house",
+    "subject": "Choosing furniture for your house",
+    "vocabulary": [
+      "Furniture",
+      " Furnish",
+      " Function",
+      " Measure",
+      " Condition",
+      " Prolonged",
+      " Usage"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "Need+to V; S + mệnh đề + if + mệnh đề; S+should+V(inf)"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Davao",
+    "cityId": 41,
+    "districtName": "Matina Aplaya",
+    "districtId": "41-Matina Aplaya",
+    "topic": "W40: Around your house",
+    "subject": "Reducing waste at home",
+    "vocabulary": [
+      "Waste",
+      " Reduce",
+      " Rubbish",
+      " Leftovers",
+      " Bulk",
+      " Returnable",
+      " Reusable"
+    ],
+    "phonetics": "/æ/ and /e/",
+    "grammar": "S + help + Sb + V(inf) St/ to V; Seem to V"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Davao",
+    "cityId": 41,
+    "districtName": "Matina Aplaya",
+    "districtId": "41-Matina Aplaya",
+    "topic": "W40: Around your house",
+    "subject": "Everybody needs good neighbors",
+    "vocabulary": [
+      "Nightmare",
+      " Injured",
+      " Owe",
+      " Ignore",
+      " Rescue",
+      " Rubble"
+    ],
+    "phonetics": "/s/ and /z/",
+    "grammar": "S + am/ is/ are going to V; What + a/an + adj + N!; What + to be + N + like?"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Davao",
+    "cityId": 41,
+    "districtName": "Matina Aplaya",
+    "districtId": "41-Matina Aplaya",
+    "topic": "W40: Around your house",
+    "subject": "Keeping your house clean",
+    "vocabulary": [
+      "Mess",
+      " Chore",
+      " Vacuum",
+      " Laundry",
+      " Take turns",
+      " Do the dishes",
+      " Make the bed"
+    ],
+    "phonetics": "/k/ and /g/",
+    "grammar": "S+ spend + amount of time/ money + Ving/ on st"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Davao",
+    "cityId": 41,
+    "districtName": "Matina Aplaya",
+    "districtId": "41-Matina Aplaya",
+    "topic": "W40: Around your house",
+    "subject": "Tending your own garden",
+    "vocabulary": [
+      "Grow",
+      " Plant",
+      " In full bloom",
+      " Smell",
+      " Delicate",
+      " Calm",
+      " Refresh"
+    ],
+    "phonetics": "/t/ and /d/",
+    "grammar": "look + adj; If + S + Ved/P1, S + would/could/should + V"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Davao",
+    "cityId": 41,
+    "districtName": "Matina Aplaya",
+    "districtId": "41-Matina Aplaya",
+    "topic": "W40: Around your house",
+    "subject": "Should we continue using plastic bags?",
+    "vocabulary": [
+      "Globally",
+      " Used to doing something",
+      " Sperm whale",
+      " Suffocation",
+      " Release",
+      " Biodegrade",
+      " Eco-friendly"
+    ],
+    "phonetics": "/n/ and /ŋ/",
+    "grammar": "(To) contribute to St; S +to be+V(ed/p2) (passive voice)"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Davao",
+    "cityId": 41,
+    "districtName": "Poblacion District",
+    "districtId": "41-Poblacion District",
+    "topic": "W16: Jobs",
+    "subject": "Describing your job",
+    "vocabulary": [
+      "Medical report",
+      " Write down",
+      " Patient",
+      " Paycheck",
+      " Schedule",
+      " Freedom",
+      " Receive"
+    ],
+    "phonetics": "/n/ and /ŋ/",
+    "grammar": "Work as + N; Be responsible for; Work for"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Davao",
+    "cityId": 41,
+    "districtName": "Poblacion District",
+    "districtId": "41-Poblacion District",
+    "topic": "W16: Jobs",
+    "subject": "Teamwork and problem solving",
+    "vocabulary": [
+      "Project",
+      " In charge of",
+      " Separate",
+      " Leader",
+      " Step up",
+      " Bossy",
+      " Direct"
+    ],
+    "phonetics": "/d/ and /ʤ/",
+    "grammar": "to call for a meeting; to help + Sb + out; Find out"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Davao",
+    "cityId": 41,
+    "districtName": "Poblacion District",
+    "districtId": "41-Poblacion District",
+    "topic": "W16: Jobs",
+    "subject": "I've decieved to leave my job",
+    "vocabulary": [
+      "Quit",
+      " Reason",
+      " Offer",
+      " Partnership",
+      " Decide"
+    ],
+    "phonetics": "/ʃ/ and /s/",
+    "grammar": "S+ have/has + V(ed/p2) (present perfect)"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Davao",
+    "cityId": 41,
+    "districtName": "Poblacion District",
+    "districtId": "41-Poblacion District",
+    "topic": "W16: Jobs",
+    "subject": "Job board sites",
+    "vocabulary": [
+      "Employer",
+      " Monitor",
+      " Post",
+      " Offer",
+      " Opportunity",
+      " Absolutely"
+    ],
+    "phonetics": "/aɪ/ and /ɪ/",
+    "grammar": "Why don’t we / you + V(inf)?; suggest + Ving"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Davao",
+    "cityId": 41,
+    "districtName": "Poblacion District",
+    "districtId": "41-Poblacion District",
+    "topic": "W16: Jobs",
+    "subject": "I got a new job.",
+    "vocabulary": [
+      "Position",
+      " Close to something",
+      " Recruit",
+      " Congratulation",
+      " Train",
+      " Replacement"
+    ],
+    "phonetics": "/t/ and /ʧ/",
+    "grammar": "got a job; What + do/does + S + like about + N/Ving?"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Davao",
+    "cityId": 41,
+    "districtName": "Poblacion District",
+    "districtId": "41-Poblacion District",
+    "topic": "W16: Jobs",
+    "subject": "Working abroad",
+    "vocabulary": [
+      "Abroad",
+      " Spend somethin",
+      " Expenses",
+      " Support someone",
+      " Foreigner",
+      " Explore"
+    ],
+    "phonetics": "/oʊ/ and /ɔ:/",
+    "grammar": "S + am/ is/ are going to V; to explore"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Davao",
+    "cityId": 41,
+    "districtName": "Poblacion District",
+    "districtId": "41-Poblacion District",
+    "topic": "W16: Jobs",
+    "subject": "HOW TO GIVE FEEDBACK IN THE WORKPLACE",
+    "vocabulary": [
+      "Performance",
+      " Contribution",
+      " Ahead of",
+      " Volunteer",
+      " Visible",
+      " Stand out"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "S + would be + N; S+ try to V"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Manila",
+    "cityId": 42,
+    "districtName": "Binondo",
+    "districtId": "42-Binondo",
+    "topic": "W51: Diseases",
+    "subject": "Avoiding Infectious diseases",
+    "vocabulary": [
+      "Malaria",
+      " Symptom",
+      " Disease",
+      " Transmit",
+      " Repellent",
+      " Infected",
+      " Get rid of"
+    ],
+    "phonetics": "/n/ and /ŋ/",
+    "grammar": "S+should+V(inf)"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Manila",
+    "cityId": 42,
+    "districtName": "Binondo",
+    "districtId": "42-Binondo",
+    "topic": "W51: Diseases",
+    "subject": "Vaccination for children",
+    "vocabulary": [
+      "Vaccine",
+      " Immunization",
+      " Side effect",
+      " Weaken",
+      " Immune system"
+    ],
+    "phonetics": "/s/ and /ʃ/",
+    "grammar": "It + be + adjectives + to V"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Manila",
+    "cityId": 42,
+    "districtName": "Binondo",
+    "districtId": "42-Binondo",
+    "topic": "W51: Diseases",
+    "subject": "Dealing with sickness",
+    "vocabulary": [
+      "Rest",
+      " Deal with something",
+      " Nutritious",
+      " Under the weather",
+      " Medication",
+      " Replenish"
+    ],
+    "phonetics": "/æ/ and /e/",
+    "grammar": "S+ have/has + V(ed/p2) (present perfect)"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Manila",
+    "cityId": 42,
+    "districtName": "Binondo",
+    "districtId": "42-Binondo",
+    "topic": "W51: Diseases",
+    "subject": "Food-related diseases",
+    "vocabulary": [
+      "Hypertension",
+      " Have a sweet tooth",
+      " Organic",
+      " Sugary",
+      " Cramp",
+      " Vomit"
+    ],
+    "phonetics": "/d/ and /ʤ/",
+    "grammar": "S + might have + V(ed/p2)"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Manila",
+    "cityId": 42,
+    "districtName": "Binondo",
+    "districtId": "42-Binondo",
+    "topic": "W51: Diseases",
+    "subject": "Cancer prevention",
+    "vocabulary": [
+      "Cure",
+      " Prevent",
+      " Risk",
+      " Obesity",
+      " Moderation",
+      " Better late than never"
+    ],
+    "phonetics": "/ɜː/ and /ə/",
+    "grammar": "S + can + be + V(ed/p2) (passive voice with \"can\")"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Manila",
+    "cityId": 42,
+    "districtName": "Binondo",
+    "districtId": "42-Binondo",
+    "topic": "W51: Diseases",
+    "subject": "Common childhood diseases",
+    "vocabulary": [
+      "Symptom",
+      " Blister",
+      " Ulcer",
+      " Ease",
+      " Resist"
+    ],
+    "phonetics": "/ʧ/ and /t/",
+    "grammar": "It's difficult to V"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Manila",
+    "cityId": 42,
+    "districtName": "Binondo",
+    "districtId": "42-Binondo",
+    "topic": "W51: Diseases",
+    "subject": "Common health concerns for seniors",
+    "vocabulary": [
+      "Disorder",
+      " Fatigue",
+      " Behavioral",
+      " Therapy",
+      " Multiple",
+      " Nap"
+    ],
+    "phonetics": "/v/ and /f/",
+    "grammar": "It +to be+ (not) worth +Ving."
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Manila",
+    "cityId": 42,
+    "districtName": "Ermita",
+    "districtId": "42-Ermita",
+    "topic": "W21: At the bank",
+    "subject": "Setting up a bank account",
+    "vocabulary": [
+      "Savings account",
+      " Checking account",
+      " Checkbook",
+      " ATM card",
+      " Interest rate",
+      " Deposit"
+    ],
+    "phonetics": "/s/ and /z/",
+    "grammar": "What kind of + N + should S + V(inf)?; S+would like+to V"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Manila",
+    "cityId": 42,
+    "districtName": "Ermita",
+    "districtId": "42-Ermita",
+    "topic": "W21: At the bank",
+    "subject": "Withdrawing money from a bank",
+    "vocabulary": [
+      "Withdrawal",
+      " Bank card",
+      " Identification card",
+      " Withdraw",
+      " Take out",
+      " Receipt"
+    ],
+    "phonetics": "/ɔː/ and /ɑː/",
+    "grammar": "How much + would you like to V?"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Manila",
+    "cityId": 42,
+    "districtName": "Ermita",
+    "districtId": "42-Ermita",
+    "topic": "W21: At the bank",
+    "subject": "Depositing money",
+    "vocabulary": [
+      "Counter",
+      " Deposit",
+      " Slip",
+      " Detail",
+      " Responsible",
+      " Passbook"
+    ],
+    "phonetics": "/æ/ and /ʌ/",
+    "grammar": "Do/ Does + S + want to + V?"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Manila",
+    "cityId": 42,
+    "districtName": "Ermita",
+    "districtId": "42-Ermita",
+    "topic": "W21: At the bank",
+    "subject": "Transfering money",
+    "vocabulary": [
+      "Transfer",
+      " Form",
+      " Holder",
+      " Account",
+      " Balance"
+    ],
+    "phonetics": "/k/ and /t/",
+    "grammar": "Which (sth) do you want to + V ?"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Manila",
+    "cityId": 42,
+    "districtName": "Ermita",
+    "districtId": "42-Ermita",
+    "topic": "W21: At the bank",
+    "subject": "Reporting unauthorized charges",
+    "vocabulary": [
+      "Report",
+      " Charge",
+      " Debit card",
+      " Statement",
+      " Investigation",
+      " Freeze"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "Carry out"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Manila",
+    "cityId": 42,
+    "districtName": "Ermita",
+    "districtId": "42-Ermita",
+    "topic": "W21: At the bank",
+    "subject": "Exchange money At A Bureau De Change",
+    "vocabulary": [
+      "Exchange",
+      " Currency",
+      " Available",
+      " Exchange rate",
+      " Run out of something",
+      " Denomination"
+    ],
+    "phonetics": "/ə/ and /ɜː/",
+    "grammar": "What’s the exchange rate for … to … ?"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Manila",
+    "cityId": 42,
+    "districtName": "Ermita",
+    "districtId": "42-Ermita",
+    "topic": "W21: At the bank",
+    "subject": "Using an ATM",
+    "vocabulary": [
+      "Figure out",
+      " Insert",
+      " PIN",
+      " Instruction",
+      " Select",
+      " Option"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "Can you + mệnh đề"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Manila",
+    "cityId": 42,
+    "districtName": "Tondo",
+    "districtId": "42-Tondo",
+    "topic": "W57: Sleeping",
+    "subject": "Random facts about sleep",
+    "vocabulary": [
+      "Sleepy",
+      " Harmful",
+      " Take a nap",
+      " Survive",
+      " Fact",
+      " Random"
+    ],
+    "phonetics": "/ə/ and /ʌ/",
+    "grammar": "plan on Ving"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Manila",
+    "cityId": 42,
+    "districtName": "Tondo",
+    "districtId": "42-Tondo",
+    "topic": "W57: Sleeping",
+    "subject": "Should you take a nap?",
+    "vocabulary": [
+      "Nap",
+      " Alertness",
+      " Prevent",
+      " Burnout",
+      " Relieve",
+      " Productive"
+    ],
+    "phonetics": "/s/ and /ʃ/",
+    "grammar": "How much time do/does +S+ spend on Ving?"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Manila",
+    "cityId": 42,
+    "districtName": "Tondo",
+    "districtId": "42-Tondo",
+    "topic": "W57: Sleeping",
+    "subject": "Healthy sleep habits",
+    "vocabulary": [
+      "Healthy",
+      " Habit",
+      " Consistent",
+      " Maintain",
+      " Nap",
+      " Bedtime"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "Find it hard to + V(inf) + St"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Manila",
+    "cityId": 42,
+    "districtName": "Tondo",
+    "districtId": "42-Tondo",
+    "topic": "W57: Sleeping",
+    "subject": "The benefits of sleep",
+    "vocabulary": [
+      "Keep up with",
+      " Freak out",
+      " Improve",
+      " Regulate",
+      " Appetite",
+      " Adequate"
+    ],
+    "phonetics": "/e/ and /eɪ/",
+    "grammar": "associated with St/N"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Manila",
+    "cityId": 42,
+    "districtName": "Tondo",
+    "districtId": "42-Tondo",
+    "topic": "W57: Sleeping",
+    "subject": "What is Insomina?",
+    "vocabulary": [
+      "Disorder",
+      " Fatigue",
+      " Dissatisfied",
+      " Chronic",
+      " Resolve",
+      " Prescribe"
+    ],
+    "phonetics": "/v/ and /f/",
+    "grammar": "Have trouble Ving"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Manila",
+    "cityId": 42,
+    "districtName": "Tondo",
+    "districtId": "42-Tondo",
+    "topic": "W57: Sleeping",
+    "subject": "What causes insomina?",
+    "vocabulary": [
+      "Insomnia",
+      " Anxiety",
+      " Stressful",
+      " Nightmare",
+      " Caffeinated"
+    ],
+    "phonetics": "/d/ and /ʤ/",
+    "grammar": "be + worried about + N/ Ving"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Manila",
+    "cityId": 42,
+    "districtName": "Tondo",
+    "districtId": "42-Tondo",
+    "topic": "W57: Sleeping",
+    "subject": "What to do when you can't sleep",
+    "vocabulary": [
+      "Asleep",
+      " Relaxing",
+      " Breathing",
+      " Bedtime",
+      " Caffeine"
+    ],
+    "phonetics": "/æ/ and /e/",
+    "grammar": "try + Ving"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Manila",
+    "cityId": 42,
+    "districtName": "Sampaloc",
+    "districtId": "42-Sampaloc",
+    "topic": "W48: Healthy lifestyles",
+    "subject": "What is a healthy diet?",
+    "vocabulary": [
+      "Diet",
+      " Habitually",
+      " Balanced",
+      " Nutrient",
+      " Immune system",
+      " Intake"
+    ],
+    "phonetics": "/p/ and /t/",
+    "grammar": "What kind of + N + should S + V(inf)?; S + modal verb + V(inf)"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Manila",
+    "cityId": 42,
+    "districtName": "Sampaloc",
+    "districtId": "42-Sampaloc",
+    "topic": "W48: Healthy lifestyles",
+    "subject": "Physical activities",
+    "vocabulary": [
+      "Couch potato",
+      " Risk",
+      " Control",
+      " Exercise",
+      " Improve",
+      " Health"
+    ],
+    "phonetics": "/s/ and /ʃ/",
+    "grammar": "S+ to be/get used to + Ving.; S+have/has+been+Ving (present perfect continuous); give up st"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Manila",
+    "cityId": 42,
+    "districtName": "Sampaloc",
+    "districtId": "42-Sampaloc",
+    "topic": "W48: Healthy lifestyles",
+    "subject": "Giving up smoking",
+    "vocabulary": [
+      "Cigarette",
+      " Suffer",
+      " Stroke",
+      " Convince",
+      " Motivation",
+      " Encourage"
+    ],
+    "phonetics": "/oʊ/ and /ɔ:/",
+    "grammar": "Concentrate on + Ving/ St; S+ try to V; The sooner the better; To be better off"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Manila",
+    "cityId": 42,
+    "districtName": "Sampaloc",
+    "districtId": "42-Sampaloc",
+    "topic": "W48: Healthy lifestyles",
+    "subject": "The benefits of drinking water",
+    "vocabulary": [
+      "Eliminate",
+      " Impurity",
+      " Hydrated",
+      " Fluid",
+      " Metabolism",
+      " Beverage"
+    ],
+    "phonetics": "/t/ and /d/",
+    "grammar": "What do you know about +N/Ving?; S + help + Sb + V(inf) St/ to V; Ving st is+ adj+ for Sb; Lack of st"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Manila",
+    "cityId": 42,
+    "districtName": "Sampaloc",
+    "districtId": "42-Sampaloc",
+    "topic": "W48: Healthy lifestyles",
+    "subject": "A lack of sleep",
+    "vocabulary": [
+      "Drowsy",
+      " Release",
+      " Deprivation",
+      " Exhausted",
+      " Struggle",
+      " Suffer",
+      " Inadequate",
+      " Routine"
+    ],
+    "phonetics": "/e/ and /eɪ/",
+    "grammar": "S+ have/has + V(ed/p2) (present perfect); to cope with/deal with/handle with + St/ Ving"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Manila",
+    "cityId": 42,
+    "districtName": "Sampaloc",
+    "districtId": "42-Sampaloc",
+    "topic": "W48: Healthy lifestyles",
+    "subject": "How do you cope with stress?",
+    "vocabulary": [
+      "Get rid of",
+      " Overload",
+      " Responsibility",
+      " Quit",
+      " Absence",
+      " Exhausted"
+    ],
+    "phonetics": "/r/ and /w/",
+    "grammar": "Because of Ving/St"
+  },
+  {
+    "country": "Phillipines",
+    "countryId": "#N/A",
+    "city": "Manila",
+    "cityId": 42,
+    "districtName": "Sampaloc",
+    "districtId": "42-Sampaloc",
+    "topic": "W48: Healthy lifestyles",
+    "subject": "How your lifestyle affects your health",
+    "vocabulary": [
+      "Cancer",
+      " Diet",
+      " Undermine",
+      " Calorie",
+      " Affect",
+      " Improvement"
+    ],
+    "phonetics": "/dʒ/ and /g/",
+    "grammar": "try it your way; Have a/an + adj + impact on St"
+  },
+  {
+    "country": "Singapore",
+    "countryId": 32,
+    "city": "Singapore",
+    "cityId": 32,
+    "districtName": "Queenstown",
+    "districtId": "32-Queenstown",
+    "topic": "W58: Noel",
+    "subject": "What do people usually do on Christmas?",
+    "vocabulary": [
+      "Traditional",
+      " Essential",
+      " Decorate",
+      " Christmas tree",
+      " Church",
+      " Pray"
+    ],
+    "phonetics": "/ɑ:/ and /ɜ:/",
+    "grammar": "to give St to Sb; What + do/does + S + usually + V(inf)?"
+  },
+  {
+    "country": "Singapore",
+    "countryId": 32,
+    "city": "Singapore",
+    "cityId": 32,
+    "districtName": "Queenstown",
+    "districtId": "32-Queenstown",
+    "topic": "W58: Noel",
+    "subject": "Christmas decorations",
+    "vocabulary": [
+      "Colorful",
+      " Ornament",
+      " Lighten",
+      " Decorative",
+      " Wreath",
+      " Festive"
+    ],
+    "phonetics": "/n/ and /ŋ/",
+    "grammar": "It’s + time + for Sb + to V; let + Sb + V(inf); want to V / want Sb to V"
+  },
+  {
+    "country": "Singapore",
+    "countryId": 32,
+    "city": "Singapore",
+    "cityId": 32,
+    "districtName": "Queenstown",
+    "districtId": "32-Queenstown",
+    "topic": "W58: Noel",
+    "subject": "Holding a Christmas party",
+    "vocabulary": [
+      "Party",
+      " Invitation",
+      " Intend",
+      " Venue",
+      " Guest",
+      " Atmosphere"
+    ],
+    "phonetics": "/b/ and /p/",
+    "grammar": "S+should+V(inf); Make sure + someone + do + something; Never forget to V"
+  },
+  {
+    "country": "Singapore",
+    "countryId": 32,
+    "city": "Singapore",
+    "cityId": 32,
+    "districtName": "Queenstown",
+    "districtId": "32-Queenstown",
+    "topic": "W58: Noel",
+    "subject": "Inviting your friend to a Christmas party",
+    "vocabulary": [
+      "Around the corner",
+      " Occasion",
+      " Neighbor",
+      " Relative",
+      " Come over",
+      " Traditional"
+    ],
+    "phonetics": "/p/ and /f/",
+    "grammar": "Who else…?; S + don’t/ doesn’t + have time + to V"
+  },
+  {
+    "country": "Singapore",
+    "countryId": 32,
+    "city": "Singapore",
+    "cityId": 32,
+    "districtName": "Queenstown",
+    "districtId": "32-Queenstown",
+    "topic": "W58: Noel",
+    "subject": "Chrismast gift ideas",
+    "vocabulary": [
+      "Theme",
+      " Decoration",
+      " Tobe into something",
+      " Around the corner",
+      " Racket",
+      " Come up with"
+    ],
+    "phonetics": "/l/ and /r/",
+    "grammar": "I think + mệnh đề…; What about/How about + N/Ving St?"
+  },
+  {
+    "country": "Singapore",
+    "countryId": 32,
+    "city": "Singapore",
+    "cityId": 32,
+    "districtName": "Queenstown",
+    "districtId": "32-Queenstown",
+    "topic": "W58: Noel",
+    "subject": "Christmas wishes",
+    "vocabulary": [
+      "Crowded",
+      " Pass",
+      " Peace",
+      " Wonder",
+      " Touched",
+      " Poem"
+    ],
+    "phonetics": "/f/ and /v/",
+    "grammar": "What + do/does/did + S + wish Sb?"
+  },
+  {
+    "country": "Singapore",
+    "countryId": 32,
+    "city": "Singapore",
+    "cityId": 32,
+    "districtName": "Queenstown",
+    "districtId": "32-Queenstown",
+    "topic": "W58: Noel",
+    "subject": "Traditional Christmas dinner",
+    "vocabulary": [
+      "Festive",
+      " Ham",
+      " Mashed potatoes",
+      " Turkey",
+      " Gravy",
+      " Brussels sprout",
+      " Christmas pudding"
+    ],
+    "phonetics": "/s/ and /z/",
+    "grammar": "want to V / want Sb to V; Like/love + Ving/N; Can/Could you tell me …?; Do you know where S can find …?; It’s next to the + N."
+  },
+  {
+    "country": "Singapore",
+    "countryId": 32,
+    "city": "Singapore",
+    "cityId": 32,
+    "districtName": "Chinatown",
+    "districtId": "32-Chinatown",
+    "topic": "W20: Talking about daily traffic",
+    "subject": "Renting a car",
+    "vocabulary": [
+      "Rent",
+      " Option",
+      " Compact",
+      " Discount",
+      " Driver's license",
+      " Credit card"
+    ],
+    "phonetics": "/k/ and /g/",
+    "grammar": "What type of...?; I would like to rent...; How much + do/does/would + S + cost?"
+  },
+  {
+    "country": "Singapore",
+    "countryId": 32,
+    "city": "Singapore",
+    "cityId": 32,
+    "districtName": "Chinatown",
+    "districtId": "32-Chinatown",
+    "topic": "W20: Talking about daily traffic",
+    "subject": "Talking about driver's licenses",
+    "vocabulary": [
+      "Driver's license",
+      " Driving test",
+      " Fill out",
+      " Test",
+      " Appointment"
+    ],
+    "phonetics": "/ə/ and /ɜː/",
+    "grammar": "When do/does + S + plan to V?; How long have/has + S + been + Ving?"
+  },
+  {
+    "country": "Singapore",
+    "countryId": 32,
+    "city": "Singapore",
+    "cityId": 32,
+    "districtName": "Chinatown",
+    "districtId": "32-Chinatown",
+    "topic": "W20: Talking about daily traffic",
+    "subject": "Getting a traffic ticket",
+    "vocabulary": [
+      "Parking ticket",
+      " Red zone",
+      " Park",
+      " Quickly",
+      " Parking space",
+      " Worth"
+    ],
+    "phonetics": "/æ/ and /e/",
+    "grammar": "Have/Has + S + got something?"
+  },
+  {
+    "country": "Singapore",
+    "countryId": 32,
+    "city": "Singapore",
+    "cityId": 32,
+    "districtName": "Chinatown",
+    "districtId": "32-Chinatown",
+    "topic": "W20: Talking about daily traffic",
+    "subject": "Talking about your car problems",
+    "vocabulary": [
+      "Crash",
+      " Rush hour",
+      " Traffic jam",
+      " Break down",
+      " Commute",
+      " Lease"
+    ],
+    "phonetics": "/s/ and /ʃ/",
+    "grammar": "What happened to + S?; There seems to be something wrong with..."
+  },
+  {
+    "country": "Singapore",
+    "countryId": 32,
+    "city": "Singapore",
+    "cityId": 32,
+    "districtName": "Chinatown",
+    "districtId": "32-Chinatown",
+    "topic": "W20: Talking about daily traffic",
+    "subject": "Talking about traffic congestion",
+    "vocabulary": [
+      "Gloomy",
+      " Stuck",
+      " Impact",
+      " Traffic laws",
+      " Police traffic control",
+      " Widen"
+    ],
+    "phonetics": "/ɪ/ and /iː/",
+    "grammar": "S + get stuck in St.; S + have/has become something"
+  },
+  {
+    "country": "Singapore",
+    "countryId": 32,
+    "city": "Singapore",
+    "cityId": 32,
+    "districtName": "Chinatown",
+    "districtId": "32-Chinatown",
+    "topic": "W20: Talking about daily traffic",
+    "subject": "Talking with a traffic policeman",
+    "vocabulary": [
+      "Lane",
+      " Signal",
+      " Record",
+      " Driver's license",
+      " Excuse",
+      " Ticket"
+    ],
+    "phonetics": "/t/ and /d/",
+    "grammar": "S + get stuck in St."
+  },
+  {
+    "country": "Singapore",
+    "countryId": 32,
+    "city": "Singapore",
+    "cityId": 32,
+    "districtName": "Chinatown",
+    "districtId": "32-Chinatown",
+    "topic": "W20: Talking about daily traffic",
+    "subject": "Talking about traffic accidents",
+    "vocabulary": [
+      "Freeway",
+      " Hit",
+      " Flip over",
+      " Hurt",
+      " Kill",
+      " Miracle"
+    ],
+    "phonetics": "/æ/ and /ʌ/",
+    "grammar": "Get hurt; What happened?; That’s such a miracle"
+  },
+  {
+    "country": "Singapore",
+    "countryId": 32,
+    "city": "Singapore",
+    "cityId": 32,
+    "districtName": "Marina Bay Sands",
+    "districtId": "32-Marina Bay Sands",
+    "topic": "W47: International working environment",
+    "subject": "Answering calls from recruiters",
+    "vocabulary": [
+      "Corporation",
+      " Position",
+      " Qualification",
+      " Opportunity",
+      " Credentials",
+      " Experience"
+    ],
+    "phonetics": "/ʤ/ and /z/",
+    "grammar": "S+ call to V; When is + N?"
+  },
+  {
+    "country": "Singapore",
+    "countryId": 32,
+    "city": "Singapore",
+    "cityId": 32,
+    "districtName": "Marina Bay Sands",
+    "districtId": "32-Marina Bay Sands",
+    "topic": "W47: International working environment",
+    "subject": "Introducing yourself in a job interview",
+    "vocabulary": [
+      "Face",
+      " Consider",
+      " Strength",
+      " Responsible",
+      " Weakness",
+      " Perfectionist"
+    ],
+    "phonetics": "/s/ and /ʃ/",
+    "grammar": "It’s an honor to V; to graduate from ...; S + to be + adj + person/people"
+  },
+  {
+    "country": "Singapore",
+    "countryId": 32,
+    "city": "Singapore",
+    "cityId": 32,
+    "districtName": "Marina Bay Sands",
+    "districtId": "32-Marina Bay Sands",
+    "topic": "W47: International working environment",
+    "subject": "Answering interview questions",
+    "vocabulary": [
+      "Educational",
+      " Field ",
+      " suitable",
+      " Opportunity",
+      " Goal",
+      " Successful"
+    ],
+    "phonetics": "/f/ and /v/",
+    "grammar": "Why + to be + S+ Ving?; S+have/has been an/a + name of a job+ for......."
+  },
+  {
+    "country": "Singapore",
+    "countryId": 32,
+    "city": "Singapore",
+    "cityId": 32,
+    "districtName": "Marina Bay Sands",
+    "districtId": "32-Marina Bay Sands",
+    "topic": "W47: International working environment",
+    "subject": "Your first day at work",
+    "vocabulary": [
+      "Help somebody out",
+      " Occupy",
+      " Colleague",
+      " Anxious",
+      " Show somebody around",
+      " Acquainted",
+      " Keen"
+    ],
+    "phonetics": "/ə/ and /ɜː/",
+    "grammar": "S+to be+the adj-est/ the most adj +N (superlatives); Show up; How careless of you; S + to be/get+adj"
+  },
+  {
+    "country": "Singapore",
+    "countryId": 32,
+    "city": "Singapore",
+    "cityId": 32,
+    "districtName": "Marina Bay Sands",
+    "districtId": "32-Marina Bay Sands",
+    "topic": "W47: International working environment",
+    "subject": "Meeting people at a conference",
+    "vocabulary": [
+      "Conference",
+      " Foreign",
+      " Partner",
+      " Contract",
+      " Decorate",
+      " Elegantly"
+    ],
+    "phonetics": "/ʧ/ and /t/",
+    "grammar": "exchange St with Sb"
+  },
+  {
+    "country": "Singapore",
+    "countryId": 32,
+    "city": "Singapore",
+    "cityId": 32,
+    "districtName": "Marina Bay Sands",
+    "districtId": "32-Marina Bay Sands",
+    "topic": "W47: International working environment",
+    "subject": "Asking for a leave of absence",
+    "vocabulary": [
+      "Figure out",
+      " Transparent",
+      " Suffer",
+      " Notify",
+      " Key",
+      " Demonstrate"
+    ],
+    "phonetics": "/æ/ and /e/",
+    "grammar": "Excuse me, can I have a moment of your time?; I was wondering if you would like + to V"
+  },
+  {
+    "country": "Singapore",
+    "countryId": 32,
+    "city": "Singapore",
+    "cityId": 32,
+    "districtName": "Marina Bay Sands",
+    "districtId": "32-Marina Bay Sands",
+    "topic": "W47: International working environment",
+    "subject": "Let's do lunch",
+    "vocabulary": [
+      "Lunch",
+      " Restaurant",
+      " Sandwich",
+      " Expensive",
+      " Hopefully"
+    ],
+    "phonetics": "/ɪ/ and /iː/",
+    "grammar": "Have you finished ....; It is about + distance+ from...to...."
+  },
+  {
+    "country": "Singapore",
+    "countryId": 32,
+    "city": "Singapore",
+    "cityId": 32,
+    "districtName": "Sentosa ",
+    "districtId": "32-Sentosa ",
+    "topic": "W43: At the cinema",
+    "subject": "Watching movies at the cinema or at home",
+    "vocabulary": [
+      "Release",
+      " Premiere",
+      " Scream",
+      " Screen",
+      " Be into something"
+    ],
+    "phonetics": "/t/ and /d/",
+    "grammar": "Like/love + Ving/N; S + V + adj/adv + er + than + N/pronoun"
+  },
+  {
+    "country": "Singapore",
+    "countryId": 32,
+    "city": "Singapore",
+    "cityId": 32,
+    "districtName": "Sentosa ",
+    "districtId": "32-Sentosa ",
+    "topic": "W43: At the cinema",
+    "subject": "Buying movie tickets online",
+    "vocabulary": [
+      "Seat",
+      " Sold out",
+      " Purchase",
+      " Showing",
+      " Available",
+      " Confirmation",
+      " Redeem"
+    ],
+    "phonetics": "/ʧ/ and /t/",
+    "grammar": "Avoid + Ving; let + Sb + V(inf)"
+  },
+  {
+    "country": "Singapore",
+    "countryId": 32,
+    "city": "Singapore",
+    "cityId": 32,
+    "districtName": "Sentosa ",
+    "districtId": "32-Sentosa ",
+    "topic": "W43: At the cinema",
+    "subject": "Inviting your friends to the cinema",
+    "vocabulary": [
+      "Up to",
+      " Stuff",
+      " Go out",
+      " Comedy",
+      " Look forward to",
+      " Pick somebody up"
+    ],
+    "phonetics": "/ɪ/ and /i:/",
+    "grammar": "S + am/ is/ are going to V; Would + S + like + to V?"
+  },
+  {
+    "country": "Singapore",
+    "countryId": 32,
+    "city": "Singapore",
+    "cityId": 32,
+    "districtName": "Sentosa ",
+    "districtId": "32-Sentosa ",
+    "topic": "W43: At the cinema",
+    "subject": "What kind of movies do you like to see at the cinema?",
+    "vocabulary": [
+      "Sequel",
+      " Science fiction",
+      " Comedy",
+      " Adventure",
+      " Release"
+    ],
+    "phonetics": "/b/ and /p/",
+    "grammar": "Especially; What about/How about + N/Ving St?"
+  },
+  {
+    "country": "Singapore",
+    "countryId": 32,
+    "city": "Singapore",
+    "cityId": 32,
+    "districtName": "Sentosa ",
+    "districtId": "32-Sentosa ",
+    "topic": "W43: At the cinema",
+    "subject": "How often do you go to the cinema?",
+    "vocabulary": [
+      "Romantic",
+      " Horror",
+      " Genre",
+      " Seldom",
+      " Complain",
+      " Interest"
+    ],
+    "phonetics": "/æ/ and /e/",
+    "grammar": "How often + do/does + S + V(inf)?"
+  },
+  {
+    "country": "Singapore",
+    "countryId": 32,
+    "city": "Singapore",
+    "cityId": 32,
+    "districtName": "Sentosa ",
+    "districtId": "32-Sentosa ",
+    "topic": "W43: At the cinema",
+    "subject": "What movies are playing this week?",
+    "vocabulary": [
+      "Independence Day",
+      " Sequel",
+      " Ice Age",
+      " Plan",
+      " Convenient",
+      " Wonderful"
+    ],
+    "phonetics": "/ɔ:/ and /ɑː/",
+    "grammar": "S+is/ am/ are+Ving (present continuous); pick Sb up"
+  },
+  {
+    "country": "Singapore",
+    "countryId": 32,
+    "city": "Singapore",
+    "cityId": 32,
+    "districtName": "Sentosa ",
+    "districtId": "32-Sentosa ",
+    "topic": "W43: At the cinema",
+    "subject": "Problems at the cinema",
+    "vocabulary": [
+      "Manners",
+      " Irritation",
+      " Piss somebody off",
+      " Slurp",
+      " Dramatic",
+      " Whisper"
+    ],
+    "phonetics": "/s/ and /ʃ/",
+    "grammar": "S+ have/has + V(ed/p2) (present perfect)"
+  }
+]
